@@ -1,0 +1,855 @@
+_id,articleId,customerName,isCategory,nGramCnt,origCount,origSentence,scores.betweeness,scores.closeness,scores.degree,scores.fromBegScore,scores.isInTag-a,scores.isInTag-b,scores.isInTag-h1,scores.isInTag-h2,scores.isInTag-h3,scores.isInTag-h4,scores.isInTag-h5,scores.isInTag-h6,scores.isInTag-i,scores.isInTag-strong,scores.isInTitle,scores.load,scores.originalPhrase,scores.relDocsRatio,scores.relTermsRatio,scores.relVsIrrelDocs,scores.relVsIrrelTerms,scores.relevance,stem,stemCount,termOccurrence
+5ac21cbbfffa760008741c19,116820,MIT_AthleticTrainers,,2,2,sports medicine,0.268858686,2.434226703,1.893287435,0.207253886,,,,,,,,,,,,0.268858686,sports medicine,0.780293758,0.813253012,3.551532033,4.35483871,0.577899,sport medicin,2,3
+5ac21cbcfffa760008741c1c,116820,MIT_AthleticTrainers,,3,1,Athletic Training Services,,,,0.124079629,,,,,,,,,,,,,,0.756756757,0.782894737,3.111111111,3.606060606,0.575137,athlet train servic,1,3
+5ac21cbcfffa760008741c1e,116820,MIT_AthleticTrainers,,3,1,sports medicine team,,,,0.179710935,,,,,,,,,,,,,,0.75,0.763636364,3,3.230769231,0.576798,sport medicin team,1,2
+5ac21cbcfffa760008741c20,116820,MIT_AthleticTrainers,,2,,Adam Elberg,,,1.204819277,0.638396509,,,,,,,,,,,,,Adam Elberg,1,1,2,3,0.543108,adam elberg,,2
+5ac21cbcfffa760008741c22,116820,MIT_AthleticTrainers,,2,,Central Massachusetts,,,0.860585198,0,,,,,,,,,,,1,,Central Massachusetts,0,0,0,0,0.55591,central massachusett,,2
+5ac21cbdfffa760008741c24,116820,MIT_AthleticTrainers,,2,,Ed Ramsey,,,1.204819277,0.823288792,,,,,,,,,,,,,Ed Ramsey,,,,,0.576803,ed ramsei,,2
+5ac21cbdfffa760008741c25,116820,MIT_AthleticTrainers,,2,,New England,,1.95587545,1.204819277,0.977092992,,,,,,,,,1,,,,New England,0.367256637,0.352750809,0.58041958,0.545,0.638817,new england,,2
+5ac21cbdfffa760008741c26,116820,MIT_AthleticTrainers,,2,,New Hampshire,0.217817081,1.703958692,,0.492773384,,,,,,,,,,,,0.217817081,New Hampshire,0.455696203,0.470588235,0.837209302,0.888888889,0.587045,new hampshir,,2
+5ac21cbdfffa760008741c27,116820,MIT_AthleticTrainers,,2,,New Jersey,0.198824856,,,0.370057268,,,,,,,,,,,,0.198824856,New Jersey,0.441176471,0.480417755,0.789473684,0.924623116,0.553142,new jersei,,2
+5ac21cbdfffa760008741c28,116820,MIT_AthleticTrainers,,2,,Northern Connecticut,0.217817081,1.703958692,,0.48786474,,,,,,,,,,,,0.217817081,Northern Connecticut,,,,,0.544645,northern connecticut,,2
+5ac21cbefffa760008741c29,116820,MIT_AthleticTrainers,,3,,ProEx Physical Therapy,,1.654971534,1.204819277,0.831469866,,,,,,,,,,,,,ProEx Physical Therapy,1,1,3,5,0.711792,proex physic therapi,,2
+5ac21cbefffa760008741c2a,116820,MIT_AthleticTrainers,,3,,Professional Physical Therapy,0.306249629,1.95587545,1.376936317,0.943005181,,,,,,,,,,,1,0.306249629,Professional Physical Therapy,0.692307692,0.904761905,2.25,9.5,0.978483,profession physic therapi,,2
+5ac21cbefffa760008741c2c,116820,MIT_AthleticTrainers,,2,,Ramsey Rehab,0.363226304,,1.204819277,0.902917917,,,,,,,,,,,1,0.363226304,Ramsey Rehab,,,,,0.740263,ramsei rehab,,2
+5ac21cbefffa760008741c2e,116820,MIT_AthleticTrainers,,2,,class care,,,,0.596400327,,,,,,,,,,,,,,0,0,0,0,0.545729,class care,,2
+5ac21cbefffa760008741c30,116820,MIT_AthleticTrainers,,2,,patient care,,,1.204819277,0.548677393,,,,,,,,,,,,,patient care,0.474418605,0.487455197,0.902654867,0.951048951,0.5466,patient care,,2
+5ac21cbffffa760008741c32,116820,MIT_AthleticTrainers,,2,,service excellence,0.182800166,1.930005737,1.204819277,0.689391873,,,,,,,,,,,,0.182800166,service excellence,0.8,0.8,4,4,0.547234,servic excel,,2
+5ac21cbafffa760008741c10,116839,MIT_AthleticTrainers,,3,1,high school athletes,,,,0.44504749,,,,,,,,,,,,,,0.792253521,0.800959233,3.813559322,4.024096386,0.588491,high school athlet,1,2
+5ac21cbafffa760008741c11,116839,MIT_AthleticTrainers,,2,4,injury prevention,,,,0.13003166,,,,,,,,,,,,,,0.769485904,0.8,3.338129496,4,,injuri prevent,4,2
+5ac21cbafffa760008741c12,116839,MIT_AthleticTrainers,,2,1,lower extremity,,,,0.627091814,,,,,,,,,,,,,,0.85620915,0.904059041,5.954545455,9.423076923,0.474105,lower extrem,1,2
+5ac21cbafffa760008741c13,116839,MIT_AthleticTrainers,,3,2,injury prevention programs,,,,0.090682949,,,,,,,,,,,,,,0.94,0.975409836,15.66666667,39.66666667,0.538995,injuri prevent program,3,2
+5ac21cbafffa760008741c14,116839,MIT_AthleticTrainers,,2,2,prevention programs,0.139355973,1.467735777,,0.779059249,,,,,,,,,,,,0.139355973,prevention programs,0.818181818,0.911458333,4.5,10.29411765,,prevent program,3,2
+5ac21cbbfffa760008741c15,116839,MIT_AthleticTrainers,,3,2,Sport Related Injury,,,,0,,,,,,,,,,,,,,0.886597938,0.899082569,7.818181818,8.909090909,0.50416,sport relat injuri,5,2
+5ac21cbbfffa760008741c16,116839,MIT_AthleticTrainers,,2,1,sports participation,0.100670403,1.459459459,,0.7578019,,,,,,,,,,,,0.100670403,sports participation,0.943181818,0.959677419,16.6,23.8,0.473827,sport particip,1,3
+5ac21cbbfffa760008741c17,116839,MIT_AthleticTrainers,,2,,Foss KDB,,,0.888888889,0.963138851,,,,,,,,,,,,,Foss KDB,,,,,0.485158,foss kdb,,2
+5ac21cbbfffa760008741c18,116839,MIT_AthleticTrainers,,2,,Hewett TE,,,0.888888889,0.954093171,,,,,,,,,,,,,Hewett TE,0.5,0.5,1,1,0.48258,hewett te,,2
+5ac21cbbfffa760008741c1a,116839,MIT_AthleticTrainers,,2,,Home Message,,,,0.931931253,,,,,,,,,1,,,,,0.923076923,0.923076923,12,12,0.481766,home messag,,2
+5ac21cbcfffa760008741c1b,116839,MIT_AthleticTrainers,,2,,Khoury JC,,,0.888888889,0.958616011,,,,,,,,,,,,,Khoury JC,,,,,0.483825,khouri jc,,2
+5ac21cbcfffa760008741c1d,116839,MIT_AthleticTrainers,,2,,Myer GD,,,0.888888889,0.956128449,,,,,,,,,,,,,Myer GD,0.75,0.6,3,1.5,0.485486,myer gd,,2
+5ac21cbcfffa760008741c1f,116839,MIT_AthleticTrainers,,2,,Neuromuscular Training,,,,0.995251018,,,,,,,,,1,,,,,0.818181818,0.842105263,4.5,5.333333333,0.944477,neuromuscular train,,2
+5ac21cbcfffa760008741c21,116839,MIT_AthleticTrainers,,2,,Randomized Trial,,,,0,,,,,,,,,,,,,,0.947368421,0.954545455,18,21,0.49209,random trial,,2
+5ac21cbcfffa760008741c23,116839,MIT_AthleticTrainers,,4,,Sport Related Injury Incidence,,,0.888888889,0,,,,,,,,,,,,,Sport Related Injury Incidence,,,,,0.715461,sport relat injuri incid,,2
+5ac21caafffa760008741be4,116850,MIT_AthleticTrainers,,3,1,high school athletes,,,,0.29198372,,,,,,,,,,,,,,0.792253521,0.800959233,3.813559322,4.024096386,0.549108,high school athlet,2,2
+5ac21caafffa760008741be6,116850,MIT_AthleticTrainers,,3,2,certified athletic trainer,,,,0.535657406,,,,,,,,,,,,,,0.790170132,0.814285714,3.765765766,4.384615385,0.704742,certifi athlet trainer,2,2
+5ac21caafffa760008741be8,116850,MIT_AthleticTrainers,,3,2,athletic training profession,,,,0.691028137,,,,,,,,,,,,,,0.926605505,0.948051948,12.625,18.25,0.676704,athlet train profess,2,2
+5ac21caafffa760008741bea,116850,MIT_AthleticTrainers,,3,3,Athletic Trainers Society,,,,0.815430897,,,,,,,,,,,1,,,0.801886792,0.841059603,4.047619048,5.291666667,0.816523,athlet trainer societi,3,2
+5ac21caafffa760008741bec,116850,MIT_AthleticTrainers,,2,,Athletic Training,,,,0.791010441,,,,,,,,,,,1,,,0.619864237,0.729938543,1.630639098,2.702860858,0.793154,athlet train,,2
+5ac21cabfffa760008741bf0,116850,MIT_AthleticTrainers,,2,,East Tennessee,,,,0.193947974,,,,,,,,,,,,,,0.647058824,0.681818182,1.833333333,2.142857143,0.471174,east tennesse,,2
+5ac21cabfffa760008741bf2,116850,MIT_AthleticTrainers,,2,,Jefferson City,,,0.935672515,0.467527871,,,,,,,,,,,,,Jefferson City,0.5,0.428571429,1,0.75,0.472298,jefferson citi,,2
+5ac21cabfffa760008741bf4,116850,MIT_AthleticTrainers,,3,,Knoxville Orthopedic Clinic,0.100524535,,,0.376039639,,,,,,,,,,,,0.100524535,Knoxville Orthopedic Clinic,1,1,1,1,0.530165,knoxvil orthoped clinic,,2
+5ac21cacfffa760008741bf5,116850,MIT_AthleticTrainers,,3,,Lincoln Memorial University,,,,0.439745178,,,,,,,,,,,,,,0,0,0,0,0.537171,lincoln memori univers,,2
+5ac21cacfffa760008741bf6,116850,MIT_AthleticTrainers,,2,,Middle Tennessee,,,,0.179083348,,,,,,,,,,,,,,0.375,0.372093023,0.6,0.592592593,0.472299,middl tennesse,,2
+5ac21cacfffa760008741bf7,116850,MIT_AthleticTrainers,,3,,Rutledge High School,,,,0.366306848,,,,,,,,,,,,,,,,,,0.553183,rutledg high school,,2
+5ac21cacfffa760008741bf8,116850,MIT_AthleticTrainers,,2,,Scott Byrd,,,0.935672515,0.996814723,,,,,,,,,,,,,Scott Byrd,1,1,1,1,0.760426,scott byrd,,2
+5ac21ca8fffa760008741bde,116869,MIT_AthleticTrainers,,2,1,Sports Medicine,,,,0.64142539,,,,,,,,,,,,,,0.780293758,0.813253012,3.551532033,4.35483871,,sport medicin,2,2
+5ac21ca9fffa760008741bdf,116869,MIT_AthleticTrainers,,3,1,high school athletes,,,,0.135857461,,,,,,,,,,,,,,0.792253521,0.800959233,3.813559322,4.024096386,0.347511,high school athlet,1,2
+5ac21ca9fffa760008741be0,116869,MIT_AthleticTrainers,,3,2,athletic training services,,,,0.920935412,,,,,,,,,,,,,,0.756756757,0.782894737,3.111111111,3.606060606,0.57341,athlet train servic,2,2
+5ac21ca9fffa760008741be1,116869,MIT_AthleticTrainers,,2,,Berry Stadium,0.134026672,1.341805031,0.778642937,0.942650334,,,,,,,,,,,,0.134026672,Berry Stadium,,,,,0.498003,berri stadium,,2
+5ac21ca9fffa760008741be2,116869,MIT_AthleticTrainers,,2,,Brian Strong,,,,0.689123979,,,,,,,,,,,,,,,,,,0.256896,brian strong,,2
+5ac21ca9fffa760008741be3,116869,MIT_AthleticTrainers,,3,,CEO Perry Gay,,,,0.76095026,,,,,,,,,,,,,,,,,,0.335943,ceo perri gai,,2
+5ac21caafffa760008741be5,116869,MIT_AthleticTrainers,,2,,Corp. athletes,,,,0.856347439,,,,,,,,,,,,,,,,,,0.235096,corp athlet,,2
+5ac21caafffa760008741be7,116869,MIT_AthleticTrainers,,2,,Fran Ruchalski,,,0.778642937,0.95081663,,,,,,,,,,,,,Fran Ruchalski,,,,,0.378785,fran ruchalski,,2
+5ac21caafffa760008741be9,116869,MIT_AthleticTrainers,,3,,Indiana Sports Medicine,,,,0.642910171,,,,,,,,,,,,,,,,,,0.337286,indiana sport medicin,,2
+5ac21caafffa760008741beb,116869,MIT_AthleticTrainers,,2,,LMH President,,,,0.764291017,,,,,,,,,,,,,,,,,,0.4613,lmh presid,,2
+5ac21caafffa760008741bed,116869,MIT_AthleticTrainers,,2,,LMH banners,,,,0.363585746,,,,,,,,,,,,,,,,,,0.436859,lmh banner,,2
+5ac21cabfffa760008741bee,116869,MIT_AthleticTrainers,,3,,Logansport Memorial Hospital,0.099590983,1.627267973,0.778642937,0.936896808,,,,,,,,,,,,0.099590983,Logansport Memorial Hospital,,,,,0.978727,logansport memori hospit,,2
+5ac21cabfffa760008741bef,116869,MIT_AthleticTrainers,,2,,Logansport athletes,,,,0.593170007,,,,,,,,,,,,,,,,,,0.487399,logansport athlet,,2
+5ac21cabfffa760008741bf1,116869,MIT_AthleticTrainers,,2,,Logansport schools,,,,0.746288048,,,,,,,,,,,,,,,,,,0.577829,logansport school,,2
+5ac21cabfffa760008741bf3,116869,MIT_AthleticTrainers,,2,,Logansport sports,,,,0.912583519,,,,,,,,,,,,,,,,,,0.545151,logansport sport,,2
+5ac21cbefffa760008741c2b,116883,MIT_AthleticTrainers,,2,1,recovery time,,,,0.178062678,,,,,,,,,,,,,,0.788888889,0.824,3.736842105,4.681818182,,recoveri time,1,2
+5ac21cbefffa760008741c2d,116883,MIT_AthleticTrainers,,2,1,overuse injuries,0.027224002,,,0.072916667,,,,,,,,,,,,0.027224002,overuse injuries,0.859813084,0.884848485,6.133333333,7.684210526,0.230843,overus injuri,1,2
+5ac21cbefffa760008741c2f,116883,MIT_AthleticTrainers,,2,3,stress fracture,,,0.456852792,0.862713675,,,,,,,,,,,,,stress fractures,0.731958763,0.828054299,2.730769231,4.815789474,0.272062,stress fractur,5,3
+5ac21cbefffa760008741c31,116883,MIT_AthleticTrainers,,3,,Bone Stress Injury,,,,0,,,,,,,,,,1,1,,,0.666666667,0.714285714,2,2.5,0.972023,bone stress injuri,,2
+5ac21cbffffa760008741c33,116883,MIT_AthleticTrainers,,2,,Bone health,,,0.507614213,0.096064815,,,,,,,,,,1,,,bone health,0.6,0.566666667,1.5,1.307692308,0.319597,bone health,,2
+5ac21cbffffa760008741c34,116883,MIT_AthleticTrainers,,2,,Great Expectations,,,,0.976139601,,,,,,,,,,1,1,,,0,0,0,0,0.245573,great expect,,2
+5ac21cbffffa760008741c35,116883,MIT_AthleticTrainers,,3,,Professor Stuart Warden,,,,0.964031339,,,,,,,,,,1,,,,,,,,0.248021,professor stuart warden,,2
+5ac21cbffffa760008741c36,116883,MIT_AthleticTrainers,,2,,bone pain,,,,0.681445869,,,,,,,,,,,,,,0.666666667,0.666666667,2,2,0.31285,bone pain,,2
+5ac21cbffffa760008741c37,116883,MIT_AthleticTrainers,,2,,bone reactions,,,0.456852792,0.856926638,,,,,,,,,,,,,bone reactions,,,,,0.310578,bone reaction,,2
+5ac21cc0fffa760008741c38,116883,MIT_AthleticTrainers,,2,,bone stimulators,,,,0.2127849,,,,,,,,,,,,,,,,,,0.287632,bone stimul,,2
+5ac21c96fffa760008741bcc,116897,MIT_AthleticTrainers,,2,1,Sports Medicine,,,,0.391644909,,,,,,,,,,,,,,0.780293758,0.813253012,3.551532033,4.35483871,0.453188,sport medicin,1,3
+5ac21c97fffa760008741bcd,116897,MIT_AthleticTrainers,,2,2,concussion management,,2.715319506,,0.674002238,,,,,,,,,,,,,concussion management,0.942307692,0.959558824,16.33333333,23.72727273,0.642534,concuss manag,2,3
+5ac21c97fffa760008741bce,116897,MIT_AthleticTrainers,,2,,Barry French,,2.494472084,1.990049751,0.738903394,,,,,,,,,,,,,Barry French,1,1,1,1,0.467321,barri french,,2
+5ac21c97fffa760008741bcf,116897,MIT_AthleticTrainers,,2,,Barry Sanders,0.517363308,2.591210614,1.492537313,0.328235733,,,,,,,,,,,,0.517363308,Barry Sanders,0,0,0,0,0.453524,barri sander,,2
+5ac21c97fffa760008741bd0,116897,MIT_AthleticTrainers,,2,,Gait Speed,,2.850156,2.487562189,0.430436404,,,,,,,,,,,,,Gait Speed,0.5,0.5,1,1,0.461957,gait speed,,2
+5ac21c97fffa760008741bd1,116897,MIT_AthleticTrainers,,2,,Heart Rate,,2.850156,2.487562189,0.420365535,,,,,,,,,,,,,Heart Rate,0.440806045,0.365600691,0.788288288,0.576294278,0.44811,heart rate,,2
+5ac21c98fffa760008741bd2,116897,MIT_AthleticTrainers,,2,,Jeff Allen,,,,0.407310705,,,,,,,,,,,,,,0.565217391,0.607142857,1.3,1.545454545,0.446079,jeff allen,,2
+5ac21c98fffa760008741bd3,116897,MIT_AthleticTrainers,,2,,NFL Hall,0.517363308,2.591210614,1.492537313,0.322640806,,,,,,,,,,,,0.517363308,NFL Hall,0.875,0.875,7,7,0.446837,nfl hall,,2
+5ac21c98fffa760008741bd4,116897,MIT_AthleticTrainers,,2,,Vertical Leap,,2.850156,2.487562189,0.425960463,,,,,,,,,,,,,Vertical Leap,0.8,0.777777778,4,3.5,0.452932,vertic leap,,2
+5ac21c98fffa760008741bd5,116897,MIT_AthleticTrainers,,1,,ability,,2.850156,2.487562189,0.703468855,,,,,,,,,,,,,ability,0.514851485,0.514587738,1.06122449,1.06010453,0.374701,abil,,2
+5ac21c99fffa760008741bd6,116897,MIT_AthleticTrainers,,2,,athlete development,0.899492562,2.947348565,1.741293532,0.294666169,,,,,,,,,,,,0.899492562,athlete development,0.76146789,0.738255034,3.192307692,2.820512821,0.460544,athlet develop,,2
+5ac21c99fffa760008741bd7,116897,MIT_AthleticTrainers,,2,,balance training,,,,0.623274897,,,,,,,,,,,,,,0.75,0.727272727,3,2.666666667,0.457114,balanc train,,2
+5ac21c99fffa760008741bd8,116897,MIT_AthleticTrainers,,1,,brain,0.779146661,3.427534459,1.990049751,0.69153301,,,,,,,,,,,,0.779146661,brain,0.652388797,0.744244105,1.876777251,2.909978308,0.349588,brain,,2
+5ac21c99fffa760008741bd9,116897,MIT_AthleticTrainers,,2,,caloric expenditure,0.540936217,,,0.065647147,,,,,,,,,,,,0.540936217,caloric expenditure,0.25,0.142857143,0.333333333,0.166666667,0.473404,calor expenditur,,2
+5ac21c9afffa760008741bda,116897,MIT_AthleticTrainers,,2,,fall prevention,,,,0.007459903,,,,,,,,,,,,,,0.571428571,0.533333333,1.333333333,1.142857143,0.440889,fall prevent,,2
+5ac21c9afffa760008741bdb,116897,MIT_AthleticTrainers,,2,,football players,,,,0.832152182,,,,,,,,,,,,,,0.706919946,0.718524459,2.412037037,2.552706553,0.467869,footbal player,,2
+5ac21c9afffa760008741bdc,116897,MIT_AthleticTrainers,,2,,jump height,0.540936217,,,0.080566953,,,,,,,,,,,,0.540936217,jump height,0.769230769,0.842105263,3.333333333,5.333333333,0.449635,jump height,,2
+5ac21c9afffa760008741bdd,116897,MIT_AthleticTrainers,,2,,performance training,0.779146661,3.427534459,1.990049751,0.663931369,,,,,,,,,,,,0.779146661,performance training,0.696629213,0.617021277,2.296296296,1.611111111,0.472436,perform train,,2
+5ac21c8ffffa760008741ba6,116898,MIT_AthleticTrainers,,2,2,sports medicine,0.20366097,1.983805668,,0.709125475,,,,,,,,,,,,0.20366097,sports medicine,0.780293758,0.813253012,3.551532033,4.35483871,0.38551,sport medicin,2,3
+5ac21c90fffa760008741ba8,116898,MIT_AthleticTrainers,,3,4,certified athletic trainer,,,,0.890684411,,,,,,,,,,,1,,,0.790170132,0.814285714,3.765765766,4.384615385,0.680953,certifi athlet trainer,6,3
+5ac21c90fffa760008741ba9,116898,MIT_AthleticTrainers,,2,1,injury prevention,,,,0.588403042,,,,,,,,,,,,,,0.769485904,0.8,3.338129496,4,,injuri prevent,1,2
+5ac21c90fffa760008741bab,116898,MIT_AthleticTrainers,,2,1,baseline testing,0.24718529,2.300579932,1.821862348,0.170785805,,,,,,,,,,,,0.24718529,baseline testing,0.950310559,0.968858131,19.125,31.11111111,0.34001,baselin test,1,3
+5ac21c90fffa760008741bac,116898,MIT_AthleticTrainers,,2,1,team physicians,0.206945825,,,0.287705957,,,,,,,,,,,,0.206945825,team physicians,0.756302521,0.778074866,3.103448276,3.506024096,0.340711,team physician,1,3
+5ac21c91fffa760008741bae,116898,MIT_AthleticTrainers,,3,1,athletic training services,,,,0.106463878,,,,,,,,,,,,,,0.756756757,0.782894737,3.111111111,3.606060606,0.379075,athlet train servic,1,2
+5ac21c91fffa760008741baf,116898,MIT_AthleticTrainers,,2,1,Concussion Awareness,,,,0.2126109,,,,,,,,,,,,,,0.987341772,0.990825688,78,108,,concuss awar,1,2
+5ac21c91fffa760008741bb1,116898,MIT_AthleticTrainers,,2,1,concussion research,0.20366097,1.983805668,,0.697084918,,,,,,,,,,,,0.20366097,concussion research,0.932432432,0.935185185,13.8,14.42857143,0.373756,concuss research,1,3
+5ac21c91fffa760008741bb3,116898,MIT_AthleticTrainers,,3,,Forest Baptist Health,0.26771563,1.885207524,1.417004049,0.779467681,,,,,,,,,,,,0.26771563,Forest Baptist Health,0.5,0.166666667,1,0.2,0.396698,forest baptist health,,2
+5ac21c92fffa760008741bb4,116898,MIT_AthleticTrainers,,3,,Lexington City Schools,,1.912232504,1.417004049,0.902091255,,,,,,,,,,,,,Lexington City Schools,0,0,0,0,0.402147,lexington citi school,,2
+5ac21c92fffa760008741bb6,116898,MIT_AthleticTrainers,,2,,Ronnie Beverly,,2.005509412,,0.556400507,,,,,,,,,,,,,Ronnie Beverly,,,,,0.342943,ronni beverli,,2
+5ac21c92fffa760008741bb8,116898,MIT_AthleticTrainers,,2,,Sharon Myers,,,1.619433198,0.929974651,,,,,,,,,,,,,Sharon Myers,,,,,0.388632,sharon myer,,2
+5ac21c92fffa760008741bba,116898,MIT_AthleticTrainers,,3,,Wake Forest Baptist,0.332591504,2.136984014,1.821862348,0.919201521,,,,,,,,,,,,0.332591504,Wake Forest Baptist,0.888888889,0.529411765,8,1.125,0.929273,wake forest baptist,,2
+5ac21c92fffa760008741bbc,116898,MIT_AthleticTrainers,,2,,Wilkes County,0.29974296,,1.417004049,0.806717364,,,,,,,,,,,,0.29974296,Wilkes County,0,0,0,0,0.424473,wilk counti,,2
+5ac21c93fffa760008741bbd,116898,MIT_AthleticTrainers,,1,,caption,,,,0.945183777,,,,,,,,,,,,,,0.405063291,0.388429752,0.680851064,0.635135135,0.309897,caption,,2
+5ac21c93fffa760008741bbf,116898,MIT_AthleticTrainers,,2,,concussion programs,0.24718529,2.300579932,1.821862348,0.268377693,,,,,,,,,,,,0.24718529,concussion programs,0.853658537,0.86,5.833333333,6.142857143,0.391121,concuss program,,2
+5ac21c93fffa760008741bc0,116898,MIT_AthleticTrainers,,1,,concussions,,1.891587944,1.214574899,0.225918885,,,,,,,,,,,,,concussion,0.835714286,0.938765053,5.086956522,15.33054393,0.309533,concuss,,2
+5ac21c94fffa760008741bc2,116898,MIT_AthleticTrainers,,1,,expertise,,,1.214574899,0.655259823,,,,,,,,,,,,,expertise,0.526436782,0.553470919,1.111650485,1.239495798,0.314674,expertis,,2
+5ac21c94fffa760008741bc4,116898,MIT_AthleticTrainers,,1,,ext,,,1.619433198,0.662547529,,,,,,,,,,,,,ext,0.425,0.434782609,0.739130435,0.769230769,0.308906,ext,,2
+5ac21c94fffa760008741bc5,116898,MIT_AthleticTrainers,,1,,preseason,0.24718529,2.300579932,1.821862348,0.174271229,,,,,,,,,,,,0.24718529,preseason,0.525373134,0.422945205,1.106918239,0.732937685,0.308973,preseason,,2
+5ac21c94fffa760008741bc7,116898,MIT_AthleticTrainers,,2,,support services,0.332591504,2.004048583,1.821862348,0.321292776,,,,,,,,,,,,0.332591504,support services,0.25862069,0.314285714,0.348837209,0.458333333,0.340275,support servic,,2
+5ac21cd5fffa760008741c67,116925,MIT_AthleticTrainers,,3,3,traumatic brain injury,,,,0.484124019,,,,,,,,,,,,,,0.884422111,0.89010989,7.652173913,8.1,0.688195,traumat brain injuri,4,2
+5ac21cd5fffa760008741c68,116925,MIT_AthleticTrainers,,3,1,athletic training rooms,,,,0.694060516,,,,,,,,,,,,,,0.771428571,0.826732673,3.375,4.771428571,0.503624,athlet train room,1,2
+5ac21cd6fffa760008741c6a,116925,MIT_AthleticTrainers,,2,2,Brain Trauma,,,,0.938924169,,,,,,,,,,,,,,0.949152542,0.964705882,18.66666667,27.33333333,,brain trauma,3,2
+5ac21cd6fffa760008741c6b,116925,MIT_AthleticTrainers,,2,1,possible concussion,,,,0.882517744,,,,,,,,,,,,,,0.923076923,0.934782609,12,14.33333333,0.475477,possibl concuss,1,2
+5ac21cd6fffa760008741c6c,116925,MIT_AthleticTrainers,,2,,CT scans,0.209175519,1.435235719,0.929752066,0.894844976,,,,,,,,,,,,0.209175519,CT scans,0.82,0.851351351,4.555555556,5.727272727,0.934393,ct scan,,2
+5ac21cd6fffa760008741c6e,116925,MIT_AthleticTrainers,,3,,Col Kara Schmid,0.138453255,,,0,,,,,,,,,,,,0.138453255,Col Kara Schmid,,,,,0.501616,col kara schmid,,2
+5ac21cd6fffa760008741c6f,116925,MIT_AthleticTrainers,,3,,Henry L. Nordhoff,0.129693095,1.492284349,0.826446281,0.781471797,,,,,,,,,,,,0.129693095,Henry L. Nordhoff,,,,,0.531143,henri l nordhoff,,2
+5ac21cd7fffa760008741c71,116925,MIT_AthleticTrainers,,2,,blood testing,0.185672652,1.235177866,0.929752066,0,,,,,,,,,,,1,0.185672652,blood test,0.629032258,0.75,1.695652174,3,0.803469,blood test,,2
+5ac21cd7fffa760008741c73,116925,MIT_AthleticTrainers,,2,,brain lesions,0.161101473,1.302083333,,0.806499813,,,,,,,,,,,,0.161101473,brain lesions,1,1,2,3,0.491606,brain lesion,,2
+5ac21cd7fffa760008741c75,116925,MIT_AthleticTrainers,,2,,concussion sufferers,,,,0.385132611,,,,,,,,,,,,,,0.888888889,0.895833333,8,8.6,0.463127,concuss suffer,,2
+5ac21c8dfffa760008741b9b,116940,MIT_AthleticTrainers,,1,, @kttape,,,1.985111663,0.053513862,1,,,,,,,,,,,,KTTape,,,,,0.236949,kttape,,2
+5ac21c8dfffa760008741b9c,116940,MIT_AthleticTrainers,,1,, Committee,,,,0.669568021,,,,,,,,,,,,,,0.5375,0.611919612,1.162162162,1.576785714,0.239459,committe,,2
+5ac21c8efffa760008741b9d,116940,MIT_AthleticTrainers,,1,,Blast,,,1.488833747,0.738233398,,,,,,,,,,,,,Blast,0.306930693,0.296610169,0.442857143,0.421686747,0.242929,blast,,2
+5ac21c8efffa760008741b9e,116940,MIT_AthleticTrainers,,3,,CMO Russ Schledien,,,1.736972705,0.486137975,,,,,,,,,,,,,CMO Russ Schledien,,,,,0.666216,cmo russ schledien,,2
+5ac21c8efffa760008741b9f,116940,MIT_AthleticTrainers,,1,,Feb,,,1.736972705,0.014184397,,,,,,,,,,,,,Feb,0.357758621,0.343832021,0.55704698,0.524,0.241511,feb,,2
+5ac21c8efffa760008741ba0,116940,MIT_AthleticTrainers,,1,,FinishStronger,,,,0.058027079,1,,,,,,,,,,,,,,,,,0.236971,finishstrong,,2
+5ac21c8efffa760008741ba1,116940,MIT_AthleticTrainers,,2,,KT Tape,0.456773206,2.714019851,1.985111663,0.763700838,,,,,,,,,,,,0.456773206,KT Tape,1,1,5,32,0.813366,kt tape,,2
+5ac21c8ffffa760008741ba2,116940,MIT_AthleticTrainers,,2,,Mirai Nagasu,,,1.240694789,0.914893617,,,,,,,,,,1,1,,Mirai Nagasu,,,,,0.943481,mirai nagasu,,2
+5ac21c8ffffa760008741ba3,116940,MIT_AthleticTrainers,,1,,Monday,0.398750664,2.220113852,1.240694789,0.819793681,,,,,,,,,,,,0.398750664,Monday,0.330417881,0.303384615,0.493468795,0.435512367,0.238554,mondai,,2
+5ac21c8ffffa760008741ba4,116940,MIT_AthleticTrainers,,1,,PST,,,1.736972705,0.006769826,,,,,,,,,,,,,PST,0.166666667,0.025,0.2,0.025641026,0.252458,pst,,2
+5ac21c8ffffa760008741ba5,116940,MIT_AthleticTrainers,,1,,Sponsorship,,,1.240694789,0,,,,,,,,,,,1,,Sponsorship,0.404040404,0.34751773,0.677966102,0.532608696,0.251923,sponsorship,,2
+5ac21c90fffa760008741ba7,116940,MIT_AthleticTrainers,,1,,Team,,,,0.943584784,,,,,,,,,,1,,,,0.473501462,0.448197851,0.899340507,0.812243757,0.24446,team,,2
+5ac21c90fffa760008741baa,116940,MIT_AthleticTrainers,,1,,board,,,,0.655383623,,,,,,,,,,,,,,0.483516484,0.452242905,0.936170213,0.825626741,0.239368,board,,2
+5ac21c91fffa760008741bad,116940,MIT_AthleticTrainers,,1,,company,0.282705579,2.584190004,1.736972705,0.694390716,,,,,,,,,,,1,0.282705579,company,0.409395973,0.339717425,0.693181818,0.514503091,0.283763,compani,,2
+5ac21c91fffa760008741bb0,116940,MIT_AthleticTrainers,,1,,confidence,,,1.488833747,0.074468085,1,,,,,,,,,,,,confidence,0.448654038,0.420269313,0.813743219,0.724938875,0.239696,confid,,2
+5ac21c91fffa760008741bb2,116940,MIT_AthleticTrainers,,1,,credit,,,,0.303352676,,,,,,,,,,,,,,0.38961039,0.365317919,0.638297872,0.575591985,0.23734,credit,,2
+5ac21c92fffa760008741bb5,116940,MIT_AthleticTrainers,,1,,fan,,,,0.461960026,,,,,,,,,,,,,,0.343201754,0.335048232,0.522537563,0.503868472,0.238736,fan,,2
+5ac21c92fffa760008741bb7,116940,MIT_AthleticTrainers,,1,,gold,,,1.985111663,0.901031593,,,,,,,,,,,,,gold,0.314479638,0.245333333,0.458745875,0.325088339,0.242348,gold,,2
+5ac21c92fffa760008741bb9,116940,MIT_AthleticTrainers,,1,,green,,,,0.87040619,,,,,,,,,,,,,,0.284759358,0.310801394,0.398130841,0.450960566,0.241513,green,,2
+5ac21c92fffa760008741bbb,116940,MIT_AthleticTrainers,,1,,introductions,,2.50927036,,0.224693746,,,,,,,,,,,,,introductions,0.561403509,0.542635659,1.28,1.186440678,0.238564,introduct,,2
+5ac21c93fffa760008741bbe,116940,MIT_AthleticTrainers,,1,,numbers,0.403688752,2.62043296,,0.33172147,,,,,,,,,,,,0.403688752,numbers,0.485059353,0.500757576,0.941971383,1.003034901,0.237466,number,,2
+5ac21c93fffa760008741bc1,116940,MIT_AthleticTrainers,,1,,post,,,,0.255319149,,,,,,,,,,,,,,0.476597886,0.484389782,0.910576923,0.939449541,0.239434,post,,2
+5ac21c94fffa760008741bc3,116940,MIT_AthleticTrainers,,1,,products,,,,0.458413926,1,,,,,,,,,,,,,0.374705882,0.368640751,0.599247413,0.583884298,0.238702,product,,2
+5ac21c94fffa760008741bc6,116940,MIT_AthleticTrainers,,1,,sales,,,,0.372018053,,,,,,,,,,,,,,0.303652968,0.295067265,0.436065574,0.418575064,0.274882,sale,,2
+5ac21c94fffa760008741bc8,116940,MIT_AthleticTrainers,,1,,spike,,,,0.374919407,,,,,,,,,,,,,,0.325757576,0.329341317,0.483146067,0.491071429,0.258764,spike,,2
+5ac21c95fffa760008741bc9,116940,MIT_AthleticTrainers,,1,,trainer,,2.50927036,,0.977111541,1,,,,,,,,,,,,trainer,0.565592534,0.694600119,1.301986218,2.274395509,0.284258,trainer,,2
+5ac21c95fffa760008741bca,116940,MIT_AthleticTrainers,,1,,type,0.408626841,2.309601069,1.488833747,0.435203095,,,,,,,,,,,,0.408626841,type,0.518696581,0.533847185,1.077691454,1.145219267,0.238546,type,,2
+5ac21c96fffa760008741bcb,116940,MIT_AthleticTrainers,,1,,world,,2.194298575,,0.846872985,,,,,,,,,,,,,world,0.356439543,0.325093798,0.553855569,0.481687377,0.241152,world,,2
+5ac21cadfffa760008741bf9,116943,MIT_AthleticTrainers,,2,1,concussion management,,,,0.03390339,,,,,,,,,,,,,,0.942307692,0.959558824,16.33333333,23.72727273,0.483397,concuss manag,1,3
+5ac21cadfffa760008741bfa,116943,MIT_AthleticTrainers,,2,1,post concussion,,,,0,,,,,,,,,,,,,,0.965811966,0.968553459,28.25,30.8,,post concuss,1,2
+5ac21cadfffa760008741bfb,116943,MIT_AthleticTrainers,,1,,DPT,1.469346232,5.136153659,2.625820569,0.903090309,,,,,,,,,,,,1.469346232,DPT,0.567375887,0.512544803,1.31147541,1.051470588,0.41563,dpt,,2
+5ac21cadfffa760008741bfc,116943,MIT_AthleticTrainers,,3,,Dr. James Mark,0.643978656,,1.531728665,0.02580258,,,,,,,,,,,,0.643978656,Dr. James Mark,,,,,0.526336,dr jame mark,,2
+5ac21caefffa760008741bfd,116943,MIT_AthleticTrainers,,3,,Dr. Robert Anderson,0.792736765,,1.312910284,0.074107411,,,,,,,,,,,,0.792736765,Dr. Robert Anderson,0.4,0.4,0.666666667,0.666666667,0.527362,dr robert anderson,,2
+5ac21caefffa760008741bfe,116943,MIT_AthleticTrainers,,2,,FLH Medical,0.62862298,,1.312910284,0.066906691,,,,,,,,,,,,0.62862298,FLH Medical,,,,,0.477349,flh medic,,2
+5ac21caefffa760008741bff,116943,MIT_AthleticTrainers,,2,,Geena Grattan,1.469346232,5.136153659,2.625820569,0.818481848,,,,,,,,,,,,1.469346232,Geena Grattan,,,,,0.493258,geena grattan,,2
+5ac21caefffa760008741c00,116943,MIT_AthleticTrainers,,3,,Interlakes Orthopaedic Surgery,0.643978656,,1.531728665,0.01380138,,,,,,,,,,,,0.643978656,Interlakes Orthopaedic Surgery,,,,,0.533055,interlak orthopaed surgeri,,2
+5ac21caefffa760008741c01,116943,MIT_AthleticTrainers,,2,,Jeff Bray,1.469346232,5.136153659,2.625820569,0.845484548,,,,,,,,,,,,1.469346232,Jeff Bray,0.5,0.5,1,1,0.484566,jeff brai,,2
+5ac21caefffa760008741c02,116943,MIT_AthleticTrainers,,2,,KEUKA PARK,,,,0.771977198,,,,,,,,,,,,,,0,0,0,0,0.628826,keuka park,,2
+5ac21caffffa760008741c03,116943,MIT_AthleticTrainers,,2,,Keuka College,1.469346232,5.136153659,2.625820569,0.98859886,,,,,,,,,,,1,1.469346232,Keuka College,0.048780488,0.035971223,0.051282051,0.037313433,0.958005,keuka colleg,,2
+5ac21caffffa760008741c04,116943,MIT_AthleticTrainers,,2,,Phil Rahr,1.469346232,5.136153659,2.625820569,0.830183018,,,,,,,,,,,,1.469346232,Phil Rahr,0,0,0,0,0.480021,phil rahr,,2
+5ac21caffffa760008741c05,116943,MIT_AthleticTrainers,,2,,Rehabilitation Services,,,,0.892889289,,,,,,,,,,,,,,0.698630137,0.673913043,2.318181818,2.066666667,0.679401,rehabilit servic,,2
+5ac21caffffa760008741c06,116943,MIT_AthleticTrainers,,2,,Robert Verkey,1.469346232,5.136153659,2.625820569,0.860486049,,,,,,,,,,,,1.469346232,Robert Verkey,,,,,0.483259,robert verkei,,2
+5ac21caffffa760008741c07,116943,MIT_AthleticTrainers,,3,,Sailors Memorial Hospital,0.351261085,,1.531728665,0.108610861,,,,,,,,,,,,0.351261085,Sailors Memorial Hospital,1,1,1,1,0.528968,sailor memori hospit,,2
+5ac21caffffa760008741c08,116943,MIT_AthleticTrainers,,2,,Tom DelPapa,1.469346232,5.136153659,2.625820569,0.885388539,,,,,,,,,,,,1.469346232,Tom DelPapa,,,,,0.483448,tom delpapa,,2
+5ac21cb0fffa760008741c09,116943,MIT_AthleticTrainers,,3,,William Smith Colleges,,,1.531728665,0.362736274,,,,,,,,,,,,,William Smith Colleges,0.2,0.2,0.25,0.25,0.528815,william smith colleg,,2
+5ac21cb0fffa760008741c0a,116943,MIT_AthleticTrainers,,2,,concussion care,,,,0.238823882,,,,,,,,,,,,,,0.962962963,0.97826087,26,45,0.485804,concuss care,,2
+5ac21cb0fffa760008741c0b,116943,MIT_AthleticTrainers,,1,,faculty,0.347422166,,1.750547046,0.708970897,,,,,,,,,,,,0.347422166,faculty,0.334554335,0.365560641,0.502752294,0.57619477,0.423312,faculti,,2
+5ac21cb0fffa760008741c0c,116943,MIT_AthleticTrainers,,2,,specialty training,0.792736765,,,0.04050405,,,,,,,,,,,,0.792736765,specialty training,0.666666667,0.833333333,2,5,0.468834,specialti train,,2
+5ac21cb0fffa760008741c0d,116943,MIT_AthleticTrainers,,1,,sport,,,,0.658265827,,,,,,,,,,,,,,0.626387625,0.704857797,1.676570872,2.388197251,0.423751,sport,,2
+5ac21cb1fffa760008741c0e,116943,MIT_AthleticTrainers,,1,,staff,0.347422166,,1.750547046,0.705370537,,,,,,,,,,,,0.347422166,staff,0.477030503,0.492072171,0.912157414,0.968783638,0.423301,staff,,2
+5ac21cb1fffa760008741c0f,116943,MIT_AthleticTrainers,,2,,student athletes,0.279281354,,,0,,,,,,,,,,,,0.279281354,student athletes,0.682164634,0.726280992,2.146282974,2.653381643,0.440541,student athlet,,2
+5ac21c89fffa760008741b8f,116959,MIT_AthleticTrainers,,2,3,Sports Medicine,,,,0.96946303,,,,,,,,,,,,,,0.780293758,0.813253012,3.551532033,4.35483871,,sport medicin,5,2
+5ac21c89fffa760008741b90,116959,MIT_AthleticTrainers,,3,1,Sports Medicine team,,,,0.618287871,,,,,,,,,,,,,,0.75,0.763636364,3,3.230769231,0.653554,sport medicin team,1,2
+5ac21c8afffa760008741b91,116959,MIT_AthleticTrainers,,1,, rodeo,0.118366285,1.54843234,1.040582726,0.991079087,,,,,,,,,,,,0.118366285,Rodeo,0.555555556,0.375690608,1.25,0.601769912,0.960898,rodeo,,2
+5ac21c8afffa760008741b92,116959,MIT_AthleticTrainers,,2,,Bull Riders,,,1.144640999,0,,,,,,,,,,,1,,Bull Riders,0.4,0.06779661,0.666666667,0.072727273,0.62389,bull rider,,2
+5ac21c8afffa760008741b93,116959,MIT_AthleticTrainers,,3,,Justin Sports Medicine,,,,0.970663922,,,,,,,,,,,,,,1,1,2,3,0.994402,justin sport medicin,,2
+5ac21c8afffa760008741b94,116959,MIT_AthleticTrainers,,2,,Medical Team,,,,0,,,,,,,,,,,1,,,0.643678161,0.689393939,1.806451613,2.219512195,0.742534,medic team,,2
+5ac21c8afffa760008741b95,116959,MIT_AthleticTrainers,,2,,Travis Chipman,0.118366285,1.404300427,0.832466181,0.873563218,,,,,,,,,,,,0.118366285,Travis Chipman,,,,,0.654656,travi chipman,,2
+5ac21c8bfffa760008741b96,116959,MIT_AthleticTrainers,,2,,bareback riders,,,,0.086978899,,,,,,,,,,,,,,1,1,2,2,0.55616,bareback rider,,2
+5ac21c8bfffa760008741b97,116959,MIT_AthleticTrainers,,2,,bull riding,,,0.936524454,0.876822783,,,,,,,,,,,1,,bull riding,0,0,0,0,0.621693,bull ride,,2
+5ac21c8bfffa760008741b98,116959,MIT_AthleticTrainers,,2,,rodeo athletes,0.100156087,,0.832466181,0.361125407,,,,,,,,,,,,0.100156087,rodeo athletes,0.333333333,0.333333333,0.5,0.5,0.654042,rodeo athlet,,2
+5ac21c8bfffa760008741b99,116959,MIT_AthleticTrainers,,2,,team statistics,,,,0.481900841,,,,,,,,,,,,,,,,,,0.532726,team statist,,2
+5ac21c8bfffa760008741b9a,116959,MIT_AthleticTrainers,,2,,treatment tables,,,,0.291130554,,,,,,,,,,,,,,0.708333333,0.75862069,2.428571429,3.142857143,0.524506,treatment tabl,,2
+5ac21c80fffa760008741b79,116965,MIT_AthleticTrainers,,2,5,plantar fasciitis,0.037881819,0.854916512,0.734693878,0.960046851,,,,,,,,,,1,1,0.037881819,plantar fasciitis,0.704918033,0.867549669,2.388888889,6.55,0.716681,plantar fasciiti,8,3
+5ac21c80fffa760008741b7e,116965,MIT_AthleticTrainers,,1,, study,0.04188342,1.064773736,0.816326531,0.923997918,,,,,,,,,,1,,0.04188342,study,0.571264368,0.609610843,1.332439678,1.561546554,0.415993,studi,,2
+5ac21c81fffa760008741b80,116965,MIT_AthleticTrainers,,2,,Adrenal Insufficiency,,,,0.463430505,1,,,,,,,,,,,,,,,,,0.428777,adren insuffici,,2
+5ac21c81fffa760008741b81,116965,MIT_AthleticTrainers,,2,,Bone loss,,,,0.578214472,,,,,,,,,,,,,,0.583333333,0.609756098,1.4,1.5625,0.365023,bone loss,,2
+5ac21c81fffa760008741b82,116965,MIT_AthleticTrainers,,2,,Cartilage Damage,,,,0.830687142,,,,,,,,,,,,,,0.888888889,0.90625,8,9.666666667,0.379552,cartilag damag,,2
+5ac21c81fffa760008741b85,116965,MIT_AthleticTrainers,,3,,PRP Vs Steroids,,,0.734693878,0,,,,,,,,,,1,1,,PRP Vs Steroids,,,,,0.794243,prp v steroid,,2
+5ac21c82fffa760008741b86,116965,MIT_AthleticTrainers,,2,,PRP injections,,,,0.880921395,,,,,,,,,,,,,,0.933333333,0.944444444,14,17,0.63829,prp inject,,2
+5ac21c82fffa760008741b87,116965,MIT_AthleticTrainers,,2,,PRP treatment,0.036814726,1.020408163,,0.09669443,,,,,,,,,,,,0.036814726,PRP treatment,0.5,0.5,1,1,0.495721,prp treatment,,2
+5ac21c82fffa760008741b88,116965,MIT_AthleticTrainers,,3,,Platelet Rich Plasma,,,,0.919312858,1,,,,,,,,,,,,,0.75,0.769230769,3,3.333333333,0.736356,platelet rich plasma,,2
+5ac21c82fffa760008741b89,116965,MIT_AthleticTrainers,,2,,Steroid injections,0.056555956,0.966282165,1.06122449,0.953930245,1,,,,,,,,,,,0.056555956,steroid injection,0.6875,0.475,2.2,0.904761905,0.956615,steroid inject,,2
+5ac21c82fffa760008741b8a,116965,MIT_AthleticTrainers,,2,,blood platelets,,,,0.357756377,1,,,,,,,,,,,,,0.5,0.5,1,1,0.373484,blood platelet,,2
+5ac21c83fffa760008741b8b,116965,MIT_AthleticTrainers,,2,,bone damage,,,,0.631441957,,,,,,,,,,,,,,0,0,0,0,0.361604,bone damag,,2
+5ac21c83fffa760008741b8c,116965,MIT_AthleticTrainers,,3,,rotator cuff surgery,0.044817927,,,0.496746486,,,,,,,,,,,,0.044817927,rotator cuff surgery,0.2,0.2,0.25,0.25,0.409127,rotat cuff surgeri,,2
+5ac21c83fffa760008741b8d,116965,MIT_AthleticTrainers,,2,,steroid inections,,,,0.88690786,,,,,,,,,,,,,,,,,,0.519378,steroid inect,,2
+5ac21c83fffa760008741b8e,116965,MIT_AthleticTrainers,,2,,steroid treatments,,,,0.570145757,,,,,,,,,,,,,,0.5,0.5,1,1,0.503658,steroid treatment,,2
+5ac21cd0fffa760008741c45,116974,MIT_AthleticTrainers,,2,1,sports medicine,,,,0.733010356,,,,,,,,,,,,,,0.780293758,0.813253012,3.551532033,4.35483871,,sport medicin,1,2
+5ac21cd1fffa760008741c4a,116974,MIT_AthleticTrainers,,2,2,injury prevention,,,,0.279345749,,,,,,,,,,,,,,0.769485904,0.8,3.338129496,4,,injuri prevent,2,2
+5ac21cd1fffa760008741c4c,116974,MIT_AthleticTrainers,,2,1,soccer players,,,,0.105871372,,,,,,,,,,,,,,0.809090909,0.850609756,4.238095238,5.693877551,,soccer player,1,2
+5ac21cd1fffa760008741c4e,116974,MIT_AthleticTrainers,,1,, season,,,0.245098039,0.922352105,,,,,,,,,,,,,season,0.440881205,0.359662765,0.788528678,0.561677106,0.502347,season,,2
+5ac21cd2fffa760008741c51,116974,MIT_AthleticTrainers,,3,,Assistant Athletic Trainer,,,,0.78994622,,,,,,,,,,,,,,0.545685279,0.562380038,1.201117318,1.285087719,0.570254,assist athlet trainer,,2
+5ac21cd2fffa760008741c53,116974,MIT_AthleticTrainers,,2,,Gary Vitti,,,,0.923729944,,,,,,,,,,,,,,0.454545455,0.448275862,0.833333333,0.8125,0.514018,gari vitti,,2
+5ac21cd2fffa760008741c55,116974,MIT_AthleticTrainers,,3,,Head Athletic Trainer,,,,0.936841637,,,,,,,,,,,,,,0.551815766,0.596045198,1.231225296,1.475524476,0.671552,head athlet trainer,,2
+5ac21cd3fffa760008741c57,116974,MIT_AthleticTrainers,,3,,Head Physical Therapist,,,,0.330414685,,,,,,,,,,,,,,0.7,0.727272727,2.333333333,2.666666667,0.508961,head physic therapist,,2
+5ac21cd3fffa760008741c58,116974,MIT_AthleticTrainers,,1,,Lakers,,,,0.982088093,,,,,,,,,,,1,,,0.413793103,0.365432099,0.705882353,0.575875486,0.592444,laker,,2
+5ac21cd3fffa760008741c59,116974,MIT_AthleticTrainers,,2,,Los Angeles,,,,0.783145918,,,,,,,,,,,,,,0.365979381,0.355060034,0.577235772,0.550531915,0.501823,lo angel,,2
+5ac21cd3fffa760008741c5a,116974,MIT_AthleticTrainers,,2,,MARCO NUNEZ,,,,0.937419441,,,,,,,,,,,,,,0.8,0.8,4,4,0.679679,marco nunez,,2
+5ac21cd3fffa760008741c5b,116974,MIT_AthleticTrainers,,2,,Massage Therapist,,,,0.49522201,,,,,,,,,,1,,,,0.662162162,0.701219512,1.96,2.346938776,0.548891,massag therapist,,2
+5ac21cd3fffa760008741c5c,116974,MIT_AthleticTrainers,,2,,NBA players,,,,0.590959598,,,,,,,,,,,,,,0.508474576,0.43956044,1.034482759,0.784313725,0.523899,nba player,,2
+5ac21cd4fffa760008741c5d,116974,MIT_AthleticTrainers,,2,,NBA teams,,,,0.991332948,,,,,,,,,,,,,,0.473684211,0.541666667,0.9,1.181818182,0.501917,nba team,,2
+5ac21cd4fffa760008741c5e,116974,MIT_AthleticTrainers,,2,,NINA HSIEH,,,,0.790479577,,,,,,,,,,,,,,1,1,4,4,0.526495,nina hsieh,,2
+5ac21cd4fffa760008741c5f,116974,MIT_AthleticTrainers,,3,,UC Santa Barbara,,,,0.787101649,,,,,,,,,,,,,,0.5,0.5,1,1,0.494527,uc santa barbara,,2
+5ac21cd4fffa760008741c60,116974,MIT_AthleticTrainers,,3,,industry Gunnar Peterson,,,,0.645584248,,,,,,,,,,,,,,,,,,0.511708,industri gunnar peterson,,2
+5ac21cd4fffa760008741c62,116974,MIT_AthleticTrainers,,3,,therapist Jennifer Swanson,,,,0.392461887,,,,,,,,,,,,,,,,,,0.513153,therapist jennif swanson,,2
+5ac21cd5fffa760008741c64,116974,MIT_AthleticTrainers,,3,,trainer Marco Nunez,,,,0.980665807,,,,,,,,,,,,,,0.666666667,0.666666667,2,2,0.665262,trainer marco nunez,,2
+5ac21cd5fffa760008741c65,116974,MIT_AthleticTrainers,,2,,training camp,,,,0.877683453,,,,,,,,,,,,,,0.475177305,0.412162162,0.905405405,0.701149425,0.521019,train camp,,2
+5ac21cd5fffa760008741c66,116974,MIT_AthleticTrainers,,2,,” Nunez,,0.363739699,0.318627451,0,,,,,,,,,,,,,Nunez,,,,,0.938406,nunez,,2
+5ac21c78fffa760008741b4c,116984,MIT_AthleticTrainers,,2,1,lower extremity,,,,0.459965928,,,,,,,,,,,,,,0.85620915,0.904059041,5.954545455,9.423076923,0.337551,lower extrem,1,2
+5ac21c78fffa760008741b4e,116984,MIT_AthleticTrainers,,2,1,medical professionals,,,,0.060842054,,,,,,,,,,,,,,0.825095057,0.834375,4.717391304,5.037735849,0.335906,medic profession,1,2
+5ac21c78fffa760008741b50,116984,MIT_AthleticTrainers,,2,2,post concussion,,,,0,,,,,,,,,,,,,,0.965811966,0.968553459,28.25,30.8,,post concuss,2,2
+5ac21c79fffa760008741b52,116984,MIT_AthleticTrainers,,2,1,concussion injuries,,,1.18694362,0.450961304,,,,,,,,,,,,,concussion injuries,0.941176471,0.946808511,16,17.8,0.347608,concuss injuri,1,3
+5ac21c79fffa760008741b54,116984,MIT_AthleticTrainers,,2,1,musculoskeletal injuries,0.275571977,2.316115648,1.038575668,0.74762716,,,,,,,,,,,,0.275571977,musculoskeletal injury,0.846153846,0.861111111,5.5,6.2,0.342461,musculoskelet injuri,2,3
+5ac21c7afffa760008741b5a,116984,MIT_AthleticTrainers,,1,,Athletes,0.14770658,1.671751578,1.038575668,0.190800681,,,,,,,,,1,,,0.14770658,Athletes,0.559528153,0.733049884,1.270292656,2.746018227,0.431128,athlet,,2
+5ac21c7afffa760008741b5c,116984,MIT_AthleticTrainers,,1,,Division,,,,0.707958141,,1,,,,,,,,,,,,0.443248532,0.421586166,0.796133568,0.728865979,0.316255,divis,,2
+5ac21c7bfffa760008741b5d,116984,MIT_AthleticTrainers,,2,,Home Message,,,,0.948649306,,,,,,,,,1,,,,,0.923076923,0.923076923,12,12,0.342261,home messag,,2
+5ac21c7bfffa760008741b5e,116984,MIT_AthleticTrainers,,2,,Injury History,0.168870508,,1.038575668,0,,,,,,,,,1,,1,0.168870508,injury history,0.75,0.76,3,3.166666667,0.48087,injuri histori,,2
+5ac21c7bfffa760008741b5f,116984,MIT_AthleticTrainers,,2,,Mental Health,,,,0,,,,,,,,,1,,1,,,0.445414847,0.557692308,0.803149606,1.260869565,0.960033,mental health,,2
+5ac21c7bfffa760008741b60,116984,MIT_AthleticTrainers,,3,,Phys Sports Med,,,0.890207715,0.964954977,,,,,,,,,1,,,,Phys Sports Med,,,,,0.382276,phy sport med,,2
+5ac21c7bfffa760008741b61,116984,MIT_AthleticTrainers,,1,,Questions,0.153879392,1.9531423,,0.035775128,,,,,,,,,1,,,0.153879392,questions,0.49745935,0.430465233,0.989888777,0.75581906,0.315029,question,,2
+5ac21c7cfffa760008741b65,116984,MIT_AthleticTrainers,,1,,authors,0.168870508,,1.18694362,0.737649063,,,,,,,,,,,,0.168870508,authors,0.571626298,0.586166924,1.334410339,1.41643324,0.352195,author,,2
+5ac21c7cfffa760008741b67,116984,MIT_AthleticTrainers,,2,,concussion history,0.275571977,2.316115648,1.038575668,0.672913118,,,,,,,,,,,,0.275571977,concussion history,0.913043478,0.828571429,10.5,4.833333333,0.354763,concuss histori,,2
+5ac21c7cfffa760008741b68,116984,MIT_AthleticTrainers,,2,,depression symptoms,,,,0.338038452,,,,,,,,,,,,,,0.608695652,0.666666667,1.555555556,2,0.337642,depress symptom,,2
+5ac21c7dfffa760008741b69,116984,MIT_AthleticTrainers,,2,,education plans,,,,0.102944755,,,,,,,,,,,,,,0.4,0.4,0.666666667,0.666666667,0.335704,educ plan,,2
+5ac21c7dfffa760008741b6b,116984,MIT_AthleticTrainers,,3,,injury risk prevention,,,,0.109515697,,,,,,,,,,,,,,1,1,2,2,0.365372,injuri risk prevent,,2
+5ac21c7dfffa760008741b6d,116984,MIT_AthleticTrainers,,2,,lifetime prevalence,,,,0.401557557,,,,,,,,,,,,,,,,,,0.379227,lifetim preval,,2
+5ac21c7dfffa760008741b6f,116984,MIT_AthleticTrainers,,1,,relationship,0.182097963,,,0.834996349,,,,,,,,,1,,,0.182097963,relationship,0.501828154,0.534738041,1.00733945,1.149326805,0.323105,relationship,,2
+5ac21c7efffa760008741b71,116984,MIT_AthleticTrainers,,1,,research,,,,0.773667559,,,,,,,,,,,,,,0.531493506,0.519903359,1.134442134,1.082913971,0.314744,research,,2
+5ac21c7efffa760008741b72,116984,MIT_AthleticTrainers,,2,,team athletes,,,,0.527622293,,,,,,,,,,,,,,0.559748428,0.551515152,1.271428571,1.22972973,0.35569,team athlet,,2
+5ac21c77fffa760008741b46,117012,MIT_AthleticTrainers,,2,1,Sport Medicine,,,,0.239142447,,,,,,,,,,,,,,0.780293758,0.813253012,3.551532033,4.35483871,,sport medicin,1,2
+5ac21c77fffa760008741b47,117012,MIT_AthleticTrainers,,2,3,body mass,0.100143426,1.019507945,,0.832467676,,,,,,,,,,,,0.100143426,body mass,0.712418301,0.776859504,2.477272727,3.481481481,0.53784,bodi mass,3,3
+5ac21c77fffa760008741b48,117012,MIT_AthleticTrainers,,2,,Body Composition,,,,0.219913803,1,,,,,,,,,,,,,0.537634409,0.591240876,1.162790698,1.446428571,0.528462,bodi composit,,2
+5ac21c78fffa760008741b49,117012,MIT_AthleticTrainers,,3,,Bone Mineral Density,,,0.552486188,0.774229197,,,,,,,,,,1,,,bone mineral density,0.555555556,0.56,1.25,1.272727273,0.952106,bone miner densiti,,2
+5ac21c78fffa760008741b4a,117012,MIT_AthleticTrainers,,2,,Competitive Cyclists,,,,0.217703614,1,,,,,,,,,,,,,0.666666667,0.75,2,3,0.572214,competit cyclist,,2
+5ac21c78fffa760008741b4b,117012,MIT_AthleticTrainers,,3,,Competitive Male Cyclists,,,,0.102884297,1,,,,,,,,,,,,,0,0,0,0,0.590415,competit male cyclist,,2
+5ac21c78fffa760008741b4d,117012,MIT_AthleticTrainers,,3,,Dr Nicky Keay,,,,0.99801083,,,,,,,,,,1,,,,,,,,0.499817,dr nicki keai,,2
+5ac21c78fffa760008741b4f,117012,MIT_AthleticTrainers,,2,,Endocrine status,0.100143426,1.019507945,,0.718642944,,,,,,,,,,,,0.100143426,Endocrine status,,,,,0.53082,endocrin statu,,2
+5ac21c78fffa760008741b51,117012,MIT_AthleticTrainers,,3,,Higher Lumbar Spine,,,,0.108630788,1,,,,,,,,,,,,,,,,,0.534349,higher lumbar spine,,2
+5ac21c79fffa760008741b53,117012,MIT_AthleticTrainers,,2,,Male Cyclists,,,,0.287324566,1,,,,,,,,,,,,,0,0,0,0,0.610363,male cyclist,,2
+5ac21c79fffa760008741b55,117012,MIT_AthleticTrainers,,3,,Male Master Cyclists,,,,0.029285004,1,,,,,,,,,,,,,,,,,0.525372,male master cyclist,,2
+5ac21c79fffa760008741b56,117012,MIT_AthleticTrainers,,3,,Site Specific Effects,,,,0.776991933,,,,,,,,,,1,,,,,,,,0.552841,site specif effect,,2
+5ac21c79fffa760008741b57,117012,MIT_AthleticTrainers,,2,,bone health,0.100143426,1.019507945,,0.975135374,1,,,,,,,,,,,0.100143426,bone health,0.6,0.566666667,1.5,1.307692308,0.714285,bone health,,2
+5ac21c79fffa760008741b58,117012,MIT_AthleticTrainers,,2,,bone loss,,,0.644567219,0.582495303,,,,,,,,,,,,,bone loss,0.583333333,0.609756098,1.4,1.5625,0.523495,bone loss,,2
+5ac21c7afffa760008741b59,117012,MIT_AthleticTrainers,,2,,lumbar spine,0.086394922,,1.012891344,0.888716985,1,,,,,,,,,,,0.086394922,lumbar spine,0.604651163,0.58490566,1.529411765,1.409090909,0.748965,lumbar spine,,2
+5ac21c7afffa760008741b5b,117012,MIT_AthleticTrainers,,3,,trabecular bone density,,,,0.136037131,1,,,,,,,,,,,,,,,,,0.569685,trabecular bone densiti,,2
+5ac21c6bfffa760008741b39,117076,MIT_AthleticTrainers,,2,,Audubon Zoo,,,,0.084195283,1,,,,,,,,,,,,,,,,,0.628267,audubon zoo,,2
+5ac21c6bfffa760008741b3a,117076,MIT_AthleticTrainers,,2,,Convention Guide,0.132723523,1.642371234,1.058201058,0.334298717,,,,,,,,,,,,0.132723523,Convention Guide,0.666666667,0.666666667,2,2,0.669352,convent guid,,2
+5ac21c6bfffa760008741b3b,117076,MIT_AthleticTrainers,,3,,Fame Induction Ceremony,,,,0.195490277,,,,,,,,,,,,,,0.333333333,0.333333333,0.5,0.5,0.720751,fame induct ceremoni,,2
+5ac21c6bfffa760008741b3c,117076,MIT_AthleticTrainers,,2,,Louisiana Children,,,,0.101572197,1,,,,,,,,,,,,,,,,,0.652003,louisiana children,,2
+5ac21c6bfffa760008741b3d,117076,MIT_AthleticTrainers,,2,,MIDNIGHT CT,,,,0.95510964,,,,,,,,,,,,,,0,0,0,0,0.643022,midnight ct,,2
+5ac21c6bfffa760008741b3e,117076,MIT_AthleticTrainers,,2,,Refund Policy,,,,0.785270997,,,,,1,,,,,,,,,0,0,0,0,0.666307,refund polici,,2
+5ac21c6cfffa760008741b3f,117076,MIT_AthleticTrainers,,2,,Refund requests,,,0.846560847,0.780926769,,,,,,,,,,,,,Refund requests,0,0,0,0,0.664228,refund request,,2
+5ac21c6cfffa760008741b40,117076,MIT_AthleticTrainers,,1,,Refunds,0.118150838,1.463203463,1.164021164,0.735208937,,,,,1,,,,,,,0.118150838,refunds,0.25,0.175,0.333333333,0.212121212,0.562322,refund,,2
+5ac21c6cfffa760008741b41,117076,MIT_AthleticTrainers,,3,,Student Member Certified,,,0.740740741,0,,,,,,,,,,,,,Student Member Certified,0,0,0,0,0.651978,student member certifi,,2
+5ac21c6cfffa760008741b42,117076,MIT_AthleticTrainers,,1,,app,,,0.952380952,0.679975176,,,,,,,,,,,,,app,0.30941704,0.317343173,0.448051948,0.464864865,0.586303,app,,2
+5ac21c6cfffa760008741b43,117076,MIT_AthleticTrainers,,2,,guest badges,0.132723523,1.642371234,1.058201058,0.345883326,,,,,,,,,,,,0.132723523,guest badges,,,,,0.627091,guest badg,,2
+5ac21c6dfffa760008741b44,117076,MIT_AthleticTrainers,,1,,payment,0.095507129,1.43707483,,0.72548614,,,,,,,,,,,,0.095507129,payment,0.37037037,0.42,0.588235294,0.724137931,0.567983,payment,,2
+5ac21c6dfffa760008741b45,117076,MIT_AthleticTrainers,,2,,photo ID,,,1.058201058,0.377327265,,,,,,,,,,,,,photo ID,0.333333333,0.333333333,0.5,0.5,0.626373,photo id,,2
+5ac21cc8fffa760008741c39,117078,MIT_AthleticTrainers,,3,1,high school athletes,,,,0.016511702,,,,,,,,,,,,,,0.792253521,0.800959233,3.813559322,4.024096386,0.852961,high school athlet,1,2
+5ac21cc8fffa760008741c3a,117078,MIT_AthleticTrainers,,2,,Contrast training,,,0.71942446,0.299134338,,,,,,,,,,,1,,Contrast training,0.6,0.666666667,1.5,2,0.962797,contrast train,,2
+5ac21cc8fffa760008741c3b,117078,MIT_AthleticTrainers,,2,,Eric Heiden,0.097779562,,,0.617345303,,,,,,,,,,,,0.097779562,Eric Heiden,,,,,0.888712,eric heiden,,2
+5ac21cc8fffa760008741c3c,117078,MIT_AthleticTrainers,,2,,Functional Fitness,,,,0,,,,,,,,,,,1,,,0.4,0.333333333,0.666666667,0.5,0.81093,function fit,,2
+5ac21cc9fffa760008741c3d,117078,MIT_AthleticTrainers,,2,,Norm Meltzer,,,,0,,,,,,,,,,,1,,,,,,,0.848182,norm meltzer,,2
+5ac21cc9fffa760008741c3e,117078,MIT_AthleticTrainers,,2,,Peyton Manning,,,,0.946777813,,,,,,,,,,,,,,0.396226415,0.221311475,0.65625,0.284210526,0.798875,peyton man,,2
+5ac21cc9fffa760008741c3f,117078,MIT_AthleticTrainers,,2,,contrast sets,,1.136868283,0.809352518,0.171208721,,,,,,,,,,,,,contrast sets,,,,,0.812231,contrast set,,2
+5ac21cc9fffa760008741c40,117078,MIT_AthleticTrainers,,2,,strength training,,,,0.030618788,,,,,,,,,,,,,,0.504322767,0.521481481,1.01744186,1.089783282,0.80299,strength train,,2
+5ac21cc9fffa760008741c41,117078,MIT_AthleticTrainers,,2,,superhuman power,,1.07077129,,0.75617185,,,,,,,,,,,,,superhuman power,0,0,0,0,0.798815,superhuman power,,2
+5ac21cc9fffa760008741c42,117078,MIT_AthleticTrainers,,3,,trainer Norman Meltzer,,,,0.072940045,,,,,,,,,,,,,,,,,,0.878499,trainer norman meltzer,,2
+5ac22918fffa760008743a43,117078,MIT_AthleticTrainers,,2,,Functional Fitness,,,,0,,,,,,,,,,,1,,,0.4,0.333333333,0.666666667,0.5,0.81093,function fit,,2
+5ac22926fffa760008743a57,117078,MIT_AthleticTrainers,,2,,Functional Fitness,,,,0,,,,,,,,,,,1,,,0.4,0.333333333,0.666666667,0.5,0.81093,function fit,,2
+5ac21c7efffa760008741b73,117115,MIT_AthleticTrainers,,2,1,cold therapy,,,,0.905912123,,,,,,,,,,,,,,0.84,0.90625,5.25,9.666666667,0.310708,cold therapi,1,2
+5ac21c7efffa760008741b74,117115,MIT_AthleticTrainers,,2,1,recovery process,,,,0.228663446,,,,,,,,,,,,,,0.791304348,0.813664596,3.791666667,4.366666667,0.295052,recoveri process,1,2
+5ac21c7ffffa760008741b75,117115,MIT_AthleticTrainers,,1,,Athletes,0.189514621,1.768317642,1.432664756,0.680929377,,,,,,,,,,,,0.189514621,athletes,0.559528153,0.733049884,1.270292656,2.746018227,0.269634,athlet,,2
+5ac21c7ffffa760008741b76,117115,MIT_AthleticTrainers,,2,,Cryotherapy Cost,0.097429425,1.641879292,1.432664756,0.953301127,,,,,,,,,,,1,0.097429425,cryotherapy cost,,,,,0.840143,cryotherapi cost,,2
+5ac21c7ffffa760008741b77,117115,MIT_AthleticTrainers,,2,,Health Insurance,,,,0.438923395,,,,1,,,,,,,,,,0.295454545,0.25,0.419354839,0.333333333,0.379427,health insur,,2
+5ac21c80fffa760008741b78,117115,MIT_AthleticTrainers,,2,,Purchasing equipment,,,,0.709224753,,,,,,,,,,,,,,0.428571429,0.428571429,0.75,0.75,0.304732,purchas equip,,2
+5ac21c80fffa760008741b7a,117115,MIT_AthleticTrainers,,2,,cryotherapy device,,,,0.892799632,1,,,,,,,,,,,,,,,,,0.5725,cryotherapi devic,,2
+5ac21c80fffa760008741b7b,117115,MIT_AthleticTrainers,,2,,ice baths,,,,0.794570968,,,,,,,,,,,,,,0.666666667,0.709090909,2,2.4375,0.307012,ic bath,,2
+5ac21c80fffa760008741b7c,117115,MIT_AthleticTrainers,,2,,ice packs,0.094962858,,1.00286533,0.856912813,,,,,,,,,,,,0.094962858,ice packs,0.704918033,0.734939759,2.388888889,2.772727273,0.407131,ic pack,,2
+5ac21c80fffa760008741b7d,117115,MIT_AthleticTrainers,,2,,pain medications,,,,0.50494594,,,,,,,,,,,,,,0.788461538,0.761904762,3.727272727,3.2,0.298276,pain medic,,2
+5ac21c81fffa760008741b7f,117115,MIT_AthleticTrainers,,1,,people,0.189514621,1.768317642,1.432664756,0.92431562,,,,,,,,,,,,0.189514621,people,0.441491955,0.422139472,0.790484505,0.730521383,0.344332,peopl,,2
+5ac21c81fffa760008741b83,117115,MIT_AthleticTrainers,,2,,team sports,,,,0.19231654,,,,,,,,,,,,,,0.624161074,0.666666667,1.660714286,2,0.296046,team sport,,2
+5ac21c81fffa760008741b84,117115,MIT_AthleticTrainers,,2,,workout recovery,,,,0.671037497,,,,,,,,,,,,,,0.384615385,0.3125,0.625,0.454545455,0.30921,workout recoveri,,2
+5ac21c62fffa760008741b13,117168,MIT_AthleticTrainers,,3,1,certified athletic trainer,,,,0.31483871,,,,,,,,,,,,,,0.790170132,0.814285714,3.765765766,4.384615385,0.603396,certifi athlet trainer,1,2
+5ac21c62fffa760008741b14,117168,MIT_AthleticTrainers,,2,1,contact sport,,,,0.664229391,,,,,,,,,,,,,,0.90821256,0.937908497,9.894736842,15.10526316,0.562808,contact sport,1,2
+5ac21c62fffa760008741b15,117168,MIT_AthleticTrainers,,2,1,concussion protocol,0.047900577,,,0.352688172,,,,,,,,,,,,0.047900577,concussion protocol,0.770318021,0.790432802,3.353846154,3.77173913,0.625071,concuss protocol,1,2
+5ac21c63fffa760008741b16,117168,MIT_AthleticTrainers,,1,, game,,0.843454791,0.647773279,0.954408602,,,,,,,,,,,,,game,0.490274197,0.439415428,0.96183908,0.783852161,0.618606,game,,2
+5ac21c63fffa760008741b17,117168,MIT_AthleticTrainers,,2,,Bottled Water,,,0.647773279,0,,,,,,,,,,,1,,Bottled Water,0.416666667,0.357142857,0.714285714,0.555555556,0.577102,bottl water,,2
+5ac21c63fffa760008741b18,117168,MIT_AthleticTrainers,,3,,Catcher Austin Romine,,,,0.652043011,,,,,,,,,,,,,,0,0,0,0,0.616699,catcher austin romin,,2
+5ac21c64fffa760008741b1a,117168,MIT_AthleticTrainers,,2,,Clint Frazier,,,0.728744939,0.971899642,,,,,,,,,,,1,,Clint Frazier,0,0,0,0,0.8154,clint frazier,,2
+5ac21c64fffa760008741b1b,117168,MIT_AthleticTrainers,,1,,Concussion,0.066142166,0.791356746,0.809716599,0,,,,,,,,,,,1,0.066142166,concussion,0.835714286,0.938765053,5.086956522,15.33054393,0.723304,concuss,,2
+5ac21c64fffa760008741b1d,117168,MIT_AthleticTrainers,,2,,Jacoby Ellsbury,,,0.809716599,0.634121864,,,,,,,,,,,,,Jacoby Ellsbury,0.2,0.2,0.25,0.25,0.562663,jacobi ellsburi,,2
+5ac21c64fffa760008741b1f,117168,MIT_AthleticTrainers,,3,,Manager Aaron Boone,,,,0.300071685,,,,,,,,,,,,,,0,0,0,0,0.602806,manag aaron boon,,2
+5ac21c65fffa760008741b21,117168,MIT_AthleticTrainers,,2,,Russell Wilson,,,,0.893333333,,,,,,,,,,,,,,0.35,0.32,0.538461538,0.470588235,0.562081,russel wilson,,2
+5ac21c65fffa760008741b23,117168,MIT_AthleticTrainers,,2,,Scott Rodeo,,,,0.426953405,,,,,,,,,,,,,,1,1,1,1,0.556634,scott rodeo,,2
+5ac21c65fffa760008741b25,117168,MIT_AthleticTrainers,,2,,Steinbrenner Field,,,,0.929749104,,,,,,,,,,,,,,,,,,0.63066,steinbrenn field,,2
+5ac21c65fffa760008741b27,117168,MIT_AthleticTrainers,,2,,Wednesday morning,,,0.728744939,0.863655914,,,,,,,,,,,,,Wednesday morning,0.4,0.40625,0.666666667,0.684210526,0.612592,wednesdai morn,,2
+5ac21c65fffa760008741b29,117168,MIT_AthleticTrainers,,2,,Yankee Stadium,,,,0.620645161,,,,,,,,,,,,,,0.285714286,0.24,0.4,0.315789474,0.558233,yanke stadium,,2
+5ac21c66fffa760008741b2b,117168,MIT_AthleticTrainers,,1,,Yankees’,,0.843454791,,0,,,,,,,,,,,,,Yankees,0.25,0.140186916,0.333333333,0.163043478,0.584472,yanke,,2
+5ac21c66fffa760008741b2f,117168,MIT_AthleticTrainers,,2,,drinking water,,,,0.878136201,,,,,,,,,,,,,,0.40952381,0.406015038,0.693548387,0.683544304,0.56221,drink water,,2
+5ac21c67fffa760008741b31,117168,MIT_AthleticTrainers,,3,,infielder Stephen Drew,,,,0.642007168,,,,,,,,,,,,,,,,,,0.614825,infield stephen drew,,2
+5ac21c67fffa760008741b33,117168,MIT_AthleticTrainers,,1,,innings,,,0.728744939,0.554695341,,,,,,,,,,,1,,inning,0.297229219,0.20822838,0.422939068,0.262990456,0.568627,in,,2
+5ac21c67fffa760008741b35,117168,MIT_AthleticTrainers,,2,,telltale symptoms,0.066142166,0.791356746,,0.916272401,,,,,,,,,,,,0.066142166,telltale symptoms,,,,,0.574108,telltal symptom,,2
+5ac21c67fffa760008741b37,117168,MIT_AthleticTrainers,,1,,water,,,0.647773279,0.876845878,,,,,,,,,,,1,,water,0.407324365,0.430003037,0.687263556,0.754395312,0.609913,water,,2
+5ac21c68fffa760008741b38,117168,MIT_AthleticTrainers,,2,,” Frazier,,0.872539439,0.809716599,0,,,,,,,,,,,1,,Frazier,,,,,0.966184,frazier,,2
+5ac21c64fffa760008741b19,117187,MIT_AthleticTrainers,,1,, time,,0.865728595,,0.946487377,,,,,,,,,,,,,time,0.454479154,0.448318751,0.833110517,0.812640908,0.572509,time,,2
+5ac21c64fffa760008741b1c,117187,MIT_AthleticTrainers,,3,,Classic PT Workouts,,,,0.340148189,,,,,,,,,,,,,,,,,,0.602111,classic pt workout,,2
+5ac21c64fffa760008741b1e,117187,MIT_AthleticTrainers,,2,,Pedro Cardenas,,,,0.966520307,,,,,,,,,,,,,,,,,,0.562061,pedro cardena,,2
+5ac21c65fffa760008741b20,117187,MIT_AthleticTrainers,,2,,Strength Training,,,,0.83507135,,,,,,,,,,,,,,0.504322767,0.521481481,1.01744186,1.089783282,0.558866,strength train,,2
+5ac21c65fffa760008741b22,117187,MIT_AthleticTrainers,,2,,William Kraemer,,,,0.841794731,,,,,,,,,,,,,,,,,,0.558923,william kraemer,,2
+5ac21c65fffa760008741b24,117187,MIT_AthleticTrainers,,2,,body builders,,0.916782208,,0.656970362,,,,,,,,,,,,,body builders,0.285714286,0.222222222,0.4,0.285714286,0.559864,bodi builder,,2
+5ac21c65fffa760008741b26,117187,MIT_AthleticTrainers,,2,,body building,0.078102881,,,0.869511526,,,,,,,,,,,,0.078102881,body building,0.352941176,0.333333333,0.545454545,0.5,0.565622,bodi build,,2
+5ac21c65fffa760008741b28,117187,MIT_AthleticTrainers,,2,,cardio machines,,,,0.941822173,,,,,,,,,,,,,,0.333333333,0.333333333,0.5,0.5,0.565832,cardio machin,,2
+5ac21c66fffa760008741b2a,117187,MIT_AthleticTrainers,,2,,fitness levels,,,,0.969950604,,,,,,,,,,,,,,0.3625,0.352422907,0.568627451,0.544217687,0.56814,fit level,,2
+5ac21c66fffa760008741b2c,117187,MIT_AthleticTrainers,,2,,fitness testing,,0.917366423,,0.366218441,,,,,,,,,,,,,fitness tests,0.703703704,0.741935484,2.375,2.875,0.558835,fit test,,2
+5ac21c66fffa760008741b2d,117187,MIT_AthleticTrainers,,2,,goal pace,,,,0.276070252,,,,,,,,,,,,,,0.166666667,0.071428571,0.2,0.076923077,0.560273,goal pace,,2
+5ac21c66fffa760008741b2e,117187,MIT_AthleticTrainers,,2,,interval sets,0.064713816,0.852789475,,0.309824369,,,,,,,,,,,,0.064713816,interval sets,0.5,0.5,1,1,0.559106,interv set,,2
+5ac21c67fffa760008741b30,117187,MIT_AthleticTrainers,,2,,muscle stamina,,,,0.689763996,,,,,,,,,,,,,,1,1,1,1,0.610698,muscl stamina,,2
+5ac21c67fffa760008741b32,117187,MIT_AthleticTrainers,,2,,overload principle,,,0.751252087,0.269072448,,,,,,,,,,,1,,Overload Principle,1,1,1,1,0.908709,overload principl,,2
+5ac21c67fffa760008741b34,117187,MIT_AthleticTrainers,,2,,power lifting,0.078102881,,,0.871569704,,,,,,,,,,,,0.078102881,power lifting,0.714285714,0.722222222,2.5,2.6,0.579919,power lift,,2
+5ac21c67fffa760008741b36,117187,MIT_AthleticTrainers,,2,,training programs,,,0.667779633,0.782244786,,,,,,,,,,,,,training program,0.681757656,0.711050725,2.142259414,2.460815047,0.61335,train program,,2
+5ac21c4dfffa760008741abd,117198,MIT_AthleticTrainers,,1,,PST,0.874785592,,3.396226415,0.682879377,,,,,,,,,,,,0.874785592,PST,0.166666667,0.025,0.2,0.025641026,0.214497,pst,,2
+5ac21c4dfffa760008741ac0,117198,MIT_AthleticTrainers,,3,,Posterior Shoulder Tightness,,,2.641509434,0,,,,,,,,,,,1,,Posterior Shoulder Tightness,1,1,1,3,0.914846,posterior shoulder tight,,2
+5ac21c4dfffa760008741ac3,117198,MIT_AthleticTrainers,,2,,Shoulder pain,,,,0.998054475,,,,,,,,,,,,,,0.735849057,0.855769231,2.785714286,5.933333333,0.490759,shoulder pain,,2
+5ac21c4dfffa760008741ac6,117198,MIT_AthleticTrainers,,2,,shoulder function,,,1.886792453,0.732166018,,,,,,,,,,,,,shoulder function,1,1,9,12,0.448102,shoulder function,,2
+5ac21c5bfffa760008741af8,117246,MIT_AthleticTrainers,,2,1,Sports Medicine,,,,0.28248841,,,,,,,,,,,,,,0.780293758,0.813253012,3.551532033,4.35483871,,sport medicin,1,2
+5ac21c5cfffa760008741afb,117246,MIT_AthleticTrainers,,2,2,collegiate athletes,,,,0.481232242,,,,,,,,,,,,,,0.803108808,0.840466926,4.078947368,5.268292683,0.577071,collegi athlet,2,2
+5ac21c5cfffa760008741afd,117246,MIT_AthleticTrainers,,3,,Athletes consumer offering,,,,0.210557799,,,,,,,,,,,,,,,,,,0.572271,athlet consum offer,,2
+5ac21c5cfffa760008741aff,117246,MIT_AthleticTrainers,,1,,Blueprint,0.512112112,1.514018692,1.1,0.915657245,1,,,,,,,,,,,0.512112112,Blueprint,0.571428571,0.779220779,1.333333333,3.529411765,0.500851,blueprint,,2
+5ac21c5dfffa760008741b02,117246,MIT_AthleticTrainers,,1,,Health,0.338538539,1.728,1,0.963062659,,,,,,,,,,1,1,0.338538539,Health,0.500117233,0.450962559,1.000469043,0.821369409,0.533162,health,,2
+5ac21c5dfffa760008741b06,117246,MIT_AthleticTrainers,,2,,Human Performance,0.338538539,1.728,1,0.961118588,,,,,,,,,,,1,0.338538539,Human Performance,0.623655914,0.553846154,1.657142857,1.24137931,0.788552,human perform,,2
+5ac21c5dfffa760008741b08,117246,MIT_AthleticTrainers,,3,,New England Revolution,,,,0.01615074,,,,,,,,,,,,,,0.5,0.5,1,1,0.471472,new england revolut,,2
+5ac21c5dfffa760008741b0a,117246,MIT_AthleticTrainers,,3,,Richard C. Schwabacher,,,0.7,0.746224017,,,,,,,,,,,,,Richard C. Schwabacher,1,1,1,1,0.466929,richard c schwabach,,2
+5ac21c5efffa760008741b0c,117246,MIT_AthleticTrainers,,2,,Rutgers researchers,,,1.1,0.299985046,,,,,,,,,,,,,Rutgers researchers,,,,,0.457754,rutger research,,2
+5ac21c5efffa760008741b0e,117246,MIT_AthleticTrainers,,2,,Rutgers students,,,,0.396141768,,,,,,,,,,,,,,0,0,0,0,0.461561,rutger student,,2
+5ac21c5ffffa760008741b10,117246,MIT_AthleticTrainers,,1,,athletic,0.303703704,,1.1,0.934051144,1,,,,,,,,,,,0.303703704,Athletes,0.559528153,0.733049884,1.270292656,2.746018227,0.674863,athlet,,2
+5ac21c5ffffa760008741b11,117246,MIT_AthleticTrainers,,2,,endurance athletes,,,0.7,0.160011964,,,,,,,,,,,,,endurance athletes,0.606060606,0.680851064,1.538461538,2.133333333,0.499142,endur athlet,,2
+5ac21c60fffa760008741b12,117246,MIT_AthleticTrainers,,2,,training load,0.387987988,1.531914894,,0.875429939,,,,,,,,,,,,0.387987988,training load,0.755102041,0.776923077,3.083333333,3.482758621,0.470561,train load,,2
+5ac21c7bfffa760008741b62,117255,MIT_AthleticTrainers,,2,1,injury prevention,,,,0,,,,1,,,,,,,,,,0.769485904,0.8,3.338129496,4,,injuri prevent,1,2
+5ac21c7cfffa760008741b63,117255,MIT_AthleticTrainers,,2,,Diggy LloydRestrictions,,,,0.995375054,,,,,,,,,,,,,,,,,,0.472408,diggi lloydrestrict,,2
+5ac21c7cfffa760008741b64,117255,MIT_AthleticTrainers,,2,,Image Source,,,,0.007515537,,,,,,,,,,,,,,0.75,0.75,3,3,0.44177,imag sourc,,2
+5ac21c7cfffa760008741b66,117255,MIT_AthleticTrainers,,1,,Injuries,0.062613281,1.121478003,1.211072664,0.451365804,,,,1,,,,,,,,0.062613281,injury,0.665556296,0.785588752,1.990039841,3.663934426,0.918975,injuri,,2
+5ac21c7dfffa760008741b6a,117255,MIT_AthleticTrainers,,2,,Liz Letchford,,,,0.700823818,1,,,,,,,,,,,,,,,,,0.463032,liz letchford,,2
+5ac21c7dfffa760008741b6c,117255,MIT_AthleticTrainers,,2,,Outdoor Voices,,,,0.981066628,,,,,,,,,,,,,,,,,,0.47078,outdoor voic,,2
+5ac21c7dfffa760008741b6e,117255,MIT_AthleticTrainers,,2,,POPSUGAR Photography,,,,0.005492123,,,,,,,,,,,,,,,,,,0.457616,popsugar photographi,,2
+5ac21c7dfffa760008741b70,117255,MIT_AthleticTrainers,,3,,trainer Caroline Jordan,0.036399587,,0.692041522,0.871657754,,,,,,,,,,,,0.036399587,trainer Caroline Jordan,,,,,0.651554,trainer carolin jordan,,2
+5ac21c55fffa760008741ae2,117275,MIT_AthleticTrainers,,2,,Central Sensitization,,,,0.164024718,,,,,,,,,,1,,,,1,1,4,6,0.860247,central sensit,,2
+5ac21c56fffa760008741ae3,117275,MIT_AthleticTrainers,,2,,Exercise Patients,,,,0.038420204,,1,,,,,,,,,,,,0.777777778,0.818181818,3.5,4.5,0.64798,exercis patient,,2
+5ac21c56fffa760008741ae4,117275,MIT_AthleticTrainers,,2,,Exercise beliefs,,,0.910596026,0.406098872,,,,,,,,,,,,,Exercise beliefs,,,,,0.652006,exercis belief,,2
+5ac21c56fffa760008741ae5,117275,MIT_AthleticTrainers,,2,,Exercise parameters,,,,0.701370231,,,,,,,,,,,,,,1,1,1,1,0.657039,exercis paramet,,2
+5ac21c56fffa760008741ae6,117275,MIT_AthleticTrainers,,1,,Exercises,,,0.910596026,0.538017195,,1,,,,,,,,,,,exercise,0.547263682,0.584869246,1.208791209,1.408879591,0.763087,exercis,,2
+5ac21c57fffa760008741ae7,117275,MIT_AthleticTrainers,,2,,Knee Osteoarthritis,,,,0.22958087,,1,,,,,,,,,,,,0.774193548,0.770833333,3.428571429,3.363636364,0.976638,knee osteoarthr,,2
+5ac21c57fffa760008741ae8,117275,MIT_AthleticTrainers,,2,,OA rehab,,,,0.876141859,,,,,,,,,,1,,,,,,,,0.643974,oa rehab,,2
+5ac21c57fffa760008741ae9,117275,MIT_AthleticTrainers,,2,,PT sessions,,,,0.76074691,,,,,,,,,,,,,,0,0,0,0,0.680456,pt session,,2
+5ac21c57fffa760008741aea,117275,MIT_AthleticTrainers,,2,,Patient expectations,0.071053512,1.036301202,,0.59645352,,,,,,,,,,,,0.071053512,patient expectations,0.6875,0.705882353,2.2,2.4,0.708318,patient expect,,2
+5ac21c57fffa760008741aeb,117275,MIT_AthleticTrainers,,2,,Physical Function,,,,0.202176249,,1,,,,,,,,,,,,0.62962963,0.666666667,1.7,2,0.643406,physic function,,2
+5ac21c58fffa760008741aec,117275,MIT_AthleticTrainers,,3,,Van der Esch,,,,0.060720043,,,,,,,,,,,,,,,,,,0.651481,van der esch,,2
+5ac21c58fffa760008741aed,117275,MIT_AthleticTrainers,,2,,exercise program,,,,0.452579258,,,,,,,,,,,,,,0.624277457,0.683127572,1.661538462,2.155844156,0.652144,exercis program,,2
+5ac21c58fffa760008741aee,117275,MIT_AthleticTrainers,,2,,exercise selection,0.066526937,0.932671082,0.579470199,0.704056959,,,,,,,,,,,,0.066526937,exercise selection,1,1,14,20,0.736237,exercis select,,2
+5ac21c58fffa760008741aef,117275,MIT_AthleticTrainers,,2,,fear avoidance,,,,0.79486835,,,,,,,,,,,,,,0.5,0.7,1,2.333333333,0.758823,fear avoid,,2
+5ac21c58fffa760008741af0,117275,MIT_AthleticTrainers,,2,,knee ROM,0.081341183,1.060858102,,0.717087587,,,,,,,,,,,,0.081341183,knee ROM,1,1,1,1,0.683315,knee rom,,2
+5ac21c59fffa760008741af1,117275,MIT_AthleticTrainers,,2,,load tolerance,0.108089127,1.296909492,0.745033113,0.685249866,,,,,,,,,,,,0.108089127,load tolerance,1,1,4,4,0.65823,load toler,,2
+5ac21c59fffa760008741af2,117275,MIT_AthleticTrainers,,2,,osteoarthritis pain,,,,0.142933907,,,,,,,,,,,,,,1,1,1,1,0.702969,osteoarthr pain,,2
+5ac21c59fffa760008741af3,117275,MIT_AthleticTrainers,,2,,patient presentation,,,,0.755373455,,,,,,,,,,,,,,0.675675676,0.707317073,2.083333333,2.416666667,0.625002,patient present,,2
+5ac21c59fffa760008741af4,117275,MIT_AthleticTrainers,,2,,patient symptoms,,,,0.806689952,,,,,,,,,,,,,,0.75,0.75,3,3,0.631993,patient symptom,,2
+5ac21c59fffa760008741af5,117275,MIT_AthleticTrainers,,3,,research Anthony Teoli,,,0.579470199,0.927861365,,,,,,,,,,1,,,research Anthony Teoli,,,,,0.689293,research anthoni teoli,,2
+5ac21c5afffa760008741af6,117275,MIT_AthleticTrainers,,2,,treatment plan,,,0.579470199,0.605454057,,,,,,,,,,,,,treatment plan,0.738738739,0.706293706,2.827586207,2.404761905,0.767522,treatment plan,,2
+5ac21c4cfffa760008741aba,117289,MIT_AthleticTrainers,,2,5,Sports Medicine,,,0.989010989,0.946887493,,,,,,,,,,,1,,Sports Medicine,0.780293758,0.813253012,3.551532033,4.35483871,0.719085,sport medicin,7,3
+5ac21c4cfffa760008741abb,117289,MIT_AthleticTrainers,,3,1,Athletic Training Education,,,,0.756900819,,,,,,,,,,,,,,0.829787234,0.849246231,4.875,5.633333333,0.530747,athlet train educ,1,2
+5ac21c4cfffa760008741abc,117289,MIT_AthleticTrainers,,3,1,Training Education Program,0.096712968,1.103404792,,0.755187512,,,,,,,,,,,,0.096712968,Training Education Program,0.821428571,0.852941176,4.6,5.8,,train educ program,1,2
+5ac21c4dfffa760008741abe,117289,MIT_AthleticTrainers,,2,,Athletic Training,,,,0.756900819,,,,,,,,,,,,,,0.619864237,0.729938543,1.630639098,2.702860858,0.585695,athlet train,,2
+5ac21c4dfffa760008741ac2,117289,MIT_AthleticTrainers,,1,,Calhoon,,,0.769230769,0.63335237,,,,,,,,,,,,,Calhoon,,,,,0.477975,calhoon,,2
+5ac21c4dfffa760008741ac4,117289,MIT_AthleticTrainers,,2,,Chet Gladchuk,,,,0.97944032,1,,,,,,,,,,,,,,,,,0.459759,chet gladchuk,,2
+5ac21c4dfffa760008741ac7,117289,MIT_AthleticTrainers,,2,,Jim Berry,,,,0.959642109,1,,,,,,,,,,1,,,1,1,3,3,0.461414,jim berri,,2
+5ac21c4efffa760008741ac9,117289,MIT_AthleticTrainers,,3,,Kent State University,,1.085445167,0.989010989,0.79059585,,,,,,,,,,,,,Kent State University,0.777777778,0.75,3.5,3,0.516232,kent state univers,,2
+5ac21c4efffa760008741acb,117289,MIT_AthleticTrainers,,2,,Naval Academy,,,,0.999428898,,,,,,,,,,,,,,0.571428571,0.785714286,1.333333333,3.666666667,0.558664,naval academi,,2
+5ac21c4efffa760008741acd,117289,MIT_AthleticTrainers,,2,,United States,,,,0.62231106,,,,,,,,,,,,,,0.468292683,0.453211009,0.880733945,0.82885906,0.498733,unit state,,2
+5ac21c4efffa760008741acf,117289,MIT_AthleticTrainers,,3,,Utah State University,,,,0.136112698,,,,,,,,,,,,,,0.625,0.7,1.666666667,2.333333333,0.499252,utah state univers,,2
+5ac21c4ffffa760008741ad1,117289,MIT_AthleticTrainers,,1,,Variano,0.063830559,1.05065666,0.879120879,0.371977917,,,,,,,,,,,,0.063830559,Variano,,,,,0.459408,variano,,2
+5ac21c4ffffa760008741ad3,117289,MIT_AthleticTrainers,,2,,rehabilitation programs,,,,0.710641538,,,,,,,,,,,,,,0.794117647,0.833333333,3.857142857,5,0.455376,rehabilit program,,2
+5ac21c4ffffa760008741ad5,117289,MIT_AthleticTrainers,,2,,sport responsibilities,0.055126392,,,0.784123358,,,,,,,,,,,,0.055126392,sport responsibilities,1,1,1,1,0.499286,sport respons,,2
+5ac21c5bfffa760008741af7,117294,MIT_AthleticTrainers,,3,2,Athletic Training Programs,,,,0.907908761,,,,,,,,,,,1,,,0.768261965,0.785123967,3.315217391,3.653846154,0.950198,athlet train program,4,2
+5ac21c5cfffa760008741af9,117294,MIT_AthleticTrainers,,3,1,Athletic Training Education,,,,0.931357919,,,,,,,,,,,,,,0.829787234,0.849246231,4.875,5.633333333,0.629819,athlet train educ,1,2
+5ac21c5cfffa760008741afa,117294,MIT_AthleticTrainers,,2,1,Training Education,,,,0.929439352,,,,,,,,,,,,,,0.772151899,0.792792793,3.388888889,3.826086957,,train educ,1,2
+5ac21c5cfffa760008741afc,117294,MIT_AthleticTrainers,,2,,Curricular Content,,,,0.641014709,,,,,,,,,,,,,,0.8,0.769230769,4,3.333333333,0.587055,curricular content,,2
+5ac21c5cfffa760008741afe,117294,MIT_AthleticTrainers,,2,,Executive Boards,0.268181728,1.593270027,,0.719889149,,,,,,,,,,,,0.268181728,Executive Boards,0.5,0.536585366,1,1.157894737,0.449802,execut board,,2
+5ac21c5cfffa760008741b00,117294,MIT_AthleticTrainers,,2,,Masters Level,,,1.267605634,0.90066084,,,,,,,,,,,1,,Masters Level,0.75,0.80952381,3,4.25,0.585417,master level,,2
+5ac21c5dfffa760008741b01,117294,MIT_AthleticTrainers,,3,,NATA Educational Competencies,,,,0.218503517,,,,,,,,,,,,,,1,1,1,1,0.553658,nata educ compet,,2
+5ac21c5dfffa760008741b03,117294,MIT_AthleticTrainers,,2,,New Standards,,,,0,,,,,,,,,,,1,,,0.518518519,0.517241379,1.076923077,1.071428571,0.581321,new standard,,2
+5ac21c5dfffa760008741b04,117294,MIT_AthleticTrainers,,2,,Professional Knowledge,,,,0.854615221,,,,,,,,,,,,,,0.428571429,0.428571429,0.75,0.75,0.473969,profession knowledg,,2
+5ac21c5dfffa760008741b05,117294,MIT_AthleticTrainers,,2,,assessment plans,,,,0.648902153,,,,,,,,,,,,,,0.5,0.5,1,1,0.44851,assess plan,,2
+5ac21c5dfffa760008741b07,117294,MIT_AthleticTrainers,,2,,baccalaureate programs,,,1.549295775,0.311447453,,,,,,,,,,,,,baccalaureate programs,0.666666667,0.666666667,2,2,0.467044,baccalaur program,,2
+5ac21c5dfffa760008741b09,117294,MIT_AthleticTrainers,,2,,curriculum development,,,,0.65487103,,,,,,,,,,,,,,0.625,0.625,1.666666667,1.666666667,0.447397,curriculum develop,,2
+5ac21c5efffa760008741b0b,117294,MIT_AthleticTrainers,,2,,program development,,,,0.50074611,,,,,,,,,,,,,,0.446153846,0.439393939,0.805555556,0.783783784,0.456471,program develop,,2
+5ac21c5efffa760008741b0d,117294,MIT_AthleticTrainers,,2,,program students,0.292020104,1.630151278,,0.745256875,,,,,,,,,,,,0.292020104,program students,0.506493506,0.505882353,1.026315789,1.023809524,0.467054,program student,,2
+5ac21c5efffa760008741b0f,117294,MIT_AthleticTrainers,,1,,standards,0.318639623,1.630151278,1.408450704,0.486250266,,,,,,,,,,,1,0.318639623,Standards,0.579487179,0.593959732,1.37804878,1.462809917,0.772303,standard,,2
+5ac21c4dfffa760008741abf,117299,MIT_AthleticTrainers,,2,2,Sports Medicine,0.184087991,1.833660773,1.178781925,0.739862069,1,,,,,,,,,,,0.184087991,Sports Medicine,0.780293758,0.813253012,3.551532033,4.35483871,0.636772,sport medicin,2,3
+5ac21c4dfffa760008741ac1,117299,MIT_AthleticTrainers,,2,1,injury prevention,,,,0.721103448,,,,,,,,,,,,,,0.769485904,0.8,3.338129496,4,,injuri prevent,1,2
+5ac21c4dfffa760008741ac5,117299,MIT_AthleticTrainers,,2,,American College,,,,0.516137931,1,,,,,,,,,,,,,0.696202532,0.659574468,2.291666667,1.9375,0.62742,american colleg,,2
+5ac21c4efffa760008741ac8,117299,MIT_AthleticTrainers,,2,,Associate Director,0.184087991,1.833660773,1.178781925,0.745931034,,,,,,,,,,,,0.184087991,Associate Director,0.480519481,0.433333333,0.925,0.764705882,0.639464,associ director,,2
+5ac21c4efffa760008741aca,117299,MIT_AthleticTrainers,,2,,Boston College,0.184087991,1.833660773,,0.731034483,,,,,,,,,,,,0.184087991,Boston College,0.421052632,0.268656716,0.727272727,0.367346939,0.636494,boston colleg,,2
+5ac21c4efffa760008741acc,117299,MIT_AthleticTrainers,,1,,Contrary,0.146961001,,,0.111724138,,,,,,,,,,,,0.146961001,Contrary,0.454545455,0.441176471,0.833333333,0.789473684,0.448503,contrari,,2
+5ac21c4efffa760008741ace,117299,MIT_AthleticTrainers,,1,,Football,0.184087991,1.833660773,1.178781925,0.734344828,,,,,,,,,,,,0.184087991,Football,0.602915654,0.628547423,1.518356643,1.692133702,0.441569,footbal,,2
+5ac21c4ffffa760008741ad0,117299,MIT_AthleticTrainers,,2,,Mike Vigneau,0.171712328,1.833660773,1.178781925,0.755586207,,,,,,,,,,,,0.171712328,Mike Vigneau,,,,,0.637273,mike vigneau,,2
+5ac21c4ffffa760008741ad2,117299,MIT_AthleticTrainers,,1,,Vigneau,,1.85647116,1.178781925,0.754206897,,,,,,,,,,,,,Vigneau,,,,,0.438358,vigneau,,2
+5ac21c4ffffa760008741ad4,117299,MIT_AthleticTrainers,,1,,calves,0.19955757,1.721103471,1.178781925,0.261793103,,,,,,,,,,,,0.19955757,calves,0.356164384,0.34375,0.553191489,0.523809524,0.444178,calv,,2
+5ac21c4ffffa760008741ad6,117299,MIT_AthleticTrainers,,2,,flexibility exercises,0.261435886,,,0.481103448,,,,,,,,,,,,0.261435886,flexibility exercises,0.666666667,0.848484848,2,5.6,0.641464,flexibl exercis,,2
+5ac21c4ffffa760008741ad7,117299,MIT_AthleticTrainers,,1,,hips,0.181767554,1.795934057,,0.271448276,,,,,,,,,,,,0.181767554,hips,0.574117647,0.596517229,1.348066298,1.478420569,0.511767,hip,,2
+5ac21c4ffffa760008741ad8,117299,MIT_AthleticTrainers,,2,,injury reduction,,,1.178781925,0.872,,,,,,,,,,,,,injury reduction,0.9,0.909090909,9,10,0.649312,injuri reduct,,2
+5ac21c50fffa760008741ad9,117299,MIT_AthleticTrainers,,1,,men,,,1.178781925,0.920275862,1,,,,,,,,,,,,men,0.466317365,0.331928049,0.873772791,0.496844762,0.437237,men,,2
+5ac21c50fffa760008741ada,117299,MIT_AthleticTrainers,,1,,motion,,,,0.361655172,,,,,,,,,,,,,,0.656215006,0.702063107,1.908794788,2.356415479,0.438472,motion,,2
+5ac21c50fffa760008741adb,117299,MIT_AthleticTrainers,,1,,muscles,0.146961001,1.773084479,,0.356965517,,,,,,,,,,,,0.146961001,muscle,0.570486815,0.619639726,1.328217237,1.629086337,0.588036,muscl,,2
+5ac21c51fffa760008741adc,117299,MIT_AthleticTrainers,,1,,performance,,,1.178781925,0.841931034,1,,,,,,,,,,,,performance,0.543989432,0.590608466,1.192931634,1.442649435,0.444683,perform,,2
+5ac21c51fffa760008741add,117299,MIT_AthleticTrainers,,2,,pigeon stretch,,,,0.165241379,1,,,,,,,,,,,,,0,0,0,0,0.609658,pigeon stretch,,2
+5ac21c51fffa760008741ade,117299,MIT_AthleticTrainers,,1,,range,,1.739220349,,0.364137931,,,,,,,,,,,,,range,0.514024041,0.573410405,1.057714959,1.344173442,0.478322,rang,,2
+5ac21c52fffa760008741adf,117299,MIT_AthleticTrainers,,1,,rounds,,,1.768172888,0.426206897,,,,,,,,,,,,,rounds,0.322820037,0.265533723,0.476712329,0.361532899,0.443834,round,,2
+5ac21c52fffa760008741ae0,117299,MIT_AthleticTrainers,,1,,series,0.261435886,,,0.483862069,,,,,,,,,,,,0.261435886,series,0.404938272,0.36350365,0.680497925,0.571100917,0.439783,seri,,2
+5ac21c52fffa760008741ae1,117299,MIT_AthleticTrainers,,2,,shoulder girdle,0.19955757,1.721103471,1.178781925,0.252965517,,,,,,,,,,,,0.19955757,shoulder girdle,0.7,0.727272727,2.333333333,2.666666667,0.632188,shoulder girdl,,2
+5ac21c3dfffa760008741a8f,117310,MIT_AthleticTrainers,,2,3,Sports Medicine,0.463398143,2.412686531,1.147776184,0.757916241,,,,,,,,,,,,0.463398143,Sports Medicine,0.780293758,0.813253012,3.551532033,4.35483871,0.873512,sport medicin,4,3
+5ac21c3efffa760008741a93,117310,MIT_AthleticTrainers,,2,,David Pascal,,,1.291248207,0.567160368,,,,,,,,,,,,,David Pascal,,,,,0.453888,david pascal,,2
+5ac21c3efffa760008741a96,117310,MIT_AthleticTrainers,,2,,Health Institute,,,1.291248207,0.558478039,,,,,,,,,,,,,Health Institute,0.307692308,0.307692308,0.444444444,0.444444444,0.457434,health institut,,2
+5ac21c3efffa760008741a98,117310,MIT_AthleticTrainers,,2,,Kim Tee,0.154603473,,,0.297497446,,,,,,,,,,,,0.154603473,Kim Tee,,,,,0.439295,kim tee,,2
+5ac21c3efffa760008741a9b,117310,MIT_AthleticTrainers,,1,,MD,0.522353601,2.473123122,1.291248207,0.758937692,,,,,,,,,,,,0.522353601,MD,0.512125535,0.532689028,1.049707602,1.139902676,0.350178,md,,2
+5ac21c3ffffa760008741a9d,117310,MIT_AthleticTrainers,,2,,Mark Hutchinson,0.463398143,2.412686531,1.147776184,0.148110317,,,,,,,,,,,,0.463398143,Mark Hutchinson,1,1,1,2,0.442258,mark hutchinson,,2
+5ac21c3ffffa760008741aa0,117310,MIT_AthleticTrainers,,2,,North Carolina,,,1.291248207,0.553370787,,,,,,,,,,,,,North Carolina,0.49375,0.457809695,0.975308642,0.844370861,0.457353,north carolina,,2
+5ac21c3ffffa760008741aa3,117310,MIT_AthleticTrainers,,1,,Olympics,0.463398143,2.412686531,1.147776184,0.973953013,,,,,,,,,,,1,0.463398143,Olympics,0.438152012,0.439293598,0.779840849,0.783464567,0.537888,olymp,,2
+5ac21c3ffffa760008741aa6,117310,MIT_AthleticTrainers,,2,,Special Surgery,0.522353601,2.462082394,1.291248207,0.746680286,,,,,,,,,,,,0.522353601,Special Surgery,0.8125,0.842105263,4.333333333,5.333333333,0.463148,special surgeri,,2
+5ac21c3ffffa760008741aa9,117310,MIT_AthleticTrainers,,2,,Stat News,,,,0.867722165,1,,,,,,,,,,,,,0.5,0.5,1,1,0.470528,stat new,,2
+5ac21c40fffa760008741aac,117310,MIT_AthleticTrainers,,3,,Thorek Memorial Hospital,0.154603473,,,0.290347293,,,,,,,,,,,,0.154603473,Thorek Memorial Hospital,,,,,0.585227,thorek memori hospit,,2
+5ac21c41fffa760008741aaf,117310,MIT_AthleticTrainers,,1,,athletes,,,,0.805158325,,,,,,,,,,,,,,0.559528153,0.733049884,1.270292656,2.746018227,0.386063,athlet,,2
+5ac21c42fffa760008741ab0,117310,MIT_AthleticTrainers,,2,,background checks,,,,0.845250255,,,,,,,,,,,,,,0.347826087,0.4,0.533333333,0.666666667,0.461412,background check,,2
+5ac21c42fffa760008741ab1,117310,MIT_AthleticTrainers,,1,,experience,0.267154801,,1.004304161,0.941266599,,,,,,,,,,,,0.267154801,experience,0.476398875,0.483989021,0.909850746,0.937943262,0.353498,experi,,2
+5ac21c42fffa760008741ab2,117310,MIT_AthleticTrainers,,2,,internship type,0.282409011,2.065567252,,0.789836568,,,,,,,,,,,,0.282409011,internship type,0,0,0,0,0.463982,internship type,,2
+5ac21c42fffa760008741ab3,117310,MIT_AthleticTrainers,,2,,malpractice insurance,0.267154801,,1.004304161,0.918539326,,,,,,,,,,,,0.267154801,malpractice insurance,0.5,0.307692308,1,0.444444444,0.477068,malpractic insur,,2
+5ac21c43fffa760008741ab4,117310,MIT_AthleticTrainers,,1,,minimum,0.267154801,,1.004304161,0.947906027,,,,,,,,,,,,0.267154801,minimum,0.556164384,0.542168675,1.25308642,1.184210526,0.35739,minimum,,2
+5ac21c44fffa760008741ab5,117310,MIT_AthleticTrainers,,1,,time,,,,0.609805924,,,,,,,,,,,,,,0.454479154,0.448318751,0.833110517,0.812640908,0.348508,time,,2
+5ac21c44fffa760008741ab6,117310,MIT_AthleticTrainers,,2,,travel events,,,,0.062563841,,,,,,,,,,,,,,0.25,0.25,0.333333333,0.333333333,0.447508,travel event,,2
+5ac21c45fffa760008741ab7,117310,MIT_AthleticTrainers,,2,,travel expenses,,,,0.192032686,,,,,,,,,,,,,,0.583333333,0.615384615,1.4,1.6,0.442344,travel expens,,2
+5ac21c45fffa760008741ab8,117310,MIT_AthleticTrainers,,2,,volunteer physician,0.463398143,2.412686531,1.147776184,0.114913177,,,,,,,,,,,,0.463398143,volunteer physician,,,,,0.454078,volunt physician,,2
+5ac21c45fffa760008741ab9,117310,MIT_AthleticTrainers,,3,,” Scott Rodeo,,,,0,,,,,,,,,,,,,,,,,,0.475324,scott rodeo,,2
+5ac21c3efffa760008741a92,117351,MIT_AthleticTrainers,,3,3,Athletics Trainers Association,,,,0.785300022,,,,,,,,,,,,,,0.869649805,0.872340426,6.671641791,6.833333333,0.436945,athlet trainer associ,3,2
+5ac21c3efffa760008741a95,117351,MIT_AthleticTrainers,,2,1,injury prevention,,,,0.425273255,,,,,,,,,,,,,,0.769485904,0.8,3.338129496,4,,injuri prevent,1,2
+5ac21c3ffffa760008741a9e,117351,MIT_AthleticTrainers,,3,1,school athletic trainers,,,,0.258643765,,,,,,,,,,,,,,0.827731092,0.850909091,4.804878049,5.707317073,0.289941,school athlet trainer,1,2
+5ac21c3ffffa760008741aa1,117351,MIT_AthleticTrainers,,2,1,extremity injuries,,,,0.12670087,,,,,,,,,,,,,,0.958333333,0.968085106,23,30.33333333,,extrem injuri,1,2
+5ac21c3ffffa760008741aa5,117351,MIT_AthleticTrainers,,2,,Berks County,,,,0.984608521,,,,,,,,,,,,,,0.25,0.083333333,0.333333333,0.090909091,0.585356,berk counti,,2
+5ac21c3ffffa760008741aa8,117351,MIT_AthleticTrainers,,3,,County Scholastic Athletics,,,,0.787307607,,,,,,,,,,,,,,,,,,0.441103,counti scholast athlet,,2
+5ac21c40fffa760008741aab,117351,MIT_AthleticTrainers,,3,,National Athletic Training,,,,0.442560785,,,,,,,,,,,,,,0.907692308,0.93258427,9.833333333,13.83333333,0.292635,nation athlet train,,2
+5ac21c40fffa760008741aad,117351,MIT_AthleticTrainers,,3,,President Audrey Dickman,0.060079923,0.852143615,0.54200542,0.460071381,,,,,,,,,,,,0.060079923,President Audrey Dickman,,,,,0.280406,presid audrei dickman,,2
+5ac21c40fffa760008741aae,117351,MIT_AthleticTrainers,,2,,student safety,,,,0.988289092,,,,,,,,,,,,,,0.636363636,0.666666667,1.75,2,0.316937,student safeti,,2
+5ac21c31fffa760008741a67,117352,MIT_AthleticTrainers,,1,, Association,,,,0.567990373,,,,,,,,,,,,,,0.571428571,0.58428427,1.333333333,1.405489924,0.324959,associ,,2
+5ac21c31fffa760008741a6b,117352,MIT_AthleticTrainers,,1,,Ashley,,,,0.398315283,,,,,,,,,,,,,,0.393700787,0.410377358,0.649350649,0.696,0.329741,ashlei,,2
+5ac21c32fffa760008741a6c,117352,MIT_AthleticTrainers,,2,,College students,,,,0.474729242,,,,,,,,,,,,,,0.364640884,0.366666667,0.573913043,0.578947368,0.445413,colleg student,,2
+5ac21c32fffa760008741a6e,117352,MIT_AthleticTrainers,,1,,High,,,,0.39410349,,,,,,,,,,,,,,0.503966155,0.561909079,1.015991471,1.28263119,0.323623,high,,2
+5ac21c33fffa760008741a70,117352,MIT_AthleticTrainers,,1,,NCATA,,,,0.096269555,,,,,,,,,,,,,,0.666666667,0.666666667,2,2,0.350203,ncata,,2
+5ac21c33fffa760008741a71,117352,MIT_AthleticTrainers,,1,,Photo,1.259630671,,3.153153153,0.931407942,,,,,,,,,,,,1.259630671,Photo,0.438650307,0.423951491,0.781420765,0.735964912,0.325635,photo,,2
+5ac21c34fffa760008741a73,117352,MIT_AthleticTrainers,,1,,School,0.591088826,4.095004095,3.153153153,0.391095066,,,,,,,,,,,,0.591088826,school,0.514332514,0.559557407,1.059021922,1.27044345,0.344978,school,,2
+5ac21c34fffa760008741a76,117352,MIT_AthleticTrainers,,2,,Spring Symposium,1.100648159,,2.702702703,0,,,,,,,,,,,1,1.100648159,Spring Symposium,0,0,0,0,0.772851,spring symposium,,2
+5ac21c34fffa760008741a77,117352,MIT_AthleticTrainers,,2,,UNC Pembroke,1.100648159,,1.801801802,0.965102286,,,,,,,,,,,,1.100648159,UNC Pembroke,,,,,0.501017,unc pembrok,,2
+5ac21c35fffa760008741a78,117352,MIT_AthleticTrainers,,2,,UNC Wilmington,1.100648159,,1.801801802,0.976534296,,,,,,,,,,,,1.100648159,UNC Wilmington,0.2,0.111111111,0.25,0.125,0.495264,unc wilmington,,2
+5ac21c35fffa760008741a79,117352,MIT_AthleticTrainers,,2,,WRIGHTSVILLE BEACH,,,2.252252252,0.671480144,,,,,,,,,,,,,WRIGHTSVILLE BEACH,1,1,1,1,0.611455,wrightsvil beach,,2
+5ac21c35fffa760008741a7b,117352,MIT_AthleticTrainers,,1,,charge,,,,0.235860409,,,,,,,,,,,,,,0.340675477,0.252201761,0.516703786,0.337259101,0.325791,charg,,2
+5ac21c35fffa760008741a7c,117352,MIT_AthleticTrainers,,1,,colleagues,,3.354123354,,0.343561974,,,,,,,,,,,,,colleagues,0.529774127,0.524464832,1.126637555,1.102893891,0.333046,colleagu,,2
+5ac21c36fffa760008741a7d,117352,MIT_AthleticTrainers,,1,,craft,,3.354123354,,0.324909747,,,,,,,,,,,,,craft,0.301204819,0.305418719,0.431034483,0.439716312,0.323385,craft,,2
+5ac21c36fffa760008741a7f,117352,MIT_AthleticTrainers,,1,,event,0.684847744,3.893178893,2.252252252,0.364019254,,,,,,,,,,,,0.684847744,event,0.428887904,0.421448087,0.750969744,0.728453365,0.323528,event,,2
+5ac21c37fffa760008741a80,117352,MIT_AthleticTrainers,,1,,guardians,0.591088826,4.095004095,3.153153153,0.302045728,,,,,,,,,,,,0.591088826,guardians,0.634408602,0.628378378,1.735294118,1.690909091,0.332685,guardian,,2
+5ac21c37fffa760008741a82,117352,MIT_AthleticTrainers,,1,,kids,0.591088826,4.095004095,3.153153153,0.289410349,,,,,,,,,,,,0.591088826,kids,0.517921147,0.543051176,1.074349442,1.188428875,0.323021,kid,,2
+5ac21c37fffa760008741a84,117352,MIT_AthleticTrainers,,1,,networking,0.974277445,5.383252105,4.054054054,0.155836342,,,,,,,,,,,,0.974277445,networking,0.36505867,0.351837959,0.574948665,0.542824074,0.322994,network,,2
+5ac21c38fffa760008741a86,117352,MIT_AthleticTrainers,,1,,opportunity,,,,0.534897714,,,,,,,,,,,,,,0.415261757,0.417318436,0.71016692,0.71620326,0.324595,opportun,,2
+5ac21c38fffa760008741a88,117352,MIT_AthleticTrainers,,1,,parents,0.591088826,4.095004095,3.153153153,0.309265945,,,,,,,,,,,,0.591088826,parents,0.611473272,0.625819917,1.573825503,1.67250996,0.32308,parent,,2
+5ac21c39fffa760008741a89,117352,MIT_AthleticTrainers,,1,,skills,0.974277445,5.383252105,4.054054054,0.162454874,,,,,,,,,,,,0.974277445,skills,0.492403315,0.492345164,0.970068027,0.969842358,0.323018,skill,,2
+5ac21c39fffa760008741a8a,117352,MIT_AthleticTrainers,,1,,sports,,,,0.276173285,,,,,,,,,,,,,,0.626387625,0.704857797,1.676570872,2.388197251,0.322962,sport,,2
+5ac21c3afffa760008741a8b,117352,MIT_AthleticTrainers,,1,,taste,,,,0.450060168,,,,,,,,,,,,,,0.217857143,0.205804749,0.278538813,0.259136213,0.331556,tast,,2
+5ac21c3afffa760008741a8c,117352,MIT_AthleticTrainers,,1,,weekend,,,,0.601083032,,,,,,,,,,,,,,0.33240612,0.293246994,0.497916667,0.414921466,0.325047,weekend,,2
+5ac21c31fffa760008741a68,117367,MIT_AthleticTrainers,,3,1,National Athletic Trainers,,,,0.833333333,,,,,,,,,,,,,,0.876777251,0.886100386,7.115384615,7.779661017,0.814675,nation athlet trainer,1,2
+5ac21c31fffa760008741a69,117367,MIT_AthleticTrainers,,3,1,health care professionals,,,,0.72972973,,,,,,,,,,,,,,0.765060241,0.758293839,3.256410256,3.137254902,0.70664,health care profession,1,2
+5ac21c32fffa760008741a6d,117367,MIT_AthleticTrainers,,1,, Programs,,,,0,,,,,,,,,,,1,,,0.50204433,0.528566518,1.00821089,1.121190025,0.427839,program,,2
+5ac21c33fffa760008741a6f,117367,MIT_AthleticTrainers,,2,,Athletic Trainers,4.881127709,10.80940851,9.183673469,0.81981982,,,,,,,,,,,1,4.881127709,Athletic Trainers,0.602995486,0.73492667,1.518863049,2.772540984,0.900342,athlet trainer,,2
+5ac21c33fffa760008741a72,117367,MIT_AthleticTrainers,,2,,Madeleine Balestrier,3.639806438,9.242827566,6.12244898,0.986486486,,1,,,,,,,,,,3.639806438,Madeleine Balestrier,,,,,0.608025,madelein balestri,,2
+5ac21c34fffa760008741a74,117367,MIT_AthleticTrainers,,1,,Scenes,4.881127709,10.80940851,9.183673469,0,,,,,,,,,,,1,4.881127709,Scenes,0.455587393,0.432242991,0.836842105,0.761316872,0.438456,scene,,2
+5ac21c34fffa760008741a75,117367,MIT_AthleticTrainers,,2,,UNIVERSITY PARK,,,6.12244898,0.893393393,,,,,,,,,,,,,UNIVERSITY PARK,0.416666667,0.466666667,0.714285714,0.875,0.569313,univers park,,2
+5ac21c35fffa760008741a7a,117367,MIT_AthleticTrainers,,1,,athletes,5.59646539,8.111127663,3.06122449,0.313813814,,,,,,,,,,,1,5.59646539,athletes,0.559528153,0.733049884,1.270292656,2.746018227,0.435843,athlet,,2
+5ac21c36fffa760008741a7e,117367,MIT_AthleticTrainers,,1,,emergency,5.175678519,7.782636864,4.081632653,0.654654655,,,,,,,,,,,,5.175678519,emergency,0.549862763,0.571024335,1.221544715,1.331134565,0.424345,emerg,,2
+5ac21c37fffa760008741a81,117367,MIT_AthleticTrainers,,1,,injuries,5.175678519,7.782636864,4.081632653,0.591591592,,,,,,,,,,,,5.175678519,injuries,0.665556296,0.785588752,1.990039841,3.663934426,0.436017,injuri,,2
+5ac21c37fffa760008741a83,117367,MIT_AthleticTrainers,,1,,mission,7.195455502,9.338020923,7.142857143,0.376876877,,,,,,,,,,,,7.195455502,mission,0.385608856,0.380543634,0.627627628,0.614318707,0.423014,mission,,2
+5ac21c37fffa760008741a85,117367,MIT_AthleticTrainers,,1,,prevention,5.175678519,7.782636864,3.06122449,0.672672673,,,,,,,,,,,,5.175678519,prevention,0.634854772,0.687299035,1.738636364,2.197943445,0.424403,prevent,,2
+5ac21c38fffa760008741a87,117367,MIT_AthleticTrainers,,1,,women,5.028403114,8.231292517,5.102040816,0.435435435,,,,,,,,,,,,5.028403114,women,0.412987013,0.259062642,0.703539823,0.34964176,0.423212,women,,2
+5ac21c2afffa760008741a32,117368,MIT_AthleticTrainers,,2,2,sports medicine,,,,0.680718336,,1,,,,,,,,,,,,0.780293758,0.813253012,3.551532033,4.35483871,,sport medicin,3,2
+5ac21c2bfffa760008741a33,117368,MIT_AthleticTrainers,,2,1,injury prevention,,,,0.583175803,,,,,,,,,,,,,,0.769485904,0.8,3.338129496,4,0.464154,injuri prevent,1,3
+5ac21c2bfffa760008741a34,117368,MIT_AthleticTrainers,,2,1,Sports Injuries,0.203939531,1.928398231,,0,,,,,,,,,,,1,0.203939531,sports injury,0.890675241,0.907801418,8.147058824,9.846153846,0.473412,sport injuri,3,3
+5ac21c2bfffa760008741a35,117368,MIT_AthleticTrainers,,2,1,concussion management,,,,0.070321361,,,,,,,,,,,,,,0.942307692,0.959558824,16.33333333,23.72727273,,concuss manag,1,2
+5ac21c2bfffa760008741a36,117368,MIT_AthleticTrainers,,2,2,youth athletes,0.146519663,,0.898587933,0.90510397,,1,,,,,,,,,,0.146519663,youth athletes,0.858267717,0.865591398,6.055555556,6.44,0.583358,youth athlet,3,3
+5ac21c2cfffa760008741a38,117368,MIT_AthleticTrainers,,3,1,sports related injury,,,,0,,,,,,,,,,,,,,0.886597938,0.899082569,7.818181818,8.909090909,0.475357,sport relat injuri,2,2
+5ac21c2cfffa760008741a39,117368,MIT_AthleticTrainers,,2,1,professional sports,,,,0.860302457,,,,,,,,,,,,,,0.743362832,0.763157895,2.896551724,3.222222222,0.472169,profession sport,1,2
+5ac21c2cfffa760008741a3b,117368,MIT_AthleticTrainers,,3,1,sports medicine physician,,,,0.680718336,,1,,,,,,,,,,,,0.876712329,0.858823529,7.111111111,6.083333333,0.611422,sport medicin physician,2,2
+5ac21c2cfffa760008741a3d,117368,MIT_AthleticTrainers,,3,,Athletico Athletic Trainers,0.166319617,1.643132221,1.026957638,0.546502836,,,,,,,,,,,,0.166319617,Athletico Athletic Trainers,1,1,3,5,0.687996,athletico athlet trainer,,2
+5ac21c2cfffa760008741a3f,117368,MIT_AthleticTrainers,,3,,Best Treatment Options,,,0.898587933,0.986011342,,1,,,,,,,,,,,Best Treatment Options,1,1,2,2,0.537551,best treatment option,,2
+5ac21c2dfffa760008741a41,117368,MIT_AthleticTrainers,,2,,Emergency Room,0.163019625,1.532772594,,0.513988658,,1,,,,,,,,,,0.163019625,emergency room,0.709876543,0.714285714,2.446808511,2.5,0.676063,emerg room,,2
+5ac21c2dfffa760008741a43,117368,MIT_AthleticTrainers,,3,,National Athletic Training,,,,0.97731569,,1,,,,,,,,,,,,0.907692308,0.93258427,9.833333333,13.83333333,0.709021,nation athlet train,,2
+5ac21c2dfffa760008741a45,117368,MIT_AthleticTrainers,,2,,Urgent Care,,,,0.483175803,,1,,,,,,,,,,,,0.391304348,0.361111111,0.642857143,0.565217391,0.521625,urgent care,,2
+5ac21c2dfffa760008741a48,117368,MIT_AthleticTrainers,,3,,Youth Sports Injuries,,,0.898587933,0,,,,,,,,,,,1,,Youth Sports Injuries,1,1,7,8,0.55625,youth sport injuri,,2
+5ac21c2dfffa760008741a4b,117368,MIT_AthleticTrainers,,2,,ligament sprains,,,1.026957638,0.440642722,,,,,,,,,,,,,ligament sprains,0.95,0.954545455,19,21,0.531946,ligament sprain,,2
+5ac21c2efffa760008741a4e,117368,MIT_AthleticTrainers,,1,,parents,0.166319617,1.643132221,1.026957638,0.907372401,,,,,,,,,,,1,0.166319617,parents,0.611473272,0.625819917,1.573825503,1.67250996,0.474079,parent,,2
+5ac21c2efffa760008741a52,117368,MIT_AthleticTrainers,,2,,student athletes,,,0.898587933,0.781285444,,,,,,,,,,,,,student athletes,0.682164634,0.726280992,2.146282974,2.653381643,0.485002,student athlet,,2
+5ac21c1efffa760008741a21,117369,MIT_AthleticTrainers,,2,1,sports medicine,0.633357419,3.129876886,1.687763713,0.740049313,,,,,,,,,,,,0.633357419,sports medicine,0.780293758,0.813253012,3.551532033,4.35483871,0.363184,sport medicin,1,3
+5ac21c1ffffa760008741a22,117369,MIT_AthleticTrainers,,3,2,National Athletic Trainers,0.448702509,2.807632089,1.898734177,0.859457555,,,,,,,,,,,1,0.448702509,National Athletic Trainers,0.876777251,0.886100386,7.115384615,7.779661017,0.821675,nation athlet trainer,3,3
+5ac21c1ffffa760008741a23,117369,MIT_AthleticTrainers,,1,,@stevensducks,,,,0.045438535,,,,,,,,,,,,,,1,1,1,2,0.23871,stevensduck,,2
+5ac21c1ffffa760008741a24,117369,MIT_AthleticTrainers,,2,,Canavan Arena,,,,0.520605847,,,,,,,,,,,,,,1,1,1,2,0.356387,canavan arena,,2
+5ac21c1ffffa760008741a25,117369,MIT_AthleticTrainers,,1,,Facebook,,,,0.075730891,,,,,,,,,,1,,,,0.356837607,0.344709898,0.554817276,0.526041667,0.229414,facebook,,2
+5ac21c20fffa760008741a26,117369,MIT_AthleticTrainers,,1,,HOBOKEN,,2.595427338,1.476793249,0.927791476,,,,,,,,,,1,,,HOBOKEN,0.5,0.6,1,1.5,0.232777,hoboken,,2
+5ac21c20fffa760008741a27,117369,MIT_AthleticTrainers,,2,,John Pagano,0.384474715,2.735081374,2.109704641,0.475871786,,,,,,,,,,,,0.384474715,John Pagano,,,,,0.363969,john pagano,,2
+5ac21c20fffa760008741a28,117369,MIT_AthleticTrainers,,2,,PR toolkits,,,,0.123987319,,,,,,,,,,,,,,1,1,1,2,0.337475,pr toolkit,,2
+5ac21c20fffa760008741a29,117369,MIT_AthleticTrainers,,2,,Sexual Education,0.735051427,3.143757057,1.265822785,0.58224727,,,,,,,,,,,,0.735051427,Sexual Education,,,,,0.350389,sexual educ,,2
+5ac21c20fffa760008741a2a,117369,MIT_AthleticTrainers,,2,,Tara Temple,,,,0.703416696,1,,,,,,,,,,,,,1,1,1,1,0.35979,tara templ,,2
+5ac21c21fffa760008741a2b,117369,MIT_AthleticTrainers,,1,,campus,0.384474715,2.735081374,2.109704641,0.792532582,,,,,,,,,,,,0.384474715,campus,0.324107143,0.273508137,0.479524439,0.376477909,0.247195,campu,,2
+5ac21c21fffa760008741a2c,117369,MIT_AthleticTrainers,,1,,dietitian,0.384474715,2.735081374,2.109704641,0.483268757,,,,,,,,,,,,0.384474715,dietitian,0.339506173,0.4,0.514018692,0.666666667,0.23027,dietitian,,2
+5ac21c21fffa760008741a2d,117369,MIT_AthleticTrainers,,1,,preregistration,,,,0.284607256,,,,,,,,,,,,,,1,1,1,1,0.239925,preregistr,,2
+5ac21c21fffa760008741a2e,117369,MIT_AthleticTrainers,,2,,press releases,,,,0.138076788,,,,,,,,,,,,,,0.464864865,0.429149798,0.868686869,0.75177305,0.335664,press releas,,2
+5ac21c21fffa760008741a2f,117369,MIT_AthleticTrainers,,3,,sample media alerts,,,,0.132441,,,,,,,,,,,,,,,,,,0.446277,sampl media alert,,2
+5ac21c22fffa760008741a30,117369,MIT_AthleticTrainers,,1,,slogan,,,,0.09827404,,,,,,,,,,,,,,0.62962963,0.666666667,1.7,2,0.230357,slogan,,2
+5ac21c22fffa760008741a31,117369,MIT_AthleticTrainers,,2,,student athletes,0.735051427,3.143757057,1.265822785,0,,,,,,,,,,,,0.735051427,student athletes,0.682164634,0.726280992,2.146282974,2.653381643,0.35861,student athlet,,2
+5ac21c19fffa760008741a00,117378,MIT_AthleticTrainers,,2,1,injury prevention,,,,0.752554278,,,,,,,,,,,,,,0.769485904,0.8,3.338129496,4,0.589305,injuri prevent,1,3
+5ac21c19fffa760008741a01,117378,MIT_AthleticTrainers,,2,1,sports injury,,,,0.877394636,,,,,,,,,,,,,,0.890675241,0.907801418,8.147058824,9.846153846,0.597131,sport injuri,1,2
+5ac21c1afffa760008741a02,117378,MIT_AthleticTrainers,,2,1,ankle sprains,0.770605595,2.424143049,,0.184546616,,,,,,,,,,,,0.770605595,ankle sprains,0.776223776,0.880877743,3.46875,7.394736842,0.578291,ankl sprain,1,3
+5ac21c1afffa760008741a03,117378,MIT_AthleticTrainers,,3,1,long term effects,,,,0,,,,,,,,,,,,,,0.927927928,0.9375,12.875,15,0.583798,long term effect,1,2
+5ac21c1afffa760008741a05,117378,MIT_AthleticTrainers,,2,1,injury rates,0.42562035,2.475398291,1.425661914,0.083652618,,,,,,,,,,,,0.42562035,injury rates,0.815217391,0.835164835,4.411764706,5.066666667,0.580268,injuri rate,1,3
+5ac21c1afffa760008741a07,117378,MIT_AthleticTrainers,,2,1,orthopedic surgeons,,,,0.111749681,,,,,,,,,,,,,,0.789473684,0.804020101,3.75,4.102564103,0.570879,orthoped surgeon,1,2
+5ac21c1afffa760008741a09,117378,MIT_AthleticTrainers,,1,, Clinic,,,1.425661914,0.350893997,,,,,,,,,,,,,clinic,0.634206219,0.641690341,1.733780761,1.790882061,0.522895,clinic,,2
+5ac21c1bfffa760008741a0c,117378,MIT_AthleticTrainers,,1,,ATCs,,,1.629327902,0.770434227,,,,,,,,,,,,,ATC,0.798642534,0.867980296,3.966292135,6.574626866,0.600522,atc,,2
+5ac21c1bfffa760008741a0d,117378,MIT_AthleticTrainers,,3,,Dr. Thomas Pulling,,2.353615071,1.221995927,0.332694764,,,,,,,,,,,,,Dr. Thomas Pulling,,,,,0.632459,dr thoma pull,,2
+5ac21c1bfffa760008741a0e,117378,MIT_AthleticTrainers,,3,,Franklin Memorial Hospital,,,1.629327902,0.690613027,,,,,,,,,,,,,Franklin Memorial Hospital,,,,,0.643282,franklin memori hospit,,2
+5ac21c1bfffa760008741a0f,117378,MIT_AthleticTrainers,,2,,Heather Mitchell,,,1.629327902,0.903895275,,,,,,,,,,,,,Heather Mitchell,,,,,0.677497,heather mitchel,,2
+5ac21c1cfffa760008741a11,117378,MIT_AthleticTrainers,,2,,Heather Patterson,,2.353615071,1.221995927,0.325351213,,,,,,,,,,,,,Heather Patterson,,,,,0.579922,heather patterson,,2
+5ac21c1cfffa760008741a13,117378,MIT_AthleticTrainers,,2,,Jeremy Starbird,,,1.629327902,0.912196679,,,,,,,,,,,,,Jeremy Starbird,,,,,0.732462,jeremi starbird,,2
+5ac21c1cfffa760008741a15,117378,MIT_AthleticTrainers,,1,,concussions,0.770605595,2.424143049,,0.179757344,,,,,,,,,,,,0.770605595,concussions,0.835714286,0.938765053,5.086956522,15.33054393,0.518056,concuss,,2
+5ac21c1cfffa760008741a18,117378,MIT_AthleticTrainers,,1,,dieticians,0.770605595,2.424143049,1.221995927,0.099616858,,,,,,,,,,,,0.770605595,dieticians,0.526315789,0.523809524,1.111111111,1.1,0.520315,dietician,,2
+5ac21c1dfffa760008741a1a,117378,MIT_AthleticTrainers,,1,,hand,,,,0.538633461,,,,,,,,,,,,,,0.431132844,0.410070258,0.757879656,0.69511711,0.52132,hand,,2
+5ac21c1dfffa760008741a1d,117378,MIT_AthleticTrainers,,2,,knee injuries,0.770605595,2.424143049,,0.175606641,,,,,,,,,,,,0.770605595,knee injuries,0.605166052,0.692488263,1.53271028,2.251908397,0.571908,knee injuri,,2
+5ac21c1efffa760008741a1e,117378,MIT_AthleticTrainers,,2,,preseason conditioning,,,1.629327902,0.379310345,,,,,,,,,,,,,preseason conditioning,0.666666667,0.666666667,2,2,0.577783,preseason condit,,2
+5ac21c1efffa760008741a1f,117378,MIT_AthleticTrainers,,1,,rehabilitation,0.405669396,2.297606925,1.425661914,0.737867178,,,,,,,,,,,,0.405669396,rehabilitation,0.732172471,0.766651141,2.73374613,3.285429142,0.52449,rehabilit,,2
+5ac21c1efffa760008741a20,117378,MIT_AthleticTrainers,,1,,treatments,0.371586516,,1.629327902,0.220625798,,,,,,,,,,,,0.371586516,treatments,0.662143191,0.658440481,1.959833795,1.92774742,0.521128,treatment,,2
+5ac21c15fffa7600087419ef,117431,MIT_AthleticTrainers,,2,1,post injury,,,,0,,,,,,,,,,,,,,0.921875,0.944444444,11.8,17,0.224886,post injuri,1,2
+5ac21c15fffa7600087419f1,117431,MIT_AthleticTrainers,,1,, frame,0.524442619,2.671502052,1.446280992,0.68734414,,,,,,,,,,,,0.524442619,frame,0.375565611,0.37593985,0.601449275,0.602409639,0.233277,frame,,2
+5ac21c15fffa7600087419f2,117431,MIT_AthleticTrainers,,1,,Clinicians,,,2.066115702,0.646197007,,,,,,,,,,,,,Clinicians,0.640159046,0.659340659,1.779005525,1.935483871,0.237911,clinician,,2
+5ac21c15fffa7600087419f3,117431,MIT_AthleticTrainers,,2,,Fitting Efficiency,,,,0.970386534,,,,1,,,,,,,,,,1,1,1,1,0.307948,fit effici,,2
+5ac21c16fffa7600087419f4,117431,MIT_AthleticTrainers,,2,,Injury Solutions,,,,0.292394015,,,,,,,,,,,,,,0.2,0.2,0.25,0.25,0.288971,injuri solut,,2
+5ac21c16fffa7600087419f6,117431,MIT_AthleticTrainers,,1,,XL,,,1.239669421,0.419264339,,,,,,,,,,,,,XL,0.666666667,0.666666667,2,2,0.218548,xl,,2
+5ac21c16fffa7600087419f7,117431,MIT_AthleticTrainers,,1,,breadth,,,,0.295822943,,,,,,,,,,,,,,0.545454545,0.52173913,1.2,1.090909091,0.219928,breadth,,2
+5ac21c16fffa7600087419f8,117431,MIT_AthleticTrainers,,2,,care models,,,,0.052369077,,,,,,,,,,,,,,0.19047619,0.153846154,0.235294118,0.181818182,0.290707,care model,,2
+5ac21c16fffa7600087419fa,117431,MIT_AthleticTrainers,,1,,inches,0.334513971,2.768295604,,0.336970075,,,,,,,,,,,,0.334513971,inches,0.324840764,0.324766355,0.481132075,0.480968858,0.23815,inch,,2
+5ac21c17fffa7600087419fc,117431,MIT_AthleticTrainers,,2,,knee injury,,,1.446280992,0.269326683,,,,,,,,,,,,,knee injury,0.605166052,0.692488263,1.53271028,2.251908397,0.370897,knee injuri,,2
+5ac21c17fffa7600087419fe,117431,MIT_AthleticTrainers,,1,,patients,0.243827319,,2.066115702,0.653990025,,,,1,,,,,,,,0.243827319,patient,0.608920749,0.642412594,1.557026477,1.796519068,0.230156,patient,,2
+5ac21c18fffa7600087419ff,117431,MIT_AthleticTrainers,,1,,percent,0.307992403,,,0.793017456,,,,,,,,,,,,0.307992403,percent,0.498701299,0.499111374,0.994818653,0.996451804,0.218884,percent,,2
+5ac21c08fffa7600087419cd,117469,MIT_AthleticTrainers,,3,,Aquinas College Athlete,,,6.818181818,0,,,,,,,,,,,1,,Aquinas College Athlete,,,,,0.99761,aquina colleg athlet,,2
+5ac21c08fffa7600087419ce,117469,MIT_AthleticTrainers,,2,,Gatorade Video,1.410658307,6.858766234,7.954545455,0,,,,,,,,,,,1,1.410658307,Gatorade video,0,0,0,0,0.848607,gatorad video,,2
+5ac21c08fffa7600087419cf,117469,MIT_AthleticTrainers,,2,,Trainer Featured,0.626959248,,6.818181818,0,,,,,,,,,,,1,0.626959248,Trainer Featured,0.333333333,0.333333333,0.5,0.5,0.492163,trainer featur,,2
+5ac21c09fffa7600087419d0,117469,MIT_AthleticTrainers,,1,,YouTube,1.593521421,6.186868687,4.545454545,0.403242148,,,,,,,,,,,,1.593521421,YouTube,0.377358491,0.461538462,0.606060606,0.857142857,0.260061,youtub,,2
+5ac21c09fffa7600087419d2,117469,MIT_AthleticTrainers,,1,,action,3.68338558,10.18875193,7.954545455,0.600810537,,,,,,,,,,,,3.68338558,action,0.468304279,0.453445555,0.880774963,0.829643888,0.235802,action,,2
+5ac21c09fffa7600087419d3,117469,MIT_AthleticTrainers,,3,,athlete Dayle Woods,5.067920585,11.34219554,5.681818182,0.707193516,,,,,,,,,,,,5.067920585,athlete Dayle Woods,,,,,0.809875,athlet dayl wood,,2
+5ac21c09fffa7600087419d4,117469,MIT_AthleticTrainers,,1,,conjunction,1.567398119,6.060606061,6.818181818,0.324214792,,,,,,,,,,,,1.567398119,conjunction,0.556097561,0.578475336,1.252747253,1.372340426,0.255845,conjunct,,2
+5ac21c0afffa7600087419d6,117469,MIT_AthleticTrainers,,1,,life,0.600835946,6.060606061,5.681818182,0.530901722,,,,,,,,,,,,0.600835946,life,0.425328947,0.417653391,0.74012593,0.717190388,0.23474,life,,2
+5ac21c0afffa7600087419d8,117469,MIT_AthleticTrainers,,1,,pair,1.280041797,6.401515152,7.954545455,0.514690983,,,,,,,,,,,,1.280041797,pair,0.317880795,0.276066351,0.466019417,0.381342062,0.26008,pair,,2
+5ac21c0bfffa7600087419d9,117469,MIT_AthleticTrainers,,1,,story,,,,0.45491388,,,,,,,,,,,,,,0.401158581,0.345376344,0.669891173,0.527595269,0.233529,stori,,2
+5ac21c13fffa7600087419ea,117569,MIT_AthleticTrainers,,3,1,athletic training education,,,,0.045786124,,,,,,,,,,,,,,0.829787234,0.849246231,4.875,5.633333333,0.677307,athlet train educ,1,2
+5ac21c14fffa7600087419ec,117569,MIT_AthleticTrainers,,2,1,ice hockey,,,,0.144032283,,,,,,,,,,,,,,0.837606838,0.857843137,5.157894737,6.034482759,,ic hockei,1,2
+5ac21c15fffa7600087419f0,117569,MIT_AthleticTrainers,,1,,Athletes,0.123833946,1.325974177,0.986193294,0.605463293,,,,,,,,,,,,0.123833946,athletics,0.559528153,0.733049884,1.270292656,2.746018227,0.678997,athlet,,2
+5ac21c16fffa7600087419f5,117569,MIT_AthleticTrainers,,2,,Athletic Trainers,,,,0.969424181,,,,,,,,,,,,,,0.602995486,0.73492667,1.518863049,2.772540984,0.613096,athlet trainer,,2
+5ac21c16fffa7600087419f9,117569,MIT_AthleticTrainers,,3,,Dakota State University,,,,0.027471675,,,,,,,,,,,,,,0.6875,0.722222222,2.2,2.6,0.664688,dakota state univers,,2
+5ac21c17fffa7600087419fb,117569,MIT_AthleticTrainers,,1,,EAH,0.072820591,,0.788954635,0.7931088,,,,,,,,,,,,0.072820591,EAH,,,,,0.670223,eah,,2
+5ac21c17fffa7600087419fd,117569,MIT_AthleticTrainers,,3,,Knecht H. Effects,0.071652346,1.172899791,,0.372652491,,,,,,,,,,,,0.071652346,Knecht H. Effects,,,,,0.667874,knecht h effect,,2
+5ac21c1afffa760008741a04,117569,MIT_AthleticTrainers,,2,,Mike McKenney,,,,0.990221946,,,,,,,,,,1,,,,1,1,2,2,0.740306,mike mckennei,,2
+5ac21c1afffa760008741a06,117569,MIT_AthleticTrainers,,2,,North Dakota,,,,0.028402918,,,,,,,,,,,,,,0.45,0.431818182,0.818181818,0.76,0.652038,north dakota,,2
+5ac21c1afffa760008741a08,117569,MIT_AthleticTrainers,,2,,Northeastern University,,,,0.16250194,,,,,,,,,,,,,,0.4375,0.444444444,0.777777778,0.8,0.652876,northeastern univers,,2
+5ac21c1bfffa760008741a0a,117569,MIT_AthleticTrainers,,2,,Sports Med,,,,0.354182834,,,,,,,,,1,,,,,0.819672131,0.793103448,4.545454545,3.833333333,0.741127,sport med,,2
+5ac21c1bfffa760008741a0b,117569,MIT_AthleticTrainers,,2,,activity level,,,,0.866056185,,,,,,,,,,,,,,0.654545455,0.675862069,1.894736842,2.085106383,0.610896,activ level,,2
+5ac21c1cfffa760008741a10,117569,MIT_AthleticTrainers,,2,,body weight,0.084697746,1.325974177,0.887573964,0.874126959,,,,,,,,,,,,0.084697746,body weight,0.519148936,0.523545706,1.079646018,1.098837209,0.690374,bodi weight,,2
+5ac21c1cfffa760008741a12,117569,MIT_AthleticTrainers,,2,,electrolyte supplementation,,,,0.721247866,,,,,,,,,,,,,,1,1,1,1,0.64876,electrolyt supplement,,2
+5ac21c1cfffa760008741a14,117569,MIT_AthleticTrainers,,2,,hydration status,,,,0.55517616,,,,,,,,,,,,,,0.7,0.75,2.333333333,3,0.610246,hydrat statu,,2
+5ac21c1cfffa760008741a16,117569,MIT_AthleticTrainers,,2,,plasma volume,,,,0.516839981,,,,,,,,,,,,,,0.5,0.333333333,1,0.5,0.670325,plasma volum,,2
+5ac21c1cfffa760008741a17,117569,MIT_AthleticTrainers,,2,,replacement fluids,0.071652346,1.172899791,,0.363960888,,,,,,,,,,,,0.071652346,replacement fluids,0.666666667,0.666666667,2,2,0.613297,replac fluid,,2
+5ac21c1dfffa760008741a19,117569,MIT_AthleticTrainers,,2,,sodium concentrations,0.074183543,1.172899791,0.690335306,0.772155828,,,,,,,,,,,,0.074183543,sodium concentrations,1,1,2,3,0.694286,sodium concentr,,2
+5ac21c1dfffa760008741a1b,117569,MIT_AthleticTrainers,,3,,sodium post exercise,,,,0,,,,,,,,,,,,,,,,,,0.600941,sodium post exercis,,2
+5ac21c1dfffa760008741a1c,117569,MIT_AthleticTrainers,,2,,weight loss,0.065421707,1.316294105,0.986193294,0.601583113,,,,,,,,,,,,0.065421707,weight loss,0.296636086,0.238571429,0.42173913,0.313320826,0.609017,weight loss,,2
+5ac21c0efffa7600087419da,117570,MIT_AthleticTrainers,,3,1,National Athletic Trainers,,,,0.746706587,,,,,,,,,,,,,,0.876777251,0.886100386,7.115384615,7.779661017,0.808618,nation athlet trainer,2,2
+5ac21c0efffa7600087419db,117570,MIT_AthleticTrainers,,3,1,athletic training program,,,,0.409580838,,,,,,,,,,,,,,0.768261965,0.785123967,3.315217391,3.653846154,0.699665,athlet train program,1,2
+5ac21c0efffa7600087419dc,117570,MIT_AthleticTrainers,,2,1,professional sports,,,,0.469461078,,,,,,,,,,,,,,0.743362832,0.763157895,2.896551724,3.222222222,0.465855,profession sport,1,2
+5ac21c0ffffa7600087419dd,117570,MIT_AthleticTrainers,,2,,Athletic Trainers,,,,0.741317365,,,,,,,,,,,1,,,0.602995486,0.73492667,1.518863049,2.772540984,0.987472,athlet trainer,,2
+5ac21c0ffffa7600087419de,117570,MIT_AthleticTrainers,,3,,Dr. Mikaela Boham,0.401472064,,2.857142857,0.535329341,,,,,,,,,,,,0.401472064,Dr. Mikaela Boham,,,,,0.742692,dr mikaela boham,,2
+5ac21c0ffffa7600087419df,117570,MIT_AthleticTrainers,,1,,Hands,1.154232185,4.489795918,2.857142857,0.446706587,,,,,,,,,,,,1.154232185,Hands,0.431132844,0.410070258,0.757879656,0.69511711,0.245814,hand,,2
+5ac21c10fffa7600087419e0,117570,MIT_AthleticTrainers,,2,,Islander graduate,0.980260957,4.233236152,2.857142857,0.370658683,,,,,,,,,,,,0.980260957,Islander graduate,0,0,0,0,0.482539,island graduat,,2
+5ac21c11fffa7600087419e1,117570,MIT_AthleticTrainers,,1,,Tops,,,,0,,,,,,,,,,,1,,,0.349838969,0.305929248,0.538080495,0.440775305,0.254721,top,,2
+5ac21c11fffa7600087419e2,117570,MIT_AthleticTrainers,,2,,club sports,0.441619271,,,0.494011976,,,,,,,,,,,,0.441619271,club sports,0.658536585,0.639344262,1.928571429,1.772727273,0.466874,club sport,,2
+5ac21c11fffa7600087419e3,117570,MIT_AthleticTrainers,,1,,collegiate,,,,0.478443114,,,,,,,,,,,,,,0.63255814,0.684647303,1.721518987,2.171052632,0.246919,collegi,,2
+5ac21c11fffa7600087419e4,117570,MIT_AthleticTrainers,,1,,country,0.398126464,3.445657333,1.632653061,0.698802395,,,,,,,,,,,,0.398126464,country,0.415,0.383090161,0.709401709,0.620982414,0.283484,countri,,2
+5ac21c12fffa7600087419e5,117570,MIT_AthleticTrainers,,1,,degrees,0.806289729,3.865182437,3.673469388,0.638922156,,,,,,,,,,,,0.806289729,degrees,0.487889273,0.476486247,0.952702703,0.910169492,0.243303,degre,,2
+5ac21c12fffa7600087419e6,117570,MIT_AthleticTrainers,,1,,demand,0.806289729,3.865182437,3.673469388,0.688023952,,,,,,,,,,,,0.806289729,demand,0.522123894,0.541928721,1.092592593,1.183066362,0.249647,demand,,2
+5ac21c13fffa7600087419e7,117570,MIT_AthleticTrainers,,1,,growth,,,,0.58502994,,,,,,,,,,,,,,0.439873418,0.427184466,0.785310734,0.745762712,0.243496,growth,,2
+5ac21c13fffa7600087419e8,117570,MIT_AthleticTrainers,,1,,life,,,,0.149700599,,,,,,,,,,,,,,0.425328947,0.417653391,0.74012593,0.717190388,0.276276,life,,2
+5ac21c13fffa7600087419e9,117570,MIT_AthleticTrainers,,2,,recreation athletes,,3.225485316,,0.090419162,,,,,,,,,,,,,recreation athletes,0.681818182,0.733333333,2.142857143,2.75,0.552724,recreat athlet,,2
+5ac21c14fffa7600087419eb,117570,MIT_AthleticTrainers,,1,,rise,0.471729675,,,0.666467066,,,,,,,,,,,,0.471729675,rise,0.385869565,0.368863955,0.628318584,0.584444444,0.249138,rise,,2
+5ac21c14fffa7600087419ed,117570,MIT_AthleticTrainers,,1,,students,0.806289729,3.865182437,3.673469388,0.656287425,,,,,,,,,,,,0.806289729,students,0.476862745,0.491274842,0.911544228,0.965697951,0.244361,student,,2
+5ac21c14fffa7600087419ee,117570,MIT_AthleticTrainers,,2,,weekend warriors,,3.225485316,,0.076646707,,,,,,,,,,,,,weekend warriors,0.781818182,0.808823529,3.583333333,4.230769231,0.453877,weekend warrior,,2
+5ac21c2cfffa760008741a37,117574,MIT_AthleticTrainers,,2,1,sports medicine,,,1.195219124,0.195631825,,,,,,,,,,,,,sports medicine,0.780293758,0.813253012,3.551532033,4.35483871,0.475606,sport medicin,1,3
+5ac21c2cfffa760008741a3a,117574,MIT_AthleticTrainers,,3,3,Athletic Trainers Association,,,,0.672386895,,,,,,,,,,,,,,0.869649805,0.872340426,6.671641791,6.833333333,0.779637,athlet trainer associ,3,2
+5ac21c2cfffa760008741a3c,117574,MIT_AthleticTrainers,,3,2,National Athletic Trainers,,,,0.675195008,,,,,,,,,,,,,,0.876777251,0.886100386,7.115384615,7.779661017,0.739808,nation athlet trainer,2,2
+5ac21c2cfffa760008741a3e,117574,MIT_AthleticTrainers,,3,1,School Athletic Trainers,,,,0,,,,,,,,,,,1,,,0.827731092,0.850909091,4.804878049,5.707317073,0.813929,school athlet trainer,2,2
+5ac21c2cfffa760008741a40,117574,MIT_AthleticTrainers,,2,,Athletic Trainers,,,,0.672386895,,,,,,,,,,,1,,,0.602995486,0.73492667,1.518863049,2.772540984,0.978728,athlet trainer,,2
+5ac21c2dfffa760008741a47,117574,MIT_AthleticTrainers,,1,,Brantley,0.77295608,2.487365972,,0.48174727,,,,,,,,,,,,0.77295608,Brantley,0.166666667,0.271186441,0.2,0.372093023,0.439617,brantlei,,2
+5ac21c2dfffa760008741a4a,117574,MIT_AthleticTrainers,,2,,Coweta County,0.77295608,2.487365972,,0.910764431,,,,,,,,,,,,0.77295608,Coweta County,1,1,1,5,0.589799,coweta counti,,2
+5ac21c2dfffa760008741a4c,117574,MIT_AthleticTrainers,,2,,East Coweta,0.77295608,2.487365972,,0.468330733,,,,,,,,,,,,0.77295608,East Coweta,,,,,0.503766,east coweta,,2
+5ac21c2efffa760008741a4f,117574,MIT_AthleticTrainers,,2,,Heather Miller,,,,0.263962559,,,,,,,,,,,,,,0.5,0.5,1,1,0.475494,heather miller,,2
+5ac21c2efffa760008741a50,117574,MIT_AthleticTrainers,,2,,Jonathan Parker,,,,0.270202808,,,,,,,,,,,,,,,,,,0.47302,jonathan parker,,2
+5ac21c2efffa760008741a51,117574,MIT_AthleticTrainers,,2,,Jordan Kinnard,,,1.195219124,0.344461778,,,,,,,,,,,,,Jordan Kinnard,,,,,0.476884,jordan kinnard,,2
+5ac21c2efffa760008741a53,117574,MIT_AthleticTrainers,,2,,Laura Taylor,,,1.992031873,0.394695788,,,,,,,,,,,,,Laura Taylor,,,,,0.477949,laura taylor,,2
+5ac21c2efffa760008741a55,117574,MIT_AthleticTrainers,,2,,Lloyd Knott,0.77295608,2.487365972,,0.47301092,,,,,,,,,,,,0.77295608,Lloyd Knott,,,,,0.48251,lloyd knott,,2
+5ac21c2efffa760008741a57,117574,MIT_AthleticTrainers,,1,,NATA,,,1.195219124,0.587207488,,,,,,,,,,,,,NATA,0.885802469,0.925373134,7.756756757,12.4,0.419906,nata,,2
+5ac21c2ffffa760008741a59,117574,MIT_AthleticTrainers,,2,,Newnan High,0.77295608,2.487365972,1.195219124,0.850546022,,,,,,,,,,,,0.77295608,Newnan High,1,1,1,1,0.683471,newnan high,,2
+5ac21c2ffffa760008741a5b,117574,MIT_AthleticTrainers,,2,,North- gate,,,1.992031873,0.378471139,,,,,,,,,,,,,North- gate,,,,,0.477647,north gate,,2
+5ac21c2ffffa760008741a5e,117574,MIT_AthleticTrainers,,1,,bruises,,,1.593625498,0.085803432,,,,,,,,,,,,,bruises,0.586956522,0.593073593,1.421052632,1.457446809,0.417698,bruis,,2
+5ac21c2ffffa760008741a60,117574,MIT_AthleticTrainers,,1,,capacity,,,1.195219124,0.686115445,,,,,,,,,,,,,capacity,0.470862471,0.526066351,0.889867841,1.11,0.428054,capac,,2
+5ac21c2ffffa760008741a61,117574,MIT_AthleticTrainers,,1,,diagnosis,,,,0.050546022,,,,,,,,,,,,,,0.733212341,0.737361282,2.74829932,2.807511737,0.42338,diagnosi,,2
+5ac21c30fffa760008741a62,117574,MIT_AthleticTrainers,,2,,home plate,0.392044596,2.292986328,1.394422311,0.145709828,,,,,,,,,,,,0.392044596,home plate,0.322580645,0.277777778,0.476190476,0.384615385,0.473241,home plate,,2
+5ac21c30fffa760008741a63,117574,MIT_AthleticTrainers,,1,,injuries,,,1.394422311,0.561310452,,,,,,,,,,,,,injuries,0.665556296,0.785588752,1.990039841,3.663934426,0.462111,injuri,,2
+5ac21c30fffa760008741a64,117574,MIT_AthleticTrainers,,1,,innings,,,,0.138845554,,,,,,,,,,,1,,,0.297229219,0.20822838,0.422939068,0.262990456,0.419028,in,,2
+5ac21c31fffa760008741a65,117574,MIT_AthleticTrainers,,1,,mainstays,0.704566962,2.591730978,,0.409984399,,,,,,,,,,,,0.704566962,mainstays,0.68,0.68,2.125,2.125,0.41924,mainstai,,2
+5ac21c31fffa760008741a66,117574,MIT_AthleticTrainers,,1,,percent,0.291846586,2.458323132,1.394422311,0.656162246,,,,,,,,,,,,0.291846586,percent,0.498701299,0.499111374,0.994818653,0.996451804,0.430718,percent,,2
+5ac21c31fffa760008741a6a,117574,MIT_AthleticTrainers,,1,,sidelines,0.704566962,2.591730978,,0.878627145,,,,,,,,,,,,0.704566962,sidelines,0.645314353,0.674524715,1.819397993,2.072429907,0.474284,sidelin,,2
+5ac21bf9fffa760008741990,117582,MIT_AthleticTrainers,,3,1,National Athletic Trainers,,,,0.938871473,,,,,,,,,,,,,,0.876777251,0.886100386,7.115384615,7.779661017,0.592798,nation athlet trainer,1,2
+5ac21bfafffa760008741991,117582,MIT_AthleticTrainers,,3,1,School Athletic Trainer,,,,0,,,,,,,,,,,1,,,0.827731092,0.850909091,4.804878049,5.707317073,0.727794,school athlet trainer,2,3
+5ac21bfafffa760008741992,117582,MIT_AthleticTrainers,,3,2,athletic training profession,,,,0.764890282,,,,,,,,,,,,,,0.926605505,0.948051948,12.625,18.25,0.675235,athlet train profess,2,2
+5ac21bfafffa760008741993,117582,MIT_AthleticTrainers,,3,1,Athletic Trainers Society,,,1.092896175,0.905956113,,,,,,,,,,,,,Athletic Trainers Society,0.801886792,0.841059603,4.047619048,5.291666667,0.587735,athlet trainer societi,1,2
+5ac21bfbfffa760008741994,117582,MIT_AthleticTrainers,,2,,Athletic Trainers,,,,0.936050157,,,,,,,,,,,1,,,0.602995486,0.73492667,1.518863049,2.772540984,0.925438,athlet trainer,,2
+5ac21bfbfffa760008741996,117582,MIT_AthleticTrainers,,3,,Athletics Kevin Murphy,0.307792536,1.851111407,1.4571949,0.386833856,,,,,,,,,,,,0.307792536,Athletics Kevin Murphy,,,,,0.524086,athlet kevin murphi,,2
+5ac21bfcfffa760008741998,117582,MIT_AthleticTrainers,,3,,Dame High School,0.253280683,1.922896363,1.4571949,0.296238245,,,,,,,,,,,,0.253280683,Dame High School,0.166666667,0.1,0.2,0.111111111,0.534954,dame high school,,2
+5ac21bfcfffa76000874199b,117582,MIT_AthleticTrainers,,2,,High School,,,,0.992789969,,,,,,,,,,,1,,,0.59264352,0.623277531,1.454852321,1.654474002,0.690037,high school,,2
+5ac21bfdfffa76000874199f,117582,MIT_AthleticTrainers,,2,,NATA members,,,1.092896175,0.688714734,,,,,,,,,,,,,NATA members,0.92,0.944444444,11.5,17,0.573152,nata member,,2
+5ac21bfdfffa7600087419a2,117582,MIT_AthleticTrainers,,2,,National Recognitions,,,1.092896175,0,,,,,,,,,,,1,,National Recognitions,0.263157895,0.25,0.357142857,0.333333333,0.491447,nation recognit,,2
+5ac21bfdfffa7600087419a5,117582,MIT_AthleticTrainers,,2,,New Jersey,0.297820855,1.802027281,1.092896175,0.896865204,,,,,,,,,,,,0.297820855,New Jersey,0.441176471,0.480417755,0.789473684,0.924623116,0.61211,new jersei,,2
+5ac21bfdfffa7600087419a7,117582,MIT_AthleticTrainers,,2,,New Orleans,0.204087059,1.753475825,,0.544827586,,,,,,,,,,,,0.204087059,New Orleans,0.41221374,0.429906542,0.701298701,0.754098361,0.472218,new orlean,,2
+5ac21bfdfffa7600087419aa,117582,MIT_AthleticTrainers,,2,,Washington Township,,,,0.999059561,,,,,,,,,,,,,,0.428571429,0.166666667,0.75,0.2,0.62146,washington township,,2
+5ac21bfefffa7600087419ad,117582,MIT_AthleticTrainers,,2,,community news,,,,0.117241379,,,,,,,,,,,,,,0.545454545,0.545454545,1.2,1.2,0.469115,commun new,,2
+5ac21bfefffa7600087419b0,117582,MIT_AthleticTrainers,,2,,community organizations,,,1.639344262,0.632601881,,,,,,,,,,,,,community organizations,0.394736842,0.390243902,0.652173913,0.64,0.474576,commun organ,,2
+5ac21bfefffa7600087419b2,117582,MIT_AthleticTrainers,,2,,government affairs,,,,0.140752351,,,,,,,,,,,,,,0.727272727,0.692307692,2.666666667,2.25,0.465962,govern affair,,2
+5ac21bfefffa7600087419b4,117582,MIT_AthleticTrainers,,3,,trainer Eric Schwartz,,,1.275045537,0.986206897,,,,,,,,,,,,,trainer Eric Schwartz,,,,,0.683926,trainer eric schwartz,,2
+5ac21bfffffa7600087419b5,117597,MIT_AthleticTrainers,,1,,Article,,,,0.024632118,,,,,,,,,,,,,,0.564030132,0.577660278,1.293736501,1.367762128,0.312817,articl,,2
+5ac21bfffffa7600087419b6,117597,MIT_AthleticTrainers,,2,,Fascia Training,,,1.587301587,0,,,,,,,,,,,1,,fascia training,,,,,0.685678,fascia train,,2
+5ac21bfffffa7600087419b7,117597,MIT_AthleticTrainers,,1,,Flexible,,,1.19047619,0.54734485,,,,,,,,,,,,,flexibility,0.524879615,0.545794393,1.10472973,1.201646091,0.314061,flexibl,,2
+5ac21c00fffa7600087419b8,117597,MIT_AthleticTrainers,,2,,William Graves,,,,0.018554063,,,,,,,,,,,,,,0.5,0.5,1,1,0.372914,william grave,,2
+5ac21c00fffa7600087419b9,117597,MIT_AthleticTrainers,,1,,activities,,,,0.702175304,,,,,,,,,,,,,,0.524643146,0.552949373,1.10368272,1.236883117,0.314104,activ,,2
+5ac21c00fffa7600087419ba,117597,MIT_AthleticTrainers,,1,,application,,1.592813051,,0.421305182,,,,,,,,,,,,,application,0.495294118,0.504632489,0.981351981,1.018703242,0.313315,applic,,2
+5ac21c01fffa7600087419bb,117597,MIT_AthleticTrainers,,1,,band,0.099403579,,,0.956174024,,,,,,,,,,,,0.099403579,band,0.399548533,0.423255814,0.665413534,0.733870968,0.331862,band,,2
+5ac21c01fffa7600087419bc,117597,MIT_AthleticTrainers,,1,,collagen,,,,0.839731286,,,,,,,,,,,,,,0.673913043,0.631147541,2.066666667,1.711111111,0.318539,collagen,,2
+5ac21c01fffa7600087419bd,117597,MIT_AthleticTrainers,,1,,doctor,,1.874291383,,0.189379399,,,,,,,,,,,,,doctor,0.578178276,0.594920472,1.370669746,1.468651045,0.31263,doctor,,2
+5ac21c02fffa7600087419be,117597,MIT_AthleticTrainers,,2,,fascia injury,,,1.785714286,0.759117083,,,,,,,,,,,,,fascia injury,0.5,0.5,1,1,0.490466,fascia injuri,,2
+5ac21c02fffa7600087419bf,117597,MIT_AthleticTrainers,,1,,floor,,,,0.253039028,,,,,,,,,,,,,,0.394244604,0.357580398,0.650831354,0.556615018,0.313369,floor,,2
+5ac21c02fffa7600087419c0,117597,MIT_AthleticTrainers,,1,,function,0.09309224,,,0.680742163,,,,,,,,,,,,0.09309224,function,0.595166163,0.638353479,1.470149254,1.765130985,0.314073,function,,2
+5ac21c03fffa7600087419c1,117597,MIT_AthleticTrainers,,1,,head,,1.737614238,1.19047619,0.227127319,,,,,,,,,,,,,head,0.511948756,0.596284282,1.048965169,1.476990504,0.313011,head,,2
+5ac21c03fffa7600087419c2,117597,MIT_AthleticTrainers,,2,,heat therapy,0.103348165,1.861702128,,0.394113884,,,,,,,,,,,,0.103348165,heat therapy,0.866666667,0.903225806,6.5,9.333333333,0.373851,heat therapi,,2
+5ac21c03fffa7600087419c3,117597,MIT_AthleticTrainers,,1,,mat,,,,0.250159949,,,,,,,,,,,,,,0.412060302,0.382566586,0.700854701,0.619607843,0.313805,mat,,2
+5ac21c04fffa7600087419c4,117597,MIT_AthleticTrainers,,1,,muscles,,,,0.811260397,,,,,,,,,,,,,,0.570486815,0.619639726,1.328217237,1.629086337,0.316859,muscl,,2
+5ac21c04fffa7600087419c5,117597,MIT_AthleticTrainers,,1,,neck,0.201962826,1.737614238,1.785714286,0.356685861,,,,,,,,,,,,0.201962826,neck,0.580645161,0.669535284,1.384615385,2.026041667,0.351752,neck,,2
+5ac21c04fffa7600087419c6,117597,MIT_AthleticTrainers,,1,,people,,1.655719759,,0.609085093,,,,,,,,,,,,,people,0.441491955,0.422139472,0.790484505,0.730521383,0.313875,peopl,,2
+5ac21c06fffa7600087419c7,117597,MIT_AthleticTrainers,,1,,run,,1.600529101,,0.577735125,,,,,,,,,,,,,run,0.394414363,0.328211154,0.651294118,0.488562971,0.313813,run,,2
+5ac21c06fffa7600087419c8,117597,MIT_AthleticTrainers,,1,,selection,0.108870586,,,0.080614203,,,,,,,,,,,,0.108870586,selection,0.412403101,0.397205589,0.701846966,0.658940397,0.312811,select,,2
+5ac21c06fffa7600087419c9,117597,MIT_AthleticTrainers,,1,,sheet,0.099403579,,,0.854126679,,,,,,,,,,,,0.099403579,sheet,0.319371728,0.27,0.469230769,0.369863014,0.327674,sheet,,2
+5ac21c07fffa7600087419ca,117597,MIT_AthleticTrainers,,1,,state,,,,0.766794626,,,,,,,,,,,,,,0.476234425,0.427450281,0.909251101,0.746573209,0.314391,state,,2
+5ac21c07fffa7600087419cb,117597,MIT_AthleticTrainers,,1,,technique,0.153049954,2.281746032,1.785714286,0.217850288,,,,,,,,,,,,0.153049954,technique,0.626086957,0.64032016,1.674418605,1.780250348,0.312681,techniqu,,2
+5ac21c08fffa7600087419cc,117597,MIT_AthleticTrainers,,1,,thing,0.147527533,2.134038801,1.984126984,0.597568778,,,,,,,,,,,,0.147527533,thing,0.4345898,0.426267281,0.768627451,0.742971888,0.312917,thing,,2
+5ac21c09fffa7600087419d1,117597,MIT_AthleticTrainers,,1,,times,0.112026255,2.018467643,,0.198976328,,,,,,,,,,,,0.112026255,times,0.454479154,0.448318751,0.833110517,0.812640908,0.312648,time,,2
+5ac21c0afffa7600087419d5,117597,MIT_AthleticTrainers,,1,,tool,0.201962826,1.709401709,1.785714286,0.369481766,,,,,,,,,,,,0.201962826,tool,0.534161491,0.552431166,1.146666667,1.234293194,0.313146,tool,,2
+5ac21c0afffa7600087419d7,117597,MIT_AthleticTrainers,,1,,weights,0.147527533,2.134038801,1.984126984,0.58509277,,,,,,,,,,,,0.147527533,weights,0.457440967,0.423977769,0.843117409,0.736044108,0.314557,weight,,2
+5ac21bfbfffa760008741997,117616,MIT_AthleticTrainers,,1,, exercise,0.029922586,,0.522875817,0.938504778,,,,,,,,,,,,0.029922586,exercise,0.547263682,0.584869246,1.208791209,1.408879591,0.527607,exercis,,2
+5ac21bfcfffa76000874199a,117616,MIT_AthleticTrainers,,1,, factors,0.028982162,0.964320154,0.588235294,0.924564362,,,,,,,,,,,,0.028982162,factors,0.58021978,0.596963124,1.382198953,1.48116254,0.566603,factor,,2
+5ac21bfcfffa76000874199d,117616,MIT_AthleticTrainers,,2,,Bone density,,,0.522875817,0.918043845,,,,,,,,,,,,,bone density,0.525,0.519230769,1.105263158,1.08,0.615154,bone densiti,,2
+5ac21bfdfffa7600087419a0,117616,MIT_AthleticTrainers,,3,,Peter Braun MS,,,,0.963237774,,,,,,,,,,,,,,1,1,1,1,0.609546,peter braun m,,2
+5ac21bfdfffa7600087419a3,117616,MIT_AthleticTrainers,,2,,Snow Skiing,,,,0.990106802,,,,,,,,,,1,1,,,0.666666667,0.666666667,2,2,0.871449,snow ski,,2
+5ac21bfdfffa7600087419a6,117616,MIT_AthleticTrainers,,1,,bones,,,0.45751634,0.831478359,,,,,,,,,,1,,,bones,0.668038409,0.716924911,2.012396694,2.532631579,0.503939,bone,,2
+5ac21bfdfffa7600087419a8,117616,MIT_AthleticTrainers,,2,,exercise plans,,,,0.89376054,,,,,,,,,,,,,,0.4,0.47826087,0.666666667,0.916666667,0.523155,exercis plan,,2
+5ac21bfefffa7600087419ab,117616,MIT_AthleticTrainers,,3,,ground reaction force,,,,0.711298482,,,,,,,,,,,,,,0.965517241,0.973684211,28,37,0.590523,ground reaction forc,,2
+5ac21bfefffa7600087419ae,117616,MIT_AthleticTrainers,,2,,hip flexors,0.033855269,0.826272896,0.522875817,0.591905565,,,,,,,,,,,,0.033855269,hip flexors,0.506329114,0.579710145,1.025641026,1.379310345,0.573439,hip flexor,,2
+5ac21bfefffa7600087419b1,117616,MIT_AthleticTrainers,,2,,peak levels,,,,0.823159078,,,,,,,,,,,,,,1,1,8,9,0.501666,peak level,,2
+5ac21bfefffa7600087419b3,117616,MIT_AthleticTrainers,,1,,skiing,0.053689669,1.024863554,0.718954248,0.753344576,,,,,,,,,,1,1,0.053689669,skiing,0.515337423,0.443069307,1.063291139,0.795555556,0.921393,ski,,2
+5ac21be9fffa760008741967,117664,MIT_AthleticTrainers,,2,,MCP flexion,,,,0.432562018,,,,,,,,,,,,,,,,,,0.345696,mcp flexion,,2
+5ac21beafffa760008741968,117664,MIT_AthleticTrainers,,2,,Wrist POP,,,,0.774859287,,,,,,,,,,1,,,,0.8,0.875,4,7,0.574933,wrist pop,,2
+5ac21beafffa760008741969,117664,MIT_AthleticTrainers,,2,,finger flexion,0.098140732,1.371016064,1.008645533,0.694183865,,,,,,,,,,,,0.098140732,finger flexion,1,1,1,1,0.359777,finger flexion,,2
+5ac21beafffa76000874196a,117664,MIT_AthleticTrainers,,2,,forearm motion,,,,0.703356264,,,,,,,,,,,,,,1,1,1,1,0.218328,forearm motion,,2
+5ac21beafffa76000874196b,117664,MIT_AthleticTrainers,,2,,forearm supination,,,,0.370648322,,,,,,,,,,,,,,1,1,3,3,0.211726,forearm supin,,2
+5ac21beafffa76000874196c,117664,MIT_AthleticTrainers,,2,,supination exercises,,,,0.319991661,,,,,,,,,,,,,,1,1,2,2,0.25561,supin exercis,,2
+5ac21bebfffa76000874196d,117664,MIT_AthleticTrainers,,2,,winter storms,0.096061479,1.467120775,1.008645533,0.84636231,,,,,,,,,,,,0.096061479,winter storms,0.125,0.083333333,0.142857143,0.090909091,0.20182,winter storm,,2
+5ac21bebfffa76000874196e,117664,MIT_AthleticTrainers,,2,,wrist extension,0.138062386,1.78314121,0.864553314,0.690848447,,,,,,,,,,,,0.138062386,wrist extension,1,1,1,4,0.792499,wrist extens,,2
+5ac21bebfffa76000874196f,117664,MIT_AthleticTrainers,,2,,wrist fractures,0.1110321,1.457606552,1.008645533,0.835105274,,,,,,,,,,,1,0.1110321,wrist fracture,0.75,0.714285714,3,2.5,0.545937,wrist fractur,,2
+5ac21bebfffa760008741970,117664,MIT_AthleticTrainers,,2,,wrist pain,0.11144795,,,0.758599124,,,,,,,,,,,,0.11144795,wrist pain,0.733333333,0.80952381,2.75,4.25,0.474319,wrist pain,,2
+5ac21bfbfffa760008741995,117689,MIT_AthleticTrainers,,3,2,health care professionals,,,,0.619677447,,,,,,,,,,,,,,0.765060241,0.758293839,3.256410256,3.137254902,0.668153,health care profession,2,2
+5ac21bfcfffa760008741999,117689,MIT_AthleticTrainers,,2,,Athletic Training,,,,0.95656626,1,,,,,,,,,,,,,0.619864237,0.729938543,1.630639098,2.702860858,0.697668,athlet train,,2
+5ac21bfcfffa76000874199c,117689,MIT_AthleticTrainers,,2,,Health Care,0.024059015,0.649013499,0.46728972,0,,,,,,,,1,,,1,0.024059015,health care,0.573979592,0.517486663,1.347305389,1.072481572,0.928327,health care,,2
+5ac21bfdfffa76000874199e,117689,MIT_AthleticTrainers,,2,,Healthy People,,,,0.669767045,,,,,,,,,,,,,,0.578947368,0.578947368,1.375,1.375,0.567284,healthi peopl,,2
+5ac21bfdfffa7600087419a1,117689,MIT_AthleticTrainers,,2,,Implicit Bias,,,0.46728972,0,,,,,,,,1,,,1,,Implicit Bias,0,0,0,0,0.974797,implicit bia,,2
+5ac21bfdfffa7600087419a4,117689,MIT_AthleticTrainers,,1,,Patients,0.022764359,,0.46728972,0.48843758,,,,,,,,,,1,,0.022764359,patient,0.608920749,0.642412594,1.557026477,1.796519068,0.570923,patient,,2
+5ac21bfdfffa7600087419a9,117689,MIT_AthleticTrainers,,2,,health disparities,,,,0.048553631,,,,,,,,1,,,,,,0.285714286,0.24137931,0.4,0.318181818,0.570045,health dispar,,2
+5ac21bfefffa7600087419ac,117689,MIT_AthleticTrainers,,2,,health status,0.025191838,,,0.797422988,,,,,,,,,,,,0.025191838,health status,0.65,0.583333333,1.857142857,1.4,0.563151,health statu,,2
+5ac21bfefffa7600087419af,117689,MIT_AthleticTrainers,,3,,quality patient care,,,0.41536864,0.80766277,,,,,,,,,,,,,quality patient care,0.526315789,0.523809524,1.111111111,1.1,0.611727,qualiti patient care,,2
+5ac21be1fffa760008741950,117703,MIT_AthleticTrainers,,2,,Ariko Iso,,,,0.819399538,,,,,,,,,,,,,,0.6,0.777777778,1.5,3.5,0.294011,ariko iso,,2
+5ac21be1fffa760008741951,117703,MIT_AthleticTrainers,,2,,Centennial Hall,0.126407184,1.360072462,,0.86443418,,,,,,,,,,,,0.126407184,Centennial Hall,,,,,0.315213,centenni hall,,2
+5ac21be1fffa760008741952,117703,MIT_AthleticTrainers,,2,,International Women,,,,0.766974596,,,,,,,,,,,,,,0.333333333,0.5,0.5,1,0.311658,intern women,,2
+5ac21be1fffa760008741953,117703,MIT_AthleticTrainers,,2,,Meghan Lange,,,,0.237413395,,,,,,,,,,,,,,,,,,0.290055,meghan lang,,2
+5ac21be2fffa760008741954,117703,MIT_AthleticTrainers,,2,,NFL notables,,,,0.824249423,,,,,,,,,,,,,,,,,,0.533861,nfl notabl,,2
+5ac21be2fffa760008741955,117703,MIT_AthleticTrainers,,2,,Sonia Ruef,,,,0.921247113,,,,,,,,,,,,,,,,,,0.358115,sonia ruef,,2
+5ac21be2fffa760008741956,117703,MIT_AthleticTrainers,,3,,commissioner Roger Goodell,0.267285225,1.658986175,,0.649884527,,,,,,,,,,,,0.267285225,commissioner Roger Goodell,0.53125,0.529411765,1.133333333,1.125,0.487444,commission roger goodel,,2
+5ac21be2fffa760008741957,117703,MIT_AthleticTrainers,,2,,football players,,,,0.412009238,,,,,,,,,,,,,,0.706919946,0.718524459,2.412037037,2.552706553,0.278894,footbal player,,2
+5ac21be3fffa760008741958,117703,MIT_AthleticTrainers,,1,,women,0.188972356,,0.874635569,0.677367206,,,,,,,,,,,,0.188972356,women,0.412987013,0.259062642,0.703539823,0.34964176,0.355708,women,,2
+5ac21be3fffa760008741959,117703,MIT_AthleticTrainers,,2,,” Ruef,,1.668446728,1.020408163,0,,,,,,,,,,,,,Ruef,,,,,0.651501,ruef,,2
+5ac21be5fffa76000874195a,117722,MIT_AthleticTrainers,,2,1,sports medicine,,,,0.117532697,,,,,,,,,,,,,,0.780293758,0.813253012,3.551532033,4.35483871,,sport medicin,1,2
+5ac21be6fffa76000874195b,117722,MIT_AthleticTrainers,,3,1,certified athletic trainer,,,,0.374337222,,,,,,,,,,,,,,0.790170132,0.814285714,3.765765766,4.384615385,0.494295,certifi athlet trainer,1,2
+5ac21be6fffa76000874195c,117722,MIT_AthleticTrainers,,3,1,National Athletic Trainers,,,,0.186108165,,,,,,,,,,,,,,0.876777251,0.886100386,7.115384615,7.779661017,0.430383,nation athlet trainer,1,2
+5ac21be6fffa76000874195d,117722,MIT_AthleticTrainers,,3,1,Athletic Trainers Society,,,0.950369588,0.5,,,,,,,,,,,,,Athletic Trainers Society,0.801886792,0.841059603,4.047619048,5.291666667,,athlet trainer societi,1,2
+5ac21be6fffa76000874195e,117722,MIT_AthleticTrainers,,2,1,Professional Football,,,,0.5038883,,,,,,,,,,,,,,0.760683761,0.762237762,3.178571429,3.205882353,0.41265,profession footbal,2,2
+5ac21be7fffa76000874195f,117722,MIT_AthleticTrainers,,3,,Cain Memorial Award,,,,0.983563097,,,,,1,,,,,,,,,0.6,0.6,1.5,1.5,0.433821,cain memori award,,2
+5ac21be7fffa760008741960,117722,MIT_AthleticTrainers,,2,,Erin Barill,,,0.950369588,0.584835631,,,,,,,,,,,,,Erin Barill,,,,,0.35874,erin baril,,2
+5ac21be7fffa760008741961,117722,MIT_AthleticTrainers,,2,,Kellen Norris,,,,0.540827147,,,,,,,,,,,,,,,,,,0.36168,kellen norri,,2
+5ac21be7fffa760008741962,117722,MIT_AthleticTrainers,,2,,Kyle Davis,,,,0.561329092,,,,,,,,,,,,,,,,,,0.358463,kyle davi,,2
+5ac21be7fffa760008741963,117722,MIT_AthleticTrainers,,3,,Longtime Indianapolis Colts,0.096443425,,0.739176346,0.999293036,,,,,1,,,,,,,0.096443425,Longtime Indianapolis Colts,,,,,0.476301,longtim indianapoli colt,,2
+5ac21be8fffa760008741964,117722,MIT_AthleticTrainers,,2,,West Virginia,0.248699018,1.959473392,,0.723753977,,,,,,,,,,,,0.248699018,West Virginia,0.514563107,0.433862434,1.06,0.76635514,0.361702,west virginia,,2
+5ac21be8fffa760008741965,117722,MIT_AthleticTrainers,,3,,trainer Dave Hammer,0.108275605,,,0.991869919,,,,,1,,,,,,,0.108275605,trainer Dave Hammer,,,,,0.627154,trainer dave hammer,,2
+5ac21be8fffa760008741966,117722,MIT_AthleticTrainers,,2,,training camp,0.200923803,1.819511006,1.055966209,0.696182397,,,,,,,,,,,,0.200923803,training camp,0.475177305,0.412162162,0.905405405,0.701149425,0.365905,train camp,,2
+5ac21bf1fffa760008741971,117726,MIT_AthleticTrainers,,2,2,Sports Medicine,1.779405779,5.188378033,1.994301994,0.400811771,,,,,,,,,,,,1.779405779,Sports Medicine,0.780293758,0.813253012,3.551532033,4.35483871,0.492111,sport medicin,2,3
+5ac21bf1fffa760008741972,117726,MIT_AthleticTrainers,,2,1,Collegiate Athletes,,,1.709401709,0,,,,,,,,,,,1,,Collegiate Athletes,0.803108808,0.840466926,4.078947368,5.268292683,0.782416,collegi athlet,3,3
+5ac21bf1fffa760008741973,117726,MIT_AthleticTrainers,,1,,Authors,0.866096866,,1.994301994,0.442922374,,,,,,,1,,,,,0.866096866,authors,0.571626298,0.586166924,1.334410339,1.41643324,0.272645,author,,2
+5ac21bf2fffa760008741974,117726,MIT_AthleticTrainers,,3,,Badger Athletic Performance,,,,0.120750888,,,,,,,,,,,,,,,,,,0.550239,badger athlet perform,,2
+5ac21bf2fffa760008741975,117726,MIT_AthleticTrainers,,1,,Biostatistics,1.779405779,5.188378033,1.994301994,0.36428209,,,,,,,,,,,,1.779405779,Biostatistics,0.65,0.652173913,1.857142857,1.875,0.23698,biostatist,,2
+5ac21bf2fffa760008741976,117726,MIT_AthleticTrainers,,2,,Community Health,1.779405779,5.188378033,1.994301994,0.37645865,,,,,,,,,,,,1.779405779,Community Health,0.386666667,0.320754717,0.630434783,0.472222222,0.37831,commun health,,2
+5ac21bf2fffa760008741977,117726,MIT_AthleticTrainers,,2,,Family Medicine,1.779405779,5.188378033,1.994301994,0.386605784,,,,,,,,,,,,1.779405779,Family Medicine,0.509803922,0.585714286,1.04,1.413793103,0.382186,famili medicin,,2
+5ac21bf2fffa760008741978,117726,MIT_AthleticTrainers,,3,,Foundation Centennial Building,,,1.994301994,0.071029934,,,,,,,,,,,,,Foundation Centennial Building,,,,,0.515283,foundat centenni build,,2
+5ac21bf2fffa760008741979,117726,MIT_AthleticTrainers,,2,,Intercollegiate Athletics,2.551078551,5.624783662,1.994301994,0.339421613,,,,,,,,,,,,2.551078551,Intercollegiate Athletics,0.569444444,0.580246914,1.322580645,1.382352941,0.527948,intercollegi athlet,,2
+5ac21bf3fffa76000874197a,117726,MIT_AthleticTrainers,,1,,JLS,2.551078551,5.624783662,1.994301994,0.325722983,,,,,,,,,,,,2.551078551,JLS,0.727272727,0.526315789,2.666666667,1.111111111,0.245003,jl,,2
+5ac21bf3fffa76000874197b,117726,MIT_AthleticTrainers,,1,,Lack,,,,0.761035008,,,,,,,,,,,,,,0.515114873,0.529411765,1.06234414,1.125,0.233885,lack,,2
+5ac21bf3fffa76000874197c,117726,MIT_AthleticTrainers,,1,,MAB,1.779405779,5.188378033,1.994301994,0.389649924,,,,,,,,,,,,1.779405779,MAB,,,,,0.245956,mab,,2
+5ac21bf3fffa76000874197d,117726,MIT_AthleticTrainers,,2,,Nutrition Challenges,,,1.994301994,0,,,,,,,,,,,1,,nutrition challenges,,,,,0.595249,nutrit challeng,,2
+5ac21bf3fffa76000874197e,117726,MIT_AthleticTrainers,,1,,Orthopedics,2.551078551,5.624783662,1.994301994,0.423135464,,,,,,,,,,,,2.551078551,Orthopedics,0.69544741,0.668534828,2.283505155,2.016908213,0.233365,orthoped,,2
+5ac21bf3fffa76000874197f,117726,MIT_AthleticTrainers,,1,,RBP,1.779405779,5.188378033,1.994301994,0.392186707,,,,,,,,,,,,1.779405779,RBP,,,,,0.249386,rbp,,2
+5ac21bf4fffa760008741980,117726,MIT_AthleticTrainers,,1,,RD,,,1.994301994,0.080162354,,,,,,,,,,,,,RD,0.381679389,0.334645669,0.617283951,0.50295858,0.233756,rd,,2
+5ac21bf4fffa760008741981,117726,MIT_AthleticTrainers,,3,,Rachel B. Parks,,,1.994301994,0.090816844,,,,,,,,,,,,,Rachel B. Parks,,,,,0.50782,rachel b park,,2
+5ac21bf4fffa760008741982,117726,MIT_AthleticTrainers,,2,,Response rates,,,,0.845763572,,,,,,,,,,,,,,0.722222222,0.666666667,2.6,2,0.40671,respons rate,,2
+5ac21bf4fffa760008741983,117726,MIT_AthleticTrainers,,1,,Role,0.542124542,,1.994301994,0,,,,,,,,,,,1,0.542124542,Role,0.473439917,0.500336247,0.899118511,1.001345895,0.235054,role,,2
+5ac21bf5fffa760008741984,117726,MIT_AthleticTrainers,,3,,Sports Health Care,,,1.994301994,0.473871131,,,,,,,,,1,,,,Sports Health Care,0.909090909,0.92,10,11.5,0.550073,sport health care,,2
+5ac21bf5fffa760008741985,117726,MIT_AthleticTrainers,,1,,TJD,1.779405779,5.188378033,1.994301994,0.36732623,,,,,,,,,,,,1.779405779,TJD,,,,,0.255916,tjd,,2
+5ac21bf5fffa760008741986,117726,MIT_AthleticTrainers,,1,,XX,,,1.994301994,0.459157788,,1,,,,,,,,,,,XX,0.571428571,0.6,1.333333333,1.5,0.286329,xx,,2
+5ac21bf5fffa760008741987,117726,MIT_AthleticTrainers,,1,,difficulty,,,,0.687975647,,,,,,,,,,,,,,0.552845528,0.565762004,1.236363636,1.302884615,0.23139,difficulti,,2
+5ac21bf5fffa760008741988,117726,MIT_AthleticTrainers,,2,,nutrition behaviors,0.687016687,,1.424501425,0.99238965,,,,,,,,,,,,0.687016687,nutrition behaviors,0,0,0,0,0.47766,nutrit behavior,,2
+5ac21bf5fffa760008741989,117726,MIT_AthleticTrainers,,2,,nutrition information,,,,0.776763064,,,,,,,,,,,,,,0.075949367,0.065934066,0.082191781,0.070588235,0.568288,nutrit inform,,2
+5ac21bf6fffa76000874198a,117726,MIT_AthleticTrainers,,1,,paramount,,,,0.538305429,,,,,,,,,,,,,,0.649122807,0.655172414,1.85,1.9,0.235253,paramount,,2
+5ac21bf6fffa76000874198b,117726,MIT_AthleticTrainers,,1,,sources,,,,0.576864536,,,,,,,,,,,,,,0.464285714,0.433106576,0.866666667,0.764,0.230268,sourc,,2
+5ac21bf6fffa76000874198c,117726,MIT_AthleticTrainers,,2,,sports dietitians,0.553520554,,2.279202279,0.934550989,,,,,,,,,,,,0.553520554,sports dietitians,0.714285714,0.783333333,2.5,3.615384615,0.440649,sport dietitian,,2
+5ac21bf6fffa76000874198d,117726,MIT_AthleticTrainers,,1,,time,,,,0.756976154,,,,,,,,,,,,,,0.454479154,0.448318751,0.833110517,0.812640908,0.231407,time,,2
+5ac21bf7fffa76000874198e,117726,MIT_AthleticTrainers,,1,,variety,,,,0.582445459,,,,,,,,,,,,,,0.449559256,0.436450839,0.816725979,0.774468085,0.230289,varieti,,2
+5ac21bf7fffa76000874198f,117726,MIT_AthleticTrainers,,1,,weight,,,2.279202279,0.698630137,,,,,,,,,,,,,weight,0.457440967,0.423977769,0.843117409,0.736044108,0.232664,weight,,2
+5ac21bd4fffa760008741921,117730,MIT_AthleticTrainers,,2,1,injury prevention,0.601544966,,,0.502396932,,,,,,,,,,,,0.601544966,injury prevention,0.769485904,0.8,3.338129496,4,0.646683,injuri prevent,1,3
+5ac21bd4fffa760008741923,117730,MIT_AthleticTrainers,,3,1,emergency action plan,,,,0.347555129,,,,,,,,,,,,,,0.906666667,0.892473118,9.714285714,8.3,0.76852,emerg action plan,1,2
+5ac21bd5fffa76000874192d,117730,MIT_AthleticTrainers,,1,,Athletic,0.494545644,3.193173821,2.806122449,0.56232023,,,,,,,,,,,1,0.494545644,athlete,0.559528153,0.733049884,1.270292656,2.746018227,0.598154,athlet,,2
+5ac21bd6fffa760008741936,117730,MIT_AthleticTrainers,,2,,Mike Aldrich,0.618508273,3.757668712,1.785714286,0.593000959,,,,,,,,,,,,0.618508273,Mike Aldrich,,,,,0.687804,mike aldrich,,2
+5ac21bd6fffa76000874193a,117730,MIT_AthleticTrainers,,2,,Robyn Gust,,,1.785714286,0.311121764,,,,,,,,,,,,,Robyn Gust,1,1,1,1,0.691664,robyn gust,,2
+5ac21bd7fffa76000874193d,117730,MIT_AthleticTrainers,,1,,ankles,,,,0.792905081,,,,,,,,,,,,,,0.646864686,0.764796905,1.831775701,3.251644737,0.547926,ankl,,2
+5ac21bd7fffa760008741940,117730,MIT_AthleticTrainers,,1,,care,0.336656402,2.958937198,1.275510204,0.689357622,,,,,,,,,,,,0.336656402,care,0.547945205,0.524274243,1.212121212,1.102051415,0.559781,care,,2
+5ac21bd8fffa760008741942,117730,MIT_AthleticTrainers,,1,,court,,,1.275510204,0.158676894,,,,,,,,,,,,,court,0.397862233,0.320819113,0.660749507,0.472361809,0.54917,court,,2
+5ac21bd8fffa760008741943,117730,MIT_AthleticTrainers,,1,,environment,,,,0.421860019,,,,,,,,,,,,,,0.474813433,0.479546885,0.904085258,0.92140266,0.528399,environ,,2
+5ac21bd8fffa760008741944,117730,MIT_AthleticTrainers,,1,,field,,3.27540107,,0.714285714,,,,,,,,,,,,,field,0.522383635,0.457910812,1.093730602,0.844714897,0.559978,field,,2
+5ac21bd9fffa760008741945,117730,MIT_AthleticTrainers,,1,,game,,,,0.92042186,,,,,,,,,,,,,,0.490274197,0.439415428,0.96183908,0.783852161,0.530189,game,,2
+5ac21bd9fffa760008741946,117730,MIT_AthleticTrainers,,1,,guys,0.336656402,2.958937198,,0.658676894,,,,,,,,,,,,0.336656402,guys,0.426382979,0.343910547,0.743323442,0.524182404,0.529146,gui,,2
+5ac21bdafffa760008741947,117730,MIT_AthleticTrainers,,1,,hope,,,1.785714286,0.325503356,,,,,,,,,,,,,hope,0.434444444,0.426857585,0.768172888,0.744767049,0.526805,hope,,2
+5ac21bdafffa760008741948,117730,MIT_AthleticTrainers,,1,,people,0.4619239,,1.530612245,0.816395014,,,,,,,,,,,,0.4619239,people,0.441491955,0.422139472,0.790484505,0.730521383,0.582675,peopl,,2
+5ac21bdbfffa760008741949,117730,MIT_AthleticTrainers,,1,,percent,,2.674672489,,0.602588686,,,,,,,,,,,,,percent,0.498701299,0.499111374,0.994818653,0.996451804,0.534672,percent,,2
+5ac21bdbfffa76000874194a,117730,MIT_AthleticTrainers,,1,,place,,,,0.385426654,,,,,,,,,,,,,,0.421574519,0.415893271,0.728831169,0.712015889,0.527197,place,,2
+5ac21bdcfffa76000874194b,117730,MIT_AthleticTrainers,,1,,rehab,,,,0.243048897,,,,,,,,,,,,,,0.644090305,0.656060606,1.809701493,1.907488987,0.531956,rehab,,2
+5ac21bddfffa76000874194c,117730,MIT_AthleticTrainers,,1,,role,0.618508273,3.757668712,1.785714286,0.670661553,,,,,,,,,,,,0.618508273,role,0.473439917,0.500336247,0.899118511,1.001345895,0.528898,role,,2
+5ac21bddfffa76000874194d,117730,MIT_AthleticTrainers,,1,,sport,,,1.275510204,0.432885906,,,,,,,,,,,,,sport,0.626387625,0.704857797,1.676570872,2.388197251,0.52844,sport,,2
+5ac21bdffffa76000874194e,117730,MIT_AthleticTrainers,,1,,time,0.324912574,,2.806122449,0.219558965,,,,,,,,,,,,0.324912574,time,0.454479154,0.448318751,0.833110517,0.812640908,0.56727,time,,2
+5ac21bdffffa76000874194f,117730,MIT_AthleticTrainers,,1,,treatment,,,,0.702780441,,,,,,,,,,,,,,0.662143191,0.658440481,1.959833795,1.92774742,0.530131,treatment,,2
+5ac21bd0fffa76000874190e,117731,MIT_AthleticTrainers,,2,5,Sports Medicine,,,,0.947271386,,,,,,,,,,,,,,0.780293758,0.813253012,3.551532033,4.35483871,,sport medicin,6,2
+5ac21bd0fffa76000874190f,117731,MIT_AthleticTrainers,,3,1,certified athletic trainer,,,,0.593842183,,,,,,,,,,,,,,0.790170132,0.814285714,3.765765766,4.384615385,0.314347,certifi athlet trainer,1,2
+5ac21bd1fffa760008741910,117731,MIT_AthleticTrainers,,2,1,baseline testing,0.194122058,1.643444087,0.857449089,0.935471976,,,,,,,,,,,,0.194122058,baseline testing,0.950310559,0.968858131,19.125,31.11111111,0.351995,baselin test,1,3
+5ac21bd1fffa760008741911,117731,MIT_AthleticTrainers,,2,4,concussed athletes,,,,0.874446903,,,,,,,,,,,,,,0.981818182,0.984496124,54,63.5,0.393618,concuss athlet,4,2
+5ac21bd1fffa760008741912,117731,MIT_AthleticTrainers,,3,,Dr. Andy Gilliland,0.114541214,,,0.734328909,,,,,,,,,,,,0.114541214,Dr. Andy Gilliland,1,1,2,2,0.385141,dr andi gilliland,,2
+5ac21bd2fffa760008741913,117731,MIT_AthleticTrainers,,3,,MU Sports Medicine,0.194122058,1.643444087,0.857449089,0.947824484,,,,,,,,,,,,0.194122058,MU Sports Medicine,,,,,0.343349,mu sport medicin,,2
+5ac21bd2fffa760008741915,117731,MIT_AthleticTrainers,,3,,Marshall Sports Medicine,,,,0.919616519,,,,,,,,,,,,,,1,1,1,2,0.677333,marshal sport medicin,,2
+5ac21bd2fffa760008741917,117731,MIT_AthleticTrainers,,2,,Scott Depot,,,1.071811361,0.065265487,,,,,,,,,,,,,Scott Depot,,,,,0.254283,scott depot,,2
+5ac21bd2fffa760008741919,117731,MIT_AthleticTrainers,,2,,West Virginia,,,,0.569137168,,,,,,,,,,,,,,0.514563107,0.433862434,1.06,0.76635514,0.26244,west virginia,,2
+5ac21bd4fffa76000874191e,117731,MIT_AthleticTrainers,,1,,athletic,0.169511797,1.585981007,1.071811361,0.983222714,,,,,,,,,,,,0.169511797,athletes,0.559528153,0.733049884,1.270292656,2.746018227,0.424522,athlet,,2
+5ac21bd5fffa760008741925,117731,MIT_AthleticTrainers,,3,,baseline concussion testing,,,,0.886246313,,,,,,,,,,,1,,,0.891891892,0.882352941,8.25,7.5,0.948153,baselin concuss test,,2
+5ac21bd5fffa76000874192a,117731,MIT_AthleticTrainers,,1,,program,,,,0.824668142,,,,,,,,,,,,,,0.50204433,0.528566518,1.00821089,1.121190025,0.240024,program,,2
+5ac21bd6fffa760008741932,117731,MIT_AthleticTrainers,,2,,reaction time,0.151571607,1.57496725,,0.660951327,,,,,,,,,,,,0.151571607,reaction time,0.790909091,0.820224719,3.782608696,4.5625,0.26264,reaction time,,2
+5ac21bd6fffa760008741935,117731,MIT_AthleticTrainers,,3,,reporter Joshua Qualls,,,,0.009033923,,,,,,,,,,,,,,,,,,0.305145,report joshua quall,,2
+5ac21bd6fffa760008741939,117731,MIT_AthleticTrainers,,2,,sleep cycles,,,,0.24649705,,,,,,,,,,,,,,0.235294118,0.227272727,0.307692308,0.294117647,0.263604,sleep cycl,,2
+5ac21bd7fffa76000874193c,117731,MIT_AthleticTrainers,,2,,sleep deprivation,0.134781429,,,0.19229351,,,,,,,,,,,,0.134781429,sleep deprivation,0.4,0.516853933,0.666666667,1.069767442,0.267049,sleep depriv,,2
+5ac21bd2fffa760008741914,117735,MIT_AthleticTrainers,,2,1,head injuries,,,,0.232388664,,,,,,,,,,,,,,0.888663968,0.900891972,7.981818182,9.09,0.63933,head injuri,1,3
+5ac21bd2fffa760008741916,117735,MIT_AthleticTrainers,,3,1,athletic training program,,,,0.295870445,,,,,,,,,,,,,,0.768261965,0.785123967,3.315217391,3.653846154,0.663943,athlet train program,1,2
+5ac21bd2fffa760008741918,117735,MIT_AthleticTrainers,,2,2,sports injuries,,,,0.944291498,,,,,,,,,,,,,,0.890675241,0.907801418,8.147058824,9.846153846,0.745237,sport injuri,5,3
+5ac21bd2fffa76000874191a,117735,MIT_AthleticTrainers,,2,5,injury risk,0.078138136,1.056974735,,0.872712551,,,,,,,,,,,,0.078138136,injury risk,0.865248227,0.897959184,6.421052632,8.8,0.964126,injuri risk,7,3
+5ac21bd4fffa760008741920,117735,MIT_AthleticTrainers,,1,,Athlete,0.126801381,1.195102115,1.093439364,0,1,,,,,,,,,,1,0.126801381,athlete,0.559528153,0.733049884,1.270292656,2.746018227,0.876085,athlet,,2
+5ac21bd5fffa760008741927,117735,MIT_AthleticTrainers,,3,,Marisa A. Colston,,1.12267571,0.795228628,0.650202429,,,,,,,,,,,,,Marisa A. Colston,,,,,0.680101,marisa a colston,,2
+5ac21bd5fffa760008741929,117735,MIT_AthleticTrainers,,2,,Risk Analysis,0.122053747,1.331863889,0.894632207,0.88145749,,,,,,,,,1,,,0.122053747,Risk Analysis,0.8,0.8,4,4,0.787418,risk analysi,,2
+5ac21bd5fffa76000874192c,117735,MIT_AthleticTrainers,,3,,Unilateral Forefoot Squat,,,,0.540890688,,,,,,,,,,,,,,,,,,0.684595,unilater forefoot squat,,2
+5ac21bd6fffa76000874192f,117735,MIT_AthleticTrainers,,3,,athlete status indicators,,1.09450822,,0.20145749,,,,,,,,,,,,,athlete status indicators,,,,,0.75025,athlet statu indic,,2
+5ac21bd6fffa760008741931,117735,MIT_AthleticTrainers,,2,,injury likelihood,,,,0.329554656,,,,,,,,,,,,,,,,,,0.63773,injuri likelihood,,2
+5ac21bd6fffa760008741934,117735,MIT_AthleticTrainers,,2,,injury occurrence,0.079720681,1.038927724,,0.383319838,,,,,,,,,,,,0.079720681,injury occurrence,1,1,4,4,0.701279,injuri occurr,,2
+5ac21bd6fffa760008741938,117735,MIT_AthleticTrainers,,2,,performance data,,1.12267571,0.795228628,0.642753036,,,,,,,,,,,,,performance data,0.65,0.666666667,1.857142857,2,0.621912,perform data,,2
+5ac21bd3fffa76000874191b,117737,MIT_AthleticTrainers,,3,3,Athletic Trainers Association,,,,0.981186933,,,,,,,,,,,,,,0.869649805,0.872340426,6.671641791,6.833333333,0.624853,athlet trainer associ,4,2
+5ac21bd3fffa76000874191c,117737,MIT_AthleticTrainers,,3,1,National Athletic Trainers,,,,0.972122456,,,,,,,,,,,,,,0.876777251,0.886100386,7.115384615,7.779661017,0.566682,nation athlet trainer,1,2
+5ac21bd3fffa76000874191d,117737,MIT_AthleticTrainers,,3,1,School athletic trainers,,,,0.663075081,,,,,,,,,,,,,,0.827731092,0.850909091,4.804878049,5.707317073,0.55377,school athlet trainer,1,2
+5ac21bd4fffa76000874191f,117737,MIT_AthleticTrainers,,2,2,medical professionals,,,,0.943047717,,,,,,,,,,,,,,0.825095057,0.834375,4.717391304,5.037735849,0.47817,medic profession,2,2
+5ac21bd4fffa760008741922,117737,MIT_AthleticTrainers,,3,1,athletic training room,,,,0.166239097,,,,,,,,,,,,,,0.771428571,0.826732673,3.375,4.771428571,0.491782,athlet train room,1,2
+5ac21bd4fffa760008741924,117737,MIT_AthleticTrainers,,3,1,health care professionals,,,,0.547032666,,,,,,,,,,,,,,0.765060241,0.758293839,3.256410256,3.137254902,0.469319,health care profession,1,2
+5ac21bd5fffa760008741926,117737,MIT_AthleticTrainers,,2,,Aly Raisman,,,,0.465794424,1,,,,,,,,,,,,,0,0,0,0,0.466873,ali raisman,,2
+5ac21bd5fffa760008741928,117737,MIT_AthleticTrainers,,3,,Athletic Trainers Practice,,,,0.734992304,,,,,,,,,,,,,,0.575757576,0.575757576,1.357142857,1.357142857,0.603643,athlet trainer practic,,2
+5ac21bd5fffa76000874192b,117737,MIT_AthleticTrainers,,3,,Decatur Memorial Hospital,,,,0.581665812,,,,,,,,,,,,,,1,1,3,3,0.466201,decatur memori hospit,,2
+5ac21bd6fffa76000874192e,117737,MIT_AthleticTrainers,,3,,Eisenhower High School,,,,0.579100393,,,,,,,,,,,,,,0.5,0.25,1,0.333333333,0.477408,eisenhow high school,,2
+5ac21bd6fffa760008741930,117737,MIT_AthleticTrainers,,2,,Larry Nassar,,,,0.949033692,1,,,,,,,,,,,,,0.333333333,0.321428571,0.5,0.473684211,0.559895,larri nassar,,2
+5ac21bd6fffa760008741933,117737,MIT_AthleticTrainers,,2,,Nassar case,,,,0.744911921,,,,,,,,,,,,,,0,0,0,0,0.512898,nassar case,,2
+5ac21bd6fffa760008741937,117737,MIT_AthleticTrainers,,3,,President Donald Trump,,,,0.799982897,,,,,,,,,,,,,,0,0,0,0,0.4677,presid donald trump,,2
+5ac21bd7fffa76000874193b,117737,MIT_AthleticTrainers,,3,,Sen. Pamela Althoff,0.048528103,,0.483091787,0.714297931,,,,,,,,,,,,0.048528103,Sen. Pamela Althoff,,,,,0.468538,sen pamela althoff,,2
+5ac21bd7fffa76000874193e,117737,MIT_AthleticTrainers,,2,,Sexual Abuse,,,,0.804515136,,,,,,,,,,,,,,0.209302326,0.196261682,0.264705882,0.244186047,0.561931,sexual abus,,2
+5ac21bd7fffa76000874193f,117737,MIT_AthleticTrainers,,2,,USA Gymnastics,0.058014799,,0.483091787,0.873524885,,,,,,,,,,,,0.058014799,USA Gymnastics,0.454545455,0.433333333,0.833333333,0.764705882,0.567622,usa gymnast,,2
+5ac21bd7fffa760008741941,117737,MIT_AthleticTrainers,,2,,health care,,,,0.627928852,,,,,,,,,,,,,,0.573979592,0.517486663,1.347305389,1.072481572,0.502858,health care,,2
+5ac21c2dfffa760008741a42,117740,MIT_AthleticTrainers,,2,1,head injuries,,,,0.186824498,,,,,,,,,,,,,,0.888663968,0.900891972,7.981818182,9.09,0.643847,head injuri,1,3
+5ac21c2dfffa760008741a44,117740,MIT_AthleticTrainers,,3,1,athletic training program,,,,0.254074455,,,,,,,,,,,,,,0.768261965,0.785123967,3.315217391,3.653846154,0.669932,athlet train program,1,2
+5ac21c2dfffa760008741a46,117740,MIT_AthleticTrainers,,2,2,sports injuries,,,,0.940984732,,,,,,,,,,,,,,0.890675241,0.907801418,8.147058824,9.846153846,0.754506,sport injuri,5,3
+5ac21c2dfffa760008741a49,117740,MIT_AthleticTrainers,,2,5,injury risk,0.082173542,1.08391089,,0.865156974,,,,,,,,,,,,0.082173542,injury risk,0.865248227,0.897959184,6.421052632,8.8,0.977957,injuri risk,7,3
+5ac21c2efffa760008741a4d,117740,MIT_AthleticTrainers,,1,,Athlete,0.133349976,1.225558336,1.121304791,0,,,,,,,,,,,1,0.133349976,athlete,0.559528153,0.733049884,1.270292656,2.746018227,0.89629,athlet,,2
+5ac21c2efffa760008741a54,117740,MIT_AthleticTrainers,,3,,Marisa A. Colston,,1.151286203,0.815494393,0.629439012,,,,,,,,,,,,,Marisa A. Colston,,,,,0.688094,marisa a colston,,2
+5ac21c2efffa760008741a56,117740,MIT_AthleticTrainers,,2,,Risk Analysis,0.128357153,1.365805375,0.917431193,0.874420998,,,,,,,,,1,,,0.128357153,Risk Analysis,0.8,0.8,4,4,0.796576,risk analysi,,2
+5ac21c2efffa760008741a58,117740,MIT_AthleticTrainers,,3,,Unilateral Forefoot Squat,,,,0.513638703,,,,,,,,,,,,,,,,,,0.692561,unilater forefoot squat,,2
+5ac21c2ffffa760008741a5a,117740,MIT_AthleticTrainers,,3,,athlete status indicators,,1.122400886,,0.1540573,,,,,,,,,,,,,athlete status indicators,,,,,0.758304,athlet statu indic,,2
+5ac21c2ffffa760008741a5c,117740,MIT_AthleticTrainers,,2,,injury likelihood,,,,0.289758106,,,,,,,,,,,,,,,,,,0.640971,injuri likelihood,,2
+5ac21c2ffffa760008741a5d,117740,MIT_AthleticTrainers,,2,,injury occurrence,0.083837816,1.065403966,,0.346714702,,,,,,,,,,,,0.083837816,injury occurrence,1,1,4,4,0.707198,injuri occurr,,2
+5ac21c2ffffa760008741a5f,117740,MIT_AthleticTrainers,,2,,performance data,,1.151286203,0.815494393,0.621547435,,,,,,,,,,,,,performance data,0.65,0.666666667,1.857142857,2,0.625251,perform data,,2
+5ac21c3dfffa760008741a8d,117759,MIT_AthleticTrainers,,2,,Adolescent Cyclists,,,,0.168542906,1,,,,,,,,,,,,,,,,,0.507953,adolesc cyclist,,2
+5ac21c3dfffa760008741a8e,117759,MIT_AthleticTrainers,,3,,Adolescent Male Athletes,,,,0.187446899,1,,,,,,,,,,,,,,,,,0.521013,adolesc male athlet,,2
+5ac21c3dfffa760008741a90,117759,MIT_AthleticTrainers,,2,,Body Composition,,,0.614574188,0,,,,,,,,,,,1,,body composition,0.537634409,0.591240876,1.162790698,1.446428571,0.479611,bodi composit,,2
+5ac21c3efffa760008741a91,117759,MIT_AthleticTrainers,,2,,Bone Mass,,,,0.191588785,1,,,,,,,,,,,,,0.363636364,0.5625,0.571428571,1.285714286,0.565848,bone mass,,2
+5ac21c3efffa760008741a94,117759,MIT_AthleticTrainers,,3,,Dr Nicky Keay,,,,0.998406967,,,,,,,,,,1,,,,,,,,0.484943,dr nicki keai,,2
+5ac21c3efffa760008741a97,117759,MIT_AthleticTrainers,,2,,Elite Cyclists,,,,0.094095157,1,,,,,,,,,,,,,0.333333333,0.333333333,0.5,0.5,0.488266,elit cyclist,,2
+5ac21c3efffa760008741a99,117759,MIT_AthleticTrainers,,3,,French Male Cyclists,,,,0.056074766,1,,,,,,,,,,,,,,,,,0.603537,french male cyclist,,2
+5ac21c3efffa760008741a9a,117759,MIT_AthleticTrainers,,2,,Male Cyclists,,,,0.055331351,1,,,,,,,,,,1,,,0,0,0,0,0.942135,male cyclist,,2
+5ac21c3ffffa760008741a9c,117759,MIT_AthleticTrainers,,2,,Optimal Health,,,,0.008283772,1,,,,,,,,,,,,,0.533333333,0.516129032,1.142857143,1.066666667,0.478078,optim health,,2
+5ac21c3ffffa760008741a9f,117759,MIT_AthleticTrainers,,2,,body weight,,,0.877963126,0.875424809,,,,,,,,,,,,,body weight,0.519148936,0.523545706,1.079646018,1.098837209,0.720139,bodi weight,,2
+5ac21c3ffffa760008741aa2,117759,MIT_AthleticTrainers,,2,,bone acquisition,,,,0.830926083,1,,,,,,,,,,,,,,,,,0.500053,bone acquisit,,2
+5ac21c3ffffa760008741aa4,117759,MIT_AthleticTrainers,,2,,bone formation,,,,0.820836873,,,,,,,,,,,,,,0.888888889,0.866666667,8,6.5,0.499991,bone format,,2
+5ac21c3ffffa760008741aa7,117759,MIT_AthleticTrainers,,2,,bone health,0.042432313,,0.7023705,0.899001699,,,,,,,,,,,,0.042432313,bone health,0.6,0.566666667,1.5,1.307692308,0.787219,bone health,,2
+5ac21c3ffffa760008741aaa,117759,MIT_AthleticTrainers,,3,,bone mineral accumulation,,,,0.791100255,,,,,,,,,,,,,,,,,,0.579971,bone miner accumul,,2
