@@ -47,6 +47,8 @@ class RandomForest(Model):
         # grid of parameter combinations ran and provided the following optimized parameters:
         rf_random = RandomForestRegressor(bootstrap=True,min_samples_leaf=4,n_estimators=800,max_features='sqrt',min_samples_split=10,max_depth=50)
         rf_random.fit(X_train, y_train)
+        print X_train.head(1)
+        print 'sdsadsada',rf_random.feature_importances_
         predictions = rf_random.predict(X_test)
 
         y_pred = predictions

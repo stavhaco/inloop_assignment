@@ -1,5 +1,6 @@
 # coding=utf-8
 import numpy as np
+import pandas as pd
 
 class DataPreperation:
     '''
@@ -78,6 +79,35 @@ class DataPreperation:
         '''
         return data[cols]
 
+    @staticmethod
+    def prepare_data_to_test(df_test,model):
 
-
-
+        df_continues_test = DataPreperation.choose_features(df_test)
+        df_continues_test = DataPreperation.choose_features(df_continues_test,
+                                                            cols=['articleId', 'nGramCnt', 'scores.betweeness',
+                                                                  'scores.closeness', 'scores.degree',
+                                                                  'scores.fromBegScore',
+                                                                  'scores.relDocsRatio', 'scores.relVsIrrelDocs',
+                                                                  'scores.relVsIrrelTerms', 'scores.relevance',
+                                                                  ])
+        df_continues_test = DataPreperation.handleNAs_cont(df_continues_test)
+        df_binary_test = DataPreperation.choose_features(df_test,
+                                                         cols=['isCategory', 'scores.isInTag-a', 'scores.isInTag-b',
+                                                               'scores.isInTag-h1', 'scores.isInTag-h2',
+                                                               'scores.isInTag-h3', 'scores.isInTag-h4',
+                                                               'scores.isInTag-h5', 'scores.isInTag-h6',
+                                                               'scores.isInTag-i', 'scores.isInTag-strong',
+                                                               'scores.isInTitle'])
+        df_binary_test = DataPreperation.handleNAs_bin(df_binary_test)
+        # DataExplore.mean_by_group(df_binary)
+        df_binary_test = DataPreperation.choose_features(df_binary_test, cols=['scores.isInTitle'])
+        data_test = pd.concat([df_binary_test, df_continues_test], axis=1)
+        pred = model.predict(data_test)
+        y_pred_test = pred
+        y_pred_test[y_pred_test >= 0.5] = 1
+        y_pred_test[y_pred_test < 0.5] = 0
+        submit_idx = df_test.index.values.tolist()
+        df_id = pd.DataFrame(submit_idx,columns=['id'])
+        df_pred = pd.DataFrame(y_pred_test,columns=['isCategory'])
+        df_submit = pd.concat([df_id, df_pred], axis=1)
+        df_submit.to_csv('y_test_prediction.csv',index=False)
