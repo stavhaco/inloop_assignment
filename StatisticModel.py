@@ -1,4 +1,5 @@
 from sklearn.ensemble import RandomForestRegressor
+from sklearn.feature_selection import SelectFromModel
 from sklearn.metrics import confusion_matrix
 from sklearn import svm, grid_search, datasets
 from sklearn.model_selection import RandomizedSearchCV
@@ -20,7 +21,6 @@ class RandomForest(Model):
 
     def prediction_model(self,X_train,y_train,X_test,y_test):
         rf = RandomForestRegressor(random_state=42)
-        print(rf.get_params())
         # Number of trees in random forest
         n_estimators = [int(x) for x in np.linspace(start=200, stop=2000, num=10)]
         # Number of features to consider at every split
@@ -47,7 +47,18 @@ class RandomForest(Model):
         # grid of parameter combinations ran and provided the following optimized parameters:
         rf_random = RandomForestRegressor(bootstrap=True,min_samples_leaf=4,n_estimators=800,max_features='sqrt',min_samples_split=10,max_depth=50)
         rf_random.fit(X_train, y_train)
-        predictions = rf_random.predict(X_test)
+        # feature selection by gini values
+        print "--------feature importances--------"
+        for feature in zip(list(X_train.columns.values), rf_random.feature_importances_):
+            print(feature)
+        sfm = SelectFromModel(rf_random, threshold=0.1)
+        sfm.fit(X_train, y_train)
+
+        X_important_train = sfm.transform(X_train)
+        X_important_test = sfm.transform(X_test)
+        rf_important = RandomForestRegressor(bootstrap=True,min_samples_leaf=4,n_estimators=800,max_features='sqrt',min_samples_split=10,max_depth=50)
+        rf_important.fit(X_important_train, y_train)
+        predictions = rf_important.predict(X_important_test)
 
         y_pred = predictions
         y_pred[y_pred >= 0.5] = 1

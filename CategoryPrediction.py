@@ -20,7 +20,7 @@ def main():
     df_continues = DataPreperation.choose_features(df)
     DataExplore.difference_t_test(df_continues)
     DataExplore.check_corr(df_continues)
-    # removing feature according to correlation heat map
+    # removing feature according to correlation heat map, more features selection within the prediction model itself
     df_continues = DataPreperation.choose_features(df_continues,cols=['articleId','isCategory','nGramCnt', 'scores.betweeness', 'scores.closeness', 'scores.degree', 'scores.fromBegScore',
                     'scores.relDocsRatio', 'scores.relVsIrrelDocs',
                     'scores.relVsIrrelTerms', 'scores.relevance'])

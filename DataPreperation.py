@@ -14,9 +14,7 @@ class DataPreperation:
         :param test: test data
         :return: splited data to label and features
         '''
-        print train.shape, "train shape"
         X_train = train.drop(["isCategory"], axis=1)
-        print X_train.shape, "X_train shape"
         y_train = train["isCategory"]
         X_test =test.drop(["isCategory"], axis = 1)
         y_test = test["isCategory"]
