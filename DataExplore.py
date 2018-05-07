@@ -42,7 +42,6 @@ class DataExplore:
         df_significant = pd.DataFrame(columns=['feature','p_val'])
         row = 0
         for feature in headers:
-            print '-----------' + str(feature)
             sample_false = category_false[[str(feature)]]
             sample_true = category_true[[str(feature)]]
             t_stat, p_val = stats.ttest_ind(sample_false.dropna(), sample_true.dropna(), equal_var=False)
